@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cant_be_heaven_2000",
+  "title": "Can't Be Heaven",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003995",
+    "imdb": "tt0168563",
+    "tmdb": 278929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-05",
+  "runtime_minutes": 84
+}

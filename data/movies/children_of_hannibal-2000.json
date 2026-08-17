@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_hannibal_2000",
+  "title": "Children of Hannibal",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3744754",
+    "imdb": "tt0140046",
+    "tmdb": 239783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-28",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_complicity_2000",
+  "title": "Complicity",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5156662",
+    "imdb": "tt0188518",
+    "tmdb": 23751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-05",
+  "runtime_minutes": 99
+}

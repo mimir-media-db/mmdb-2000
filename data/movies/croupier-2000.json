@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_croupier_2000",
+  "title": "Croupier",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1141648",
+    "imdb": "tt0159382",
+    "tmdb": 12706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-28",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charlies_angels_2000",
+  "title": "Charlie's Angels",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q229599",
+    "imdb": "tt0160127",
+    "tmdb": 4327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-22",
+  "runtime_minutes": 98
+}

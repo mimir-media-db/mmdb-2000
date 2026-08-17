@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creatures_from_the_abyss_2000",
+  "title": "Creatures from the Abyss",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19810651",
+    "imdb": "tt0198913",
+    "tmdb": 42870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-08",
+  "runtime_minutes": 86
+}

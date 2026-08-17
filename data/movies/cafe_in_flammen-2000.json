@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_in_flammen_2000",
+  "title": "Café in Flammen",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2386407",
+    "imdb": "tt0242644",
+    "tmdb": 232342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-05",
+  "runtime_minutes": 102
+}

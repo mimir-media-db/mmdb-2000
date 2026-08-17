@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clerks_2000",
+  "title": "Clerks",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q747877",
+    "imdb": "tt0109445",
+    "tmdb": 2292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-19",
+  "runtime_minutes": 92
+}
