@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ladies_of_the_law",
+  "title": "Ladies of the Law",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3068294",
+    "imdb": "tt0250151",
+    "tmdb": 98559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 44
+}

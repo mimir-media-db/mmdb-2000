@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_hora_pico",
+  "title": "La Hora Pico",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5967001",
+    "imdb": "tt0380904",
+    "tmdb": 91323
+  },
+  "last_updated": "2026-08-17"
+}

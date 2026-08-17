@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lokatorzy",
+  "title": "Lokatorzy",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q11762467",
+    "imdb": "tt0271913"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 226
+}

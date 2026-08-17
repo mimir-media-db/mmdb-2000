@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_lady_yang",
+  "title": "The Legend of Lady Yang",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7746739",
+    "tmdb": 108222
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

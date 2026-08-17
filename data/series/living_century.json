@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_living_century",
+  "title": "The Living Century",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q15036268",
+    "imdb": "tt0263663",
+    "tmdb": 17989
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

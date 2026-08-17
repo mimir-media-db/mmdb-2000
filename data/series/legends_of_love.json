@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legends_of_love",
+  "title": "Legends of Love",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12967193",
+    "tmdb": 24445
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

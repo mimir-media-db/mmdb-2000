@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_people",
+  "title": "Little People",
+  "start_year": 1999,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q11766800",
+    "imdb": "tt0346326",
+    "tmdb": 110913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 130
+}

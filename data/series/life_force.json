@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_life_force",
+  "title": "Life Force",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q25183149",
+    "imdb": "tt0223639",
+    "tmdb": 73425
+  },
+  "last_updated": "2026-08-17"
+}

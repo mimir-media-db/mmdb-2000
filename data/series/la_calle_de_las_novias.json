@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_calle_de_las_novias",
+  "title": "La calle de las novias",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q920537",
+    "imdb": "tt0239163",
+    "tmdb": 38982
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}

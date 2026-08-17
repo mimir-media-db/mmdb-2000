@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lyricist_lounge_show",
+  "title": "The Lyricist Lounge Show",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7749236",
+    "imdb": "tt0239178",
+    "tmdb": 10550
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 1
+}

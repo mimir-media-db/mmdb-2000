@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_live_through_this",
+  "title": "Live Through This",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q6655617",
+    "imdb": "tt0222153"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

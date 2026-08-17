@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_revancha",
+  "title": "La Revancha",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q464055",
+    "imdb": "tt0278233",
+    "tmdb": 16797
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

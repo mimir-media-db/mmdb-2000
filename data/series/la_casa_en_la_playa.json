@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_casa_en_la_playa",
+  "title": "La casa en la playa",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q9019155",
+    "imdb": "tt0229886",
+    "tmdb": 207321
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

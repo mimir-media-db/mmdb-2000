@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_cooking",
+  "title": "Life & Cooking",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q13751543",
+    "imdb": "tt0383119",
+    "tmdb": 24281
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 360
+}
