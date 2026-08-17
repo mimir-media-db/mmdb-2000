@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_old_times",
+  "title": "Old Times",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12187126",
+    "imdb": "tt13281700",
+    "tmdb": 201178
+  },
+  "last_updated": "2026-08-17"
+}
