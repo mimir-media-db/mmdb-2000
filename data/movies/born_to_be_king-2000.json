@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_be_king_2000",
+  "title": "Born to Be King",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4912219",
+    "imdb": "tt0265739",
+    "tmdb": 48944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 118
+}

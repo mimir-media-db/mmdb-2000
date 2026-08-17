@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baller_blockin_2000",
+  "title": "Baller Blockin'",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4851604",
+    "imdb": "tt0315253",
+    "tmdb": 30598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

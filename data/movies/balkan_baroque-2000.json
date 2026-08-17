@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balkan_baroque_2000",
+  "title": "Balkan Baroque",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131929",
+    "imdb": "tt0261551",
+    "tmdb": 236320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_surf_2000",
+  "title": "Blood Surf",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2906961",
+    "imdb": "tt0226919",
+    "tmdb": 28346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 91
+}

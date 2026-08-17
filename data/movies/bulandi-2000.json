@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bulandi_2000",
+  "title": "Bulandi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4987214",
+    "imdb": "tt0230055",
+    "tmdb": 137164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 175
+}

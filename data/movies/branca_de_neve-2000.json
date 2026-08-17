@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_branca_de_neve_2000",
+  "title": "Branca de Neve",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2905937",
+    "imdb": "tt0267155",
+    "tmdb": 83225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 75
+}

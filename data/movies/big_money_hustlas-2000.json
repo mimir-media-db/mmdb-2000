@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_money_hustlas_2000",
+  "title": "Big Money Hustlas",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4906023",
+    "imdb": "tt0193007",
+    "tmdb": 15040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

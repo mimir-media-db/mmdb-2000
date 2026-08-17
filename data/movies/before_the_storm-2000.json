@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_storm_2000",
+  "title": "Before the Storm",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8866040",
+    "imdb": "tt0251091",
+    "tmdb": 69122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 104
+}

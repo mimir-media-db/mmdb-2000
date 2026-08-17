@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruiser_2000",
+  "title": "Bruiser",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2723328",
+    "imdb": "tt0212830",
+    "tmdb": 29512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 99
+}
