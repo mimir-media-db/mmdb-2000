@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_hat_2000",
+  "title": "Magic Hat",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126909347",
+    "tmdb": 1127380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-13"
+}

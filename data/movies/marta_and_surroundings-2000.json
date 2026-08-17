@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marta_and_surroundings_2000",
+  "title": "Marta and Surroundings",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80836993",
+    "imdb": "tt0232060",
+    "tmdb": 276943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-14",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mansfield_park_2000",
+  "title": "Mansfield Park",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q291180",
+    "imdb": "tt0178737",
+    "tmdb": 10399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-20",
+  "runtime_minutes": 107
+}

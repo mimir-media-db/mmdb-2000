@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marigolds_in_flower_2000",
+  "title": "Marigolds in Flower",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4503569",
+    "imdb": "tt0198041",
+    "tmdb": 898977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-06"
+}

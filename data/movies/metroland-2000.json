@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metroland_2000",
+  "title": "Metroland",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130297",
+    "imdb": "tt0119665",
+    "tmdb": 30950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-21",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_own_breathing_2000",
+  "title": "My own breathing",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240098",
+    "imdb": "tt2109213",
+    "tmdb": 257497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_the_mosquitoes_2000",
+  "title": "Mother! The Mosquitoes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q773010",
+    "imdb": "tt0235982",
+    "tmdb": 104519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-10",
+  "runtime_minutes": 80
+}

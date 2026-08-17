@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_of_purim_2000",
+  "title": "The Miracle of Purim",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9196996",
+    "imdb": "tt0370434",
+    "tmdb": 155871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-09",
+  "runtime_minutes": 57
+}

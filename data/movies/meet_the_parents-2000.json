@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_parents_2000",
+  "title": "Meet the Parents",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q623724",
+    "imdb": "tt0212338",
+    "tmdb": 1597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-06",
+  "runtime_minutes": 103
+}

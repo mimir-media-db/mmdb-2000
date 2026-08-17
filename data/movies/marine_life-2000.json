@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marine_life_2000",
+  "title": "Marine Life",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674603",
+    "imdb": "tt0218426",
+    "tmdb": 207463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-15"
+}
