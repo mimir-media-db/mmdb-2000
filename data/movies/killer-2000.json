@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_2000",
+  "title": "Killer",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3196625",
+    "imdb": "tt0284235",
+    "tmdb": 411815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

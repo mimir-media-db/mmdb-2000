@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khiladi_420_2000",
+  "title": "Khiladi 420",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11263801",
+    "imdb": "tt0255305",
+    "tmdb": 304755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 168
+}

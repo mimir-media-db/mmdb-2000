@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kakkai_siraginilae_2000",
+  "title": "Kakkai Siraginilae",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6349506",
+    "imdb": "tt0274595",
+    "tmdb": 281823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

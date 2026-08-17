@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kannan_varuvaan_2000",
+  "title": "Kannan Varuvaan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6363969",
+    "imdb": "tt0364454",
+    "tmdb": 78470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

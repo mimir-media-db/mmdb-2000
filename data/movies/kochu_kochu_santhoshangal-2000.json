@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kochu_kochu_santhoshangal_2000",
+  "title": "Kochu Kochu Santhoshangal",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13564490",
+    "imdb": "tt0273313",
+    "tmdb": 434965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

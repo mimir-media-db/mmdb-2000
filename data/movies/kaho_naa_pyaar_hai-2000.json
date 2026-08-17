@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaho_naa_pyaar_hai_2000",
+  "title": "Kaho Naa... Pyaar Hai",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1645003",
+    "imdb": "tt0234000",
+    "tmdb": 16987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 177
+}

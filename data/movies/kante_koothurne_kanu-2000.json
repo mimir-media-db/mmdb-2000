@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kante_koothurne_kanu_2000",
+  "title": "Kante Koothurne Kanu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10968568",
+    "imdb": "tt0292570"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_the_jungle_2000",
+  "title": "King of the Jungle",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1742088",
+    "imdb": "tt0177888",
+    "tmdb": 140511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 83
+}
