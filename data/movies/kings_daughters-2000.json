@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_daughters_2000",
+  "title": "The King's Daughters",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1407454",
+    "imdb": "tt0187474",
+    "tmdb": 76265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-16",
+  "runtime_minutes": 119
+}

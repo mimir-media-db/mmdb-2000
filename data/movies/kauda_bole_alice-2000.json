@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kauda_bole_alice_2000",
+  "title": "Kauda Bole Alice",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28843419",
+    "imdb": "tt7861974"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-14"
+}

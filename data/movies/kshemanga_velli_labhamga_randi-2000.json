@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kshemanga_velli_labhamga_randi_2000",
+  "title": "Kshemanga Velli Labhamga Randi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12994959",
+    "imdb": "tt1575593",
+    "tmdb": 267350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-04"
+}

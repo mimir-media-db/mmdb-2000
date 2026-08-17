@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_comedy_2000",
+  "title": "King of Comedy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2706517",
+    "imdb": "tt0188766",
+    "tmdb": 53168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-26",
+  "runtime_minutes": 85
+}
