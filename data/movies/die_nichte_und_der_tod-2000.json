@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_nichte_und_der_tod_2000",
+  "title": "Die Nichte und der Tod",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130134135",
+    "imdb": "tt0309913",
+    "tmdb": 377555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 87
+}

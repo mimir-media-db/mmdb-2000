@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_totale_therapie_2000",
+  "title": "Die totale Therapie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66134442",
+    "imdb": "tt0117945",
+    "tmdb": 92988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-24",
+  "runtime_minutes": 125
+}

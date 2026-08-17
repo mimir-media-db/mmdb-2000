@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_3_postrauber_2000",
+  "title": "Die 3 Posträuber",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62931165",
+    "imdb": "tt0185136",
+    "tmdb": 369186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-16"
+}

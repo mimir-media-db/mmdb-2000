@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devadoothan_2000",
+  "title": "Devadoothan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5266421",
+    "imdb": "tt0280599",
+    "tmdb": 240157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-25"
+}

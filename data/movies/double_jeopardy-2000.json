@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_jeopardy_2000",
+  "title": "Double Jeopardy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73651",
+    "imdb": "tt0150377",
+    "tmdb": 10398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-27",
+  "runtime_minutes": 105
+}

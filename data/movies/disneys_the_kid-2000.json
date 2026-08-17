@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disneys_the_kid_2000",
+  "title": "Disney's The Kid",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q280186",
+    "imdb": "tt0219854",
+    "tmdb": 4244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-07",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_einstein_des_sex_2000",
+  "title": "Der Einstein des Sex",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q874050",
+    "imdb": "tt0161542",
+    "tmdb": 47589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-16",
+  "runtime_minutes": 100
+}

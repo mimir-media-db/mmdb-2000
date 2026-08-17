@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_2000",
+  "title": "The Drop",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57979580",
+    "imdb": "tt0359190",
+    "tmdb": 597378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

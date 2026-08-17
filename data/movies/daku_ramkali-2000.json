@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_daku_ramkali_2000",
+  "title": "Daku Ramkali",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057011",
+    "imdb": "tt1027807"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-18"
+}

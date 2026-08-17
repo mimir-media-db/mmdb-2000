@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_digimon_the_movie_2000",
+  "title": "Digimon: The Movie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2609035",
+    "imdb": "tt0259974",
+    "tmdb": 20455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-06",
+  "runtime_minutes": 85
+}

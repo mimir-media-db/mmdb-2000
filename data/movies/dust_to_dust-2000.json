@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_to_dust_2000",
+  "title": "Dust to Dust",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7229910",
+    "imdb": "tt0262698",
+    "tmdb": 45123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-13",
+  "runtime_minutes": 96
+}
