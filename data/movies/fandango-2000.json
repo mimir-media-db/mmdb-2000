@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fandango_2000",
+  "title": "Fandango",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62003771",
+    "imdb": "tt0118911",
+    "tmdb": 291822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuball_ist_unser_leben_2000",
+  "title": "Fußball ist unser Leben",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1478224",
+    "imdb": "tt0225824",
+    "tmdb": 1612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-10",
+  "runtime_minutes": 93
+}

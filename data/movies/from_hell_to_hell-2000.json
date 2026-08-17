@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_hell_to_hell_2000",
+  "title": "From Hell to Hell",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4198238",
+    "imdb": "tt0116368",
+    "tmdb": 72628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-28",
+  "runtime_minutes": 90
+}

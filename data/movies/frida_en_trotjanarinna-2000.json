@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frida_en_trotjanarinna_2000",
+  "title": "Frida, en trotjänarinna",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10498981",
+    "imdb": "tt0248814",
+    "tmdb": 1022201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-10"
+}

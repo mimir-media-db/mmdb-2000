@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flintstones_in_viva_rock_vegas_2000",
+  "title": "The Flintstones in Viva Rock Vegas",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q939084",
+    "imdb": "tt0158622",
+    "tmdb": 889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-28",
+  "runtime_minutes": 87
+}

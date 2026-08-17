@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fassbinders_women_2000",
+  "title": "Fassbinder's Women",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5436846",
+    "imdb": "tt0265197",
+    "tmdb": 402221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-10",
+  "runtime_minutes": 90
+}

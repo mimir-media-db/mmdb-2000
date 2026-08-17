@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freak_city_2000",
+  "title": "Freak City",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103982607",
+    "imdb": "tt0176734",
+    "tmdb": 186133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-02",
+  "runtime_minutes": 104
+}

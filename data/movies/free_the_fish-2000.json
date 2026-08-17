@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_the_fish_2000",
+  "title": "Free the Fish",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3831630",
+    "imdb": "tt0206087",
+    "tmdb": 57583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-28",
+  "runtime_minutes": 90
+}
