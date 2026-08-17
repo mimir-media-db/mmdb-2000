@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sixth_sense_2000",
+  "title": "The Sixth Sense",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q183063",
+    "imdb": "tt0167404",
+    "tmdb": 745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-05",
+  "runtime_minutes": 107
+}

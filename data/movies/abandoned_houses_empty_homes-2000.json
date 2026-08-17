@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abandoned_houses_empty_homes_2000",
+  "title": "Abandoned Houses, Empty Homes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10728576",
+    "imdb": "tt0194027",
+    "tmdb": 414862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-11",
+  "runtime_minutes": 103
+}

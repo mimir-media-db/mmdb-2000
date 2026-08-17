@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_people_2000",
+  "title": "Beautiful People",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1750518",
+    "imdb": "tt0159272",
+    "tmdb": 61416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-05",
+  "runtime_minutes": 107
+}

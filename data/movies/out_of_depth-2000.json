@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_depth_2000",
+  "title": "Out of Depth",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118954443",
+    "imdb": "tt0179400",
+    "tmdb": 355470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

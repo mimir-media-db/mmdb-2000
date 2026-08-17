@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_die_or_not_2000",
+  "title": "To Die (Or Not)",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6024227",
+    "imdb": "tt0220651",
+    "tmdb": 47137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-21",
+  "runtime_minutes": 90
+}

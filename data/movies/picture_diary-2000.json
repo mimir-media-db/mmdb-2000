@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_picture_diary_2000",
+  "title": "Picture Diary",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939457",
+    "tmdb": 1362599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-15"
+}

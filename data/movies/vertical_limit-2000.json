@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vertical_limit_2000",
+  "title": "Vertical Limit",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1356402",
+    "imdb": "tt0190865",
+    "tmdb": 11678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-03",
+  "runtime_minutes": 119
+}

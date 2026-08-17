@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_liaison_pornographique_2000",
+  "title": "Une liaison pornographique",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151873",
+    "imdb": "tt0204709",
+    "tmdb": 46991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-13",
+  "runtime_minutes": 81
+}

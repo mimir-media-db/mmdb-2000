@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_in_a_lifetime_2000",
+  "title": "Once in a Lifetime",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4994539",
+    "imdb": "tt0265232",
+    "tmdb": 21842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-10",
+  "runtime_minutes": 106
+}

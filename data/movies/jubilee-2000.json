@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jubilee_2000",
+  "title": "Jubilee",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12391290",
+    "imdb": "tt0215880",
+    "tmdb": 291312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-13",
+  "runtime_minutes": 94
+}

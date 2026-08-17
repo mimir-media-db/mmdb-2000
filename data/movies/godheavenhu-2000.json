@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godheavenhu_2000",
+  "title": "god@heaven.hu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1400099",
+    "imdb": "tt0242160",
+    "tmdb": 199923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-02",
+  "runtime_minutes": 22
+}

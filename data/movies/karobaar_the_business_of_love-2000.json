@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karobaar_the_business_of_love_2000",
+  "title": "Karobaar: The Business of Love",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6373003",
+    "imdb": "tt0116748",
+    "tmdb": 579396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-15"
+}

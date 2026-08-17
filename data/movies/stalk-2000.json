@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stalk_2000",
+  "title": "Stalk",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120979864",
+    "imdb": "tt0238627",
+    "tmdb": 65869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

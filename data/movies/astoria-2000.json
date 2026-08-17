@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_astoria_2000",
+  "title": "Astoria",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115517208",
+    "imdb": "tt0179653",
+    "tmdb": 277408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

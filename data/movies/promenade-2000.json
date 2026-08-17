@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_promenade_2000",
+  "title": "Promenade",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19657295",
+    "imdb": "tt0297377",
+    "tmdb": 203984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-04"
+}

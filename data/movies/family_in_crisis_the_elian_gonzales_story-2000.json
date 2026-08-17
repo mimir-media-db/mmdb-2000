@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_in_crisis_the_elian_gonzales_story_2000",
+  "title": "A Family in Crisis: The Elian Gonzales Story",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89514912",
+    "imdb": "tt0255994",
+    "tmdb": 463051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-17",
+  "runtime_minutes": 90
+}

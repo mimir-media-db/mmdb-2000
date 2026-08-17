@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masterpiece_2000",
+  "title": "Masterpiece",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6048077",
+    "imdb": "tt0251910",
+    "tmdb": 115858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-27",
+  "runtime_minutes": 115
+}

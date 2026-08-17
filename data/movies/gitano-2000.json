@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gitano_2000",
+  "title": "Gitano",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478054",
+    "imdb": "tt0239432",
+    "tmdb": 177262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-01",
+  "runtime_minutes": 106
+}

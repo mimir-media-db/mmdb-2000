@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fleeting_passage_to_the_orient_2000",
+  "title": "A Fleeting Passage to the Orient",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45036541",
+    "imdb": "tt0254329",
+    "tmdb": 520512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-19"
+}

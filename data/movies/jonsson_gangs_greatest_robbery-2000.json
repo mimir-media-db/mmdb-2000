@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonsson_gangs_greatest_robbery_2000",
+  "title": "The Jonsson Gang's Greatest Robbery",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5225914",
+    "imdb": "tt0113510",
+    "tmdb": 37731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-03",
+  "runtime_minutes": 99
+}

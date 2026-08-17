@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lumumba_2000",
+  "title": "Lumumba",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3267400",
+    "imdb": "tt0246765",
+    "tmdb": 55551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-14",
+  "runtime_minutes": 115
+}

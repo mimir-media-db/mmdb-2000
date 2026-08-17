@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_rita_2000",
+  "title": "The Legend of Rita",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q653764",
+    "imdb": "tt0234805",
+    "tmdb": 10499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-16",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_jared_price_2000",
+  "title": "The Journey of Jared Price",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7743681",
+    "imdb": "tt0280791",
+    "tmdb": 60023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-31",
+  "runtime_minutes": 95
+}

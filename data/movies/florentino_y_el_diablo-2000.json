@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_florentino_y_el_diablo_2000",
+  "title": "Florentino y el diablo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26241332",
+    "imdb": "tt0113086",
+    "tmdb": 612666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-29"
+}

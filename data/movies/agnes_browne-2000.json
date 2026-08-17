@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agnes_browne_2000",
+  "title": "Agnes Browne",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q265984",
+    "imdb": "tt0160509",
+    "tmdb": 15506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-01",
+  "runtime_minutes": 92
+}

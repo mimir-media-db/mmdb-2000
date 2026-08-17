@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_it_takes_2000",
+  "title": "Whatever It Takes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2459296",
+    "imdb": "tt0202402",
+    "tmdb": 16222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-24",
+  "runtime_minutes": 94
+}

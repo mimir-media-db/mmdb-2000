@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faithless_2000",
+  "title": "Faithless",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1141481",
+    "imdb": "tt0157122",
+    "tmdb": 47595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-13",
+  "runtime_minutes": 155
+}

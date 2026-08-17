@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_dark_2000",
+  "title": "Return to Dark",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354321",
+    "imdb": "tt10978642",
+    "tmdb": 478315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-05"
+}

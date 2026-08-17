@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speakers_of_the_truth_2000",
+  "title": "Speakers of the Truth",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4312359",
+    "imdb": "tt0235346",
+    "tmdb": 607411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-06",
+  "runtime_minutes": 75
+}

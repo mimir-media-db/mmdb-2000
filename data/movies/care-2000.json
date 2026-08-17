@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_care_2000",
+  "title": "Care",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65117553",
+    "imdb": "tt0263181",
+    "tmdb": 396912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-08"
+}

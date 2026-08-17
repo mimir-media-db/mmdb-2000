@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_fait_un_beau_sourire_2000",
+  "title": "On fait un beau sourire",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130680314",
+    "imdb": "tt0246615",
+    "tmdb": 1413629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-26"
+}

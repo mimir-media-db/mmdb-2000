@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_torn_in_a_dream_2000",
+  "title": "Love Torn in a Dream",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691434",
+    "imdb": "tt0252335",
+    "tmdb": 140101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-28",
+  "runtime_minutes": 120
+}

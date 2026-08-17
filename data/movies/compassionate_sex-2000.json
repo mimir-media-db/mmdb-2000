@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compassionate_sex_2000",
+  "title": "Compassionate Sex",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19364035",
+    "imdb": "tt0208675",
+    "tmdb": 96892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-30",
+  "runtime_minutes": 109
+}

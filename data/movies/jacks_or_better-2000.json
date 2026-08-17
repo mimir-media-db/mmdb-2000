@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jacks_or_better_2000",
+  "title": "Jacks or Better",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764338",
+    "imdb": "tt0230350"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-25"
+}

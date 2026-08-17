@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_holiday_2000",
+  "title": "The Long Holiday",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25796179",
+    "imdb": "tt0233828",
+    "tmdb": 128599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-30",
+  "runtime_minutes": 145
+}

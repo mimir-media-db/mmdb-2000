@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_brother_where_art_thou_2000",
+  "title": "O Brother, Where Art Thou?",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q501874",
+    "imdb": "tt0190590",
+    "tmdb": 134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-13",
+  "runtime_minutes": 103
+}

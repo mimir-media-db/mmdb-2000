@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nee_enthan_vaanam_2000",
+  "title": "Nee Enthan Vaanam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12930053",
+    "imdb": "tt14787222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-22"
+}

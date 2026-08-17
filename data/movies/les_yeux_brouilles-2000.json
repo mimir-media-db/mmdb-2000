@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_yeux_brouilles_2000",
+  "title": "Les Yeux brouillés",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111136187",
+    "imdb": "tt0184056",
+    "tmdb": 505628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_of_the_lonely_heart_2000",
+  "title": "The Killer of the Lonely Heart",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330603",
+    "imdb": "tt11528758",
+    "tmdb": 880971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

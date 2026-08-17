@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_president_and_his_granddaughter_2000",
+  "title": "The President and His Granddaughter",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4376771",
+    "imdb": "tt0261197",
+    "tmdb": 434134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-01",
+  "runtime_minutes": 101
+}

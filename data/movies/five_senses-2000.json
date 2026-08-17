@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_senses_2000",
+  "title": "The Five Senses",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411392",
+    "imdb": "tt0168794",
+    "tmdb": 47585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-15",
+  "runtime_minutes": 104
+}

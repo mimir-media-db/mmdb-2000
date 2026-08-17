@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gran_paradiso_2000",
+  "title": "Gran Paradiso",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1542368",
+    "imdb": "tt0239441",
+    "tmdb": 90387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-09",
+  "runtime_minutes": 102
+}

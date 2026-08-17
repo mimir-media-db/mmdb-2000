@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tosca_a_tale_of_love_and_torture_2000",
+  "title": "Tosca: A Tale of Love and Torture",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123287646",
+    "imdb": "tt0433102",
+    "tmdb": 467477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

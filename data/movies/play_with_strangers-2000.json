@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_play_with_strangers_2000",
+  "title": "Play with Strangers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330620",
+    "imdb": "tt3179658",
+    "tmdb": 638359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_call_2000",
+  "title": "Phantom Call",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354323",
+    "imdb": "tt4000160",
+    "tmdb": 119865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-16"
+}

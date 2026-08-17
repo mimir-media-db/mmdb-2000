@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downhill_city_2000",
+  "title": "Downhill City",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11679791",
+    "imdb": "tt0196510",
+    "tmdb": 103855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-13",
+  "runtime_minutes": 103
+}

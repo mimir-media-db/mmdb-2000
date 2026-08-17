@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercy_2000",
+  "title": "Mercy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1472322",
+    "imdb": "tt0188055",
+    "tmdb": 5247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-26",
+  "runtime_minutes": 117
+}

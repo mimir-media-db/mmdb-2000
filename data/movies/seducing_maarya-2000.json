@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seducing_maarya_2000",
+  "title": "Seducing Maarya",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814742",
+    "imdb": "tt0213231",
+    "tmdb": 306275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-21"
+}

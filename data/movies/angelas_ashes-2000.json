@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angelas_ashes_2000",
+  "title": "Angela's Ashes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1211143",
+    "imdb": "tt0145653",
+    "tmdb": 10397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-14",
+  "runtime_minutes": 145
+}

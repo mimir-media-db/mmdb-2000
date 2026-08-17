@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_become_one_2000",
+  "title": "To Become One",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543368",
+    "imdb": "tt0390564",
+    "tmdb": 227862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 93
+}

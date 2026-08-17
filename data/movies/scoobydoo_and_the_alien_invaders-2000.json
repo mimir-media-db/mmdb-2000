@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_the_alien_invaders_2000",
+  "title": "Scooby-Doo and the Alien Invaders",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1878809",
+    "imdb": "tt0253658",
+    "tmdb": 20410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-03",
+  "runtime_minutes": 70
+}

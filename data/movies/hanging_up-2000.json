@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanging_up_2000",
+  "title": "Hanging Up",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q759712",
+    "imdb": "tt0162983",
+    "tmdb": 10385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-16",
+  "runtime_minutes": 94
+}

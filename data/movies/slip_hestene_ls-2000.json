@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slip_hestene_ls_2000",
+  "title": "Slip hestene løs",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12336076",
+    "imdb": "tt0221558",
+    "tmdb": 33443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-11",
+  "runtime_minutes": 98
+}

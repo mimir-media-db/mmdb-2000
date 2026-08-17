@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tears_2000",
+  "title": "Tears",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3516741",
+    "imdb": "tt0269642",
+    "tmdb": 161481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pooch_and_the_pauper_2000",
+  "title": "The Pooch and the Pauper",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25432918",
+    "imdb": "tt0170429",
+    "tmdb": 99754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-19",
+  "runtime_minutes": 88
+}

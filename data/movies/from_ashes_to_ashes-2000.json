@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_ashes_to_ashes_2000",
+  "title": "From Ashes To Ashes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330390",
+    "imdb": "tt1054063",
+    "tmdb": 331931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-26"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nemadis_des_annees_sans_nouvelles_2000",
+  "title": "Némadis, des années sans nouvelles",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59654824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 60
+}

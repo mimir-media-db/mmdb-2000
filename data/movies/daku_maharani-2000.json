@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daku_maharani_2000",
+  "title": "Daku Maharani",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057030",
+    "imdb": "tt3743464",
+    "tmdb": 694078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-17"
+}

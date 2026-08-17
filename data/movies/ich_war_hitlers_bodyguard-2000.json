@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_war_hitlers_bodyguard_2000",
+  "title": "Ich war Hitlers Bodyguard",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643389",
+    "imdb": "tt1260364",
+    "tmdb": 309826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 45
+}

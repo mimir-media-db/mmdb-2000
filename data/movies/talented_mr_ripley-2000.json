@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talented_mr_ripley_2000",
+  "title": "The Talented Mr. Ripley",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q390052",
+    "imdb": "tt0134119",
+    "tmdb": 1213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-17",
+  "runtime_minutes": 139
+}

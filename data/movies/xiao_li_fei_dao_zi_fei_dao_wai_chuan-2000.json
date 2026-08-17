@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xiao_li_fei_dao_zi_fei_dao_wai_chuan_2000",
+  "title": "Xiao Li fei dao zi Fei dao wai chuan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129697834",
+    "imdb": "tt0388416",
+    "tmdb": 773755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 84
+}

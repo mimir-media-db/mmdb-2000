@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_seuss_how_the_grinch_stole_christmas_2000",
+  "title": "Dr. Seuss' How the Grinch Stole Christmas",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131864",
+    "imdb": "tt0170016",
+    "tmdb": 8871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-08",
+  "runtime_minutes": 101
+}

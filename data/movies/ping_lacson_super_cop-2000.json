@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ping_lacson_super_cop_2000",
+  "title": "Ping Lacson: Super Cop",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129176588",
+    "imdb": "tt0347777",
+    "tmdb": 359764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-25",
+  "runtime_minutes": 100
+}

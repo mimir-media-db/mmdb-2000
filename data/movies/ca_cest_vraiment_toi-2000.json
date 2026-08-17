@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ca_cest_vraiment_toi_2000",
+  "title": "Ça, c'est vraiment toi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113130677",
+    "imdb": "tt0259753",
+    "tmdb": 806870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 122
+}

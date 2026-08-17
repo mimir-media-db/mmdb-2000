@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonssonligan_spelar_hogt_2000",
+  "title": "Jönssonligan spelar högt",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6321287",
+    "imdb": "tt0269410",
+    "tmdb": 37730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-25",
+  "runtime_minutes": 92
+}

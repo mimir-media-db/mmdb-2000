@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gleaners_and_i_2000",
+  "title": "The Gleaners and I",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2493884",
+    "imdb": "tt0247380",
+    "tmdb": 44379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-06",
+  "runtime_minutes": 82
+}

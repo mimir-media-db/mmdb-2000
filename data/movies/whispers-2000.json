@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whispers_2000",
+  "title": "Whispers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755977",
+    "imdb": "tt0280198",
+    "tmdb": 699833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-01"
+}

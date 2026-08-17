@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urbania_2000",
+  "title": "Urbania",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2331449",
+    "imdb": "tt0182508",
+    "tmdb": 77332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-24",
+  "runtime_minutes": 103
+}

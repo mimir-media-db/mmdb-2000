@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_riders_2000",
+  "title": "The Storm Riders",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2412673",
+    "imdb": "tt0165499",
+    "tmdb": 2137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-15",
+  "runtime_minutes": 128
+}

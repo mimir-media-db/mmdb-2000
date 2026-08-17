@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_the_affair_2000",
+  "title": "The End of the Affair",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1167725",
+    "imdb": "tt0172396",
+    "tmdb": 20024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-11",
+  "runtime_minutes": 97
+}

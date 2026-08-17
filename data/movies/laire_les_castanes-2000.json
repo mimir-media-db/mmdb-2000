@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_laire_les_castanes_2000",
+  "title": "L'aire les castañes",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136757824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 30
+}

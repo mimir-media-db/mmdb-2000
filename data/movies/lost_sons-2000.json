@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_sons_2000",
+  "title": "Lost Sons",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10468631",
+    "imdb": "tt0280881"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loser_2000",
+  "title": "Loser",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q954874",
+    "imdb": "tt0217630",
+    "tmdb": 10642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-21",
+  "runtime_minutes": 95
+}

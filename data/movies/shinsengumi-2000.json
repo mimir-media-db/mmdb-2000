@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shinsengumi_2000",
+  "title": "Shinsengumi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24867508",
+    "imdb": "tt0400817",
+    "tmdb": 763108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-15"
+}

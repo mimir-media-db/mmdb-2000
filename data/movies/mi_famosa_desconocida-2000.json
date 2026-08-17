@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_famosa_desconocida_2000",
+  "title": "Mi Famosa Desconocida",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012426",
+    "imdb": "tt0226137",
+    "tmdb": 576739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-18",
+  "runtime_minutes": 85
+}

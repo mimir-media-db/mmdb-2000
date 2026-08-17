@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_pie_2000",
+  "title": "American Pie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q220713",
+    "imdb": "tt0163651",
+    "tmdb": 2105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-06",
+  "runtime_minutes": 95
+}

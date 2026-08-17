@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_of_fancy_2000",
+  "title": "Flight of Fancy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28130231",
+    "imdb": "tt0190398",
+    "tmdb": 107277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-27",
+  "runtime_minutes": 96
+}

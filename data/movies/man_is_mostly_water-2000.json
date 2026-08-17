@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_is_mostly_water_2000",
+  "title": "A Man Is Mostly Water",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47063613",
+    "imdb": "tt0183488",
+    "tmdb": 414787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-12",
+  "runtime_minutes": 110
+}

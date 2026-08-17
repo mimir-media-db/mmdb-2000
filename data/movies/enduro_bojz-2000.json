@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enduro_bojz_2000",
+  "title": "Enduro Bojz",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11696926",
+    "imdb": "tt0258552",
+    "tmdb": 611172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-08"
+}

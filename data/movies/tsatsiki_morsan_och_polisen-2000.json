@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsatsiki_morsan_och_polisen_2000",
+  "title": "Tsatsiki, morsan och polisen",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1247293",
+    "imdb": "tt0171851",
+    "tmdb": 27119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-12",
+  "runtime_minutes": 91
+}

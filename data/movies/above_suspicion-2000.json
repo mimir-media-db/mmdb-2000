@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_above_suspicion_2000",
+  "title": "Above Suspicion",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110288987",
+    "imdb": "tt0219469",
+    "tmdb": 329269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_primavera_di_granito_2000",
+  "title": "Primavera di granito",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116820821",
+    "imdb": "tt2473052",
+    "tmdb": 537605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

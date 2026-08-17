@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christie_malrys_own_doubleentry_2000",
+  "title": "Christie Malry's Own Double-Entry",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107473646",
+    "imdb": "tt0213561",
+    "tmdb": 85740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 89
+}

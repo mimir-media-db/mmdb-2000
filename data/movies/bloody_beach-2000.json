@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_beach_2000",
+  "title": "Bloody Beach",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189017",
+    "imdb": "tt0291043",
+    "tmdb": 78452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_nearby_2000",
+  "title": "A Place Nearby",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658858",
+    "imdb": "tt0212215",
+    "tmdb": 221487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-21",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asfalto_2000",
+  "title": "Asfalto",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5708194",
+    "imdb": "tt0225100",
+    "tmdb": 167087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-04",
+  "runtime_minutes": 90
+}

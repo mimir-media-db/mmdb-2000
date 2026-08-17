@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_mere_bhai_2000",
+  "title": "Chal Mere Bhai",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059378",
+    "imdb": "tt0245825",
+    "tmdb": 161221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-05",
+  "runtime_minutes": 135
+}

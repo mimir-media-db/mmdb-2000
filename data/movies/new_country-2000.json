@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_country_2000",
+  "title": "The New Country",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7753557",
+    "imdb": "tt0188350",
+    "tmdb": 24955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-06",
+  "runtime_minutes": 232
+}

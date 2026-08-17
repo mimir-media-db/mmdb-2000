@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_first_lady_who_is_she_2000",
+  "title": "First Lady: Who Is She?",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113367779"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

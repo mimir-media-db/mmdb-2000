@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virginias_story_2000",
+  "title": "Virginia's Story",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140775190",
+    "imdb": "tt0416138",
+    "tmdb": 40280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-01",
+  "runtime_minutes": 90
+}

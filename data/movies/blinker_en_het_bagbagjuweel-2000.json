@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blinker_en_het_bagbagjuweel_2000",
+  "title": "Blinker en het Bagbag-juweel",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2280988",
+    "imdb": "tt0272010",
+    "tmdb": 143904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-20",
+  "runtime_minutes": 92
+}

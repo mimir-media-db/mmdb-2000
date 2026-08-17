@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_days_2000",
+  "title": "The Last Days",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q571014",
+    "imdb": "tt0174852",
+    "tmdb": 20595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-09",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anna_2000",
+  "title": "Anna",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12301736",
+    "imdb": "tt0243116",
+    "tmdb": 487096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-10",
+  "runtime_minutes": 86
+}

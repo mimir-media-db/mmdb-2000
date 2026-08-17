@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_that_screamed_2000",
+  "title": "The House That Screamed",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7740541",
+    "imdb": "tt0356706",
+    "tmdb": 146165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-11"
+}

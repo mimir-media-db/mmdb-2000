@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peixelua_2000",
+  "title": "Peixe-Lua",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113327694",
+    "imdb": "tt0191352",
+    "tmdb": 217298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

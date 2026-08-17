@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alle_kinder_brauchen_liebe_2000",
+  "title": "Alle Kinder brauchen Liebe",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45050562",
+    "imdb": "tt0270826",
+    "tmdb": 331467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_beat_the_hell_outta_me_2000",
+  "title": "Love Beat the Hell Outta Me",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118288351",
+    "imdb": "tt0183423",
+    "tmdb": 170074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 89
+}

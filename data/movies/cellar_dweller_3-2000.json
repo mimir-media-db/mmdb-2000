@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cellar_dweller_3_2000",
+  "title": "Cellar Dweller 3",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139821001",
+    "imdb": "tt0301090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-01",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jackie_bouvier_kennedy_onassis_2000",
+  "title": "Jackie Bouvier Kennedy Onassis",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9292644",
+    "imdb": "tt0250161",
+    "tmdb": 357682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kosto_2000",
+  "title": "Kosto",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674337",
+    "imdb": "tt11826730",
+    "tmdb": 1081753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-17"
+}

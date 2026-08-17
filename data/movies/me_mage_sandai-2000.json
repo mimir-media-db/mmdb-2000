@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_mage_sandai_2000",
+  "title": "Me Mage Sandai",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6802971",
+    "imdb": "tt0280927",
+    "tmdb": 485143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-09"
+}

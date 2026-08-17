@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heres_to_life_2000",
+  "title": "Here's to Life!",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28233397",
+    "imdb": "tt0207638",
+    "tmdb": 775132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-18"
+}

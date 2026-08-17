@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winslow_boy_2000",
+  "title": "The Winslow Boy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4378029",
+    "imdb": "tt0155388",
+    "tmdb": 28519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-19",
+  "runtime_minutes": 104
+}

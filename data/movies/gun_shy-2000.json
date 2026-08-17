@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_shy_2000",
+  "title": "Gun Shy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q636038",
+    "imdb": "tt0171356",
+    "tmdb": 29076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-04",
+  "runtime_minutes": 97
+}

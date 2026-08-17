@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plum_blossom_2000",
+  "title": "Plum Blossom",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16170762",
+    "imdb": "tt0266855",
+    "tmdb": 200995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-14",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_gingko_2000",
+  "title": "The Legend of Gingko",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q625730",
+    "imdb": "tt0297071",
+    "tmdb": 81566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-11"
+}

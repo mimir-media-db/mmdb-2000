@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_majestat_brauchen_sonne_2000",
+  "title": "Majestät brauchen Sonne",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1886058",
+    "imdb": "tt0205245",
+    "tmdb": 360044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-09",
+  "runtime_minutes": 105
+}

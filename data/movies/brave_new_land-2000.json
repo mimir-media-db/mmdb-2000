@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brave_new_land_2000",
+  "title": "Brave New Land",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4958370",
+    "imdb": "tt0263156",
+    "tmdb": 249756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-07",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mokus_2000",
+  "title": "Mokus",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750087",
+    "imdb": "tt0415164",
+    "tmdb": 781770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-31",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catfish_in_black_bean_sauce_2000",
+  "title": "Catfish in Black Bean Sauce",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5051991",
+    "imdb": "tt0162903",
+    "tmdb": 287821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-09"
+}

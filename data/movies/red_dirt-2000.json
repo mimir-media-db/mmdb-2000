@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_dirt_2000",
+  "title": "Red Dirt",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3422694",
+    "imdb": "tt0160749",
+    "tmdb": 87107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-17",
+  "runtime_minutes": 110
+}

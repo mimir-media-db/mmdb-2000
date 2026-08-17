@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luna_papa_2000",
+  "title": "Luna Papa",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570526",
+    "imdb": "tt0170259",
+    "tmdb": 10573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-31",
+  "runtime_minutes": 109
+}

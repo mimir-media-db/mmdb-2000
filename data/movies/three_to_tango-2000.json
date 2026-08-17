@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_to_tango_2000",
+  "title": "Three to Tango",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q665126",
+    "imdb": "tt0144640",
+    "tmdb": 10563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-01",
+  "runtime_minutes": 94
+}

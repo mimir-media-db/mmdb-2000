@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_i_wish_and_nothing_more_2000",
+  "title": "This I Wish and Nothing More",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52061481",
+    "imdb": "tt0243452",
+    "tmdb": 186423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-21",
+  "runtime_minutes": 80
+}

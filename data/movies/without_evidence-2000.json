@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_without_evidence_2000",
+  "title": "Without Evidence",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1505555",
+    "imdb": "tt0176326",
+    "tmdb": 23476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-12",
+  "runtime_minutes": 93
+}

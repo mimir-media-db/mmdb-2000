@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anyway_hes_definitely_dead_2000",
+  "title": "Anyway, He's Definitely Dead",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10527261",
+    "imdb": "tt0223490",
+    "tmdb": 230295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-28",
+  "runtime_minutes": 95
+}

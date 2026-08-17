@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orbiter_3_2000",
+  "title": "Orbiter 3",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11894278",
+    "imdb": "tt0196114",
+    "tmdb": 69755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-18"
+}

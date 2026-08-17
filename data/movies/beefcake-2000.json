@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beefcake_2000",
+  "title": "Beefcake",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2894921",
+    "imdb": "tt0187712",
+    "tmdb": 97537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-27",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dole_2000",
+  "title": "Dôlè",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5815987",
+    "imdb": "tt0270318",
+    "tmdb": 302057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-21",
+  "runtime_minutes": 79
+}

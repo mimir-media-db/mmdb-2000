@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fruen_pa_hamre_2000",
+  "title": "Fruen på Hamre",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12313082",
+    "imdb": "tt0212958",
+    "tmdb": 357005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-12",
+  "runtime_minutes": 90
+}

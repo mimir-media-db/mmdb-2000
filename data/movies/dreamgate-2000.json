@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamgate_2000",
+  "title": "Dreamgate",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28473907",
+    "imdb": "tt0359189"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-30",
+  "runtime_minutes": 90
+}

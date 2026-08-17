@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prymas_trzy_lata_z_tysiaca_2000",
+  "title": "Prymas. Trzy lata z tysiąca",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7253247",
+    "imdb": "tt0258897",
+    "tmdb": 36403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-10"
+}

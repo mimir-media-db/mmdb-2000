@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pecata_minuta_2000",
+  "title": "Pecata minuta",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6067893",
+    "imdb": "tt0181761",
+    "tmdb": 337834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-09",
+  "runtime_minutes": 95
+}

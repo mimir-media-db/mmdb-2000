@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_model_from_hell_2000",
+  "title": "Model from Hell",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354316",
+    "imdb": "tt0295445",
+    "tmdb": 333720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-09"
+}

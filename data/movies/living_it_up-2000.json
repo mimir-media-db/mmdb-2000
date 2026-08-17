@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_living_it_up_2000",
+  "title": "Living It Up",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1866497",
+    "imdb": "tt0253110",
+    "tmdb": 34704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-11",
+  "runtime_minutes": 109
+}

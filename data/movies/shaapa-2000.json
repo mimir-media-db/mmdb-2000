@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaapa_2000",
+  "title": "Shaapa",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7459949",
+    "imdb": "tt2093222",
+    "tmdb": 282565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-17"
+}

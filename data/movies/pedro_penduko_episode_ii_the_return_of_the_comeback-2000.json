@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pedro_penduko_episode_ii_the_return_of_the_comeback_2000",
+  "title": "Pedro Penduko, Episode II: The Return of the Comeback",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129715085",
+    "imdb": "tt0347757",
+    "tmdb": 290373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 130
+}

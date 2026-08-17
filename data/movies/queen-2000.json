@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_2000",
+  "title": "The Queen",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718014",
+    "imdb": "tt0250484",
+    "tmdb": 137064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-01"
+}

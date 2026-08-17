@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_home_sweet_home_2000",
+  "title": "Farewell, Home Sweet Home",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2567002",
+    "imdb": "tt0205725",
+    "tmdb": 4962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-12",
+  "runtime_minutes": 118
+}

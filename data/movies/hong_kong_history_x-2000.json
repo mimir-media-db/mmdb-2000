@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hong_kong_history_x_2000",
+  "title": "Hong Kong History X",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354313",
+    "imdb": "tt0318844",
+    "tmdb": 290759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-05"
+}

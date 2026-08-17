@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_girls_2000",
+  "title": "Cat girls",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138793037",
+    "imdb": "tt0388005",
+    "tmdb": 1051411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 127
+}

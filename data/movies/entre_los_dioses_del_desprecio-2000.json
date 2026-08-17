@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entre_los_dioses_del_desprecio_2000",
+  "title": "Entre los dioses del desprecio",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111578540",
+    "imdb": "tt0211353",
+    "tmdb": 402343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

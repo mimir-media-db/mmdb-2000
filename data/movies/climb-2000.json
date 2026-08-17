@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_climb_2000",
+  "title": "The Climb",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7723398",
+    "imdb": "tt0118865",
+    "tmdb": 156292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-16",
+  "runtime_minutes": 98
+}

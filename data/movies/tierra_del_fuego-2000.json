@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tierra_del_fuego_2000",
+  "title": "Tierra del Fuego",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7801130",
+    "imdb": "tt0192678",
+    "tmdb": 260779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-19"
+}

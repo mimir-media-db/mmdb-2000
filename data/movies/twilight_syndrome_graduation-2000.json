@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_syndrome_graduation_2000",
+  "title": "Twilight Syndrome: Graduation",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131710",
+    "imdb": "tt14438542",
+    "tmdb": 1117174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-23"
+}

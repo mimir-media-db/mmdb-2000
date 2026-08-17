@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_messenger_the_story_of_joan_of_arc_2000",
+  "title": "The Messenger: The Story of Joan of Arc",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1140257",
+    "imdb": "tt0151137",
+    "tmdb": 10047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-13",
+  "runtime_minutes": 158
+}

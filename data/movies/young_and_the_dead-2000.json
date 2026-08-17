@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_and_the_dead_2000",
+  "title": "The Young and the Dead",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741372",
+    "imdb": "tt0259747",
+    "tmdb": 292547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 91
+}

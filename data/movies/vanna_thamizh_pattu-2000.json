@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanna_thamizh_pattu_2000",
+  "title": "Vanna Thamizh Pattu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12988732",
+    "imdb": "tt14353332",
+    "tmdb": 821331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-17"
+}

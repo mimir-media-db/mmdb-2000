@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_pack_2000",
+  "title": "Double Pack",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47474864",
+    "imdb": "tt0202256",
+    "tmdb": 14393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-17"
+}

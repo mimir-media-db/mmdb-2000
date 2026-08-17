@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_janela_pro_cinema_2000",
+  "title": "De Janela pro Cinema",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117068526",
+    "imdb": "tt0276599",
+    "tmdb": 528750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-01",
+  "runtime_minutes": 14
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_baby_2000",
+  "title": "I Love You, Baby",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646504",
+    "imdb": "tt0240601",
+    "tmdb": 2126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_home_to_the_reich_with_bubi_2000",
+  "title": "Back home to the Reich, with Bubi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127264437",
+    "imdb": "tt0242690",
+    "tmdb": 558775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-12",
+  "runtime_minutes": 79
+}

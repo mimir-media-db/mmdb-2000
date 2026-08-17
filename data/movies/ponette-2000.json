@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ponette_2000",
+  "title": "Ponette",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1571941",
+    "imdb": "tt0117359",
+    "tmdb": 38523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-07",
+  "runtime_minutes": 97
+}

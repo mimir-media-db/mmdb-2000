@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mor_chhainha_bhuinya_2000",
+  "title": "Mor Chhainha Bhuinya",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126959986",
+    "imdb": "tt0277162",
+    "tmdb": 779288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-27",
+  "runtime_minutes": 118
+}

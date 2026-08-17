@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_shots_2000",
+  "title": "Body Shots",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q890074",
+    "imdb": "tt0172627",
+    "tmdb": 14484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-02",
+  "runtime_minutes": 106
+}

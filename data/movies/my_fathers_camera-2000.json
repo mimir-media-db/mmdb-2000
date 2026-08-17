@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_camera_2000",
+  "title": "My Father's Camera",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123287384",
+    "imdb": "tt0284333",
+    "tmdb": 439727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

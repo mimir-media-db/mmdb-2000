@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scratches_in_the_table_2000",
+  "title": "Scratches in the Table",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2621560",
+    "imdb": "tt0175878",
+    "tmdb": 99765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-24"
+}

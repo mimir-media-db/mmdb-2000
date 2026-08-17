@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manila_2000",
+  "title": "Manila",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50988290",
+    "imdb": "tt0215965",
+    "tmdb": 216353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-29"
+}

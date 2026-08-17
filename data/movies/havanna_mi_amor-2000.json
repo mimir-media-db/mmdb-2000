@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_havanna_mi_amor_2000",
+  "title": "Havanna mi amor",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50926264",
+    "imdb": "tt0245147",
+    "tmdb": 425188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-29",
+  "runtime_minutes": 82
+}

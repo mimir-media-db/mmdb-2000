@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_attraction_2000",
+  "title": "Dangerous Attraction",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116819393",
+    "imdb": "tt0228180",
+    "tmdb": 81277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 94
+}

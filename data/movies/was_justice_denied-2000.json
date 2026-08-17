@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_was_justice_denied_2000",
+  "title": "Was Justice Denied?",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7971294"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simply_irresistible_2000",
+  "title": "Simply Irresistible",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1263687",
+    "imdb": "tt0145893",
+    "tmdb": 16172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-13",
+  "runtime_minutes": 95
+}

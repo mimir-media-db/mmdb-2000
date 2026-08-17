@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_ja_zlodziej_2000",
+  "title": "To ja, zlodziej",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9358903",
+    "imdb": "tt0251434",
+    "tmdb": 108892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-16",
+  "runtime_minutes": 110
+}

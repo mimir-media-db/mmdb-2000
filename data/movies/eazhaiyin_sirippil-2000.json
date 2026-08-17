@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eazhaiyin_sirippil_2000",
+  "title": "Eazhaiyin Sirippil",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5331470",
+    "imdb": "tt8954404",
+    "tmdb": 280963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-04"
+}

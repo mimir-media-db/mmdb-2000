@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larche_de_noe_2000",
+  "title": "L'Arche de Noé",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106713263",
+    "imdb": "tt0231172",
+    "tmdb": 572527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-23",
+  "runtime_minutes": 57
+}

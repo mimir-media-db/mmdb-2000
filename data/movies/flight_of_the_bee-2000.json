@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_of_the_bee_2000",
+  "title": "Flight of the Bee",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3796286",
+    "imdb": "tt0177963",
+    "tmdb": 169771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-19",
+  "runtime_minutes": 90
+}

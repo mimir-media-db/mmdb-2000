@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trifling_with_fate_2000",
+  "title": "Trifling with Fate",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2190162",
+    "imdb": "tt0204698",
+    "tmdb": 607980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_on_the_mountain_the_kincaid_family_story_2000",
+  "title": "Miracle on the Mountain: The Kincaid Family Story",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29315967",
+    "imdb": "tt0244074",
+    "tmdb": 226340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-26",
+  "runtime_minutes": 90
+}

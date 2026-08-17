@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keep_away_from_the_window_2000",
+  "title": "Keep Away from the Window",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8711253",
+    "imdb": "tt0266441",
+    "tmdb": 156008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-17",
+  "runtime_minutes": 104
+}

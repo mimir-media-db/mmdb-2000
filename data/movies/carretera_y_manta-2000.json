@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carretera_y_manta_2000",
+  "title": "Carretera y manta",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80713354",
+    "imdb": "tt0242347",
+    "tmdb": 121524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-18",
+  "runtime_minutes": 87
+}
