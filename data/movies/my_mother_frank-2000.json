@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mother_frank_2000",
+  "title": "My Mother Frank",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946075",
+    "imdb": "tt0183550",
+    "tmdb": 160832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

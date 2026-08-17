@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_of_cain_2000",
+  "title": "The Mark of Cain",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7750355",
+    "imdb": "tt0288114",
+    "tmdb": 46897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 73
+}

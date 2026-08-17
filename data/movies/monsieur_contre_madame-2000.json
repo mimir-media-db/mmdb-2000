@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_contre_madame_2000",
+  "title": "Monsieur contre madame",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899198",
+    "imdb": "tt0205049",
+    "tmdb": 572577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 92
+}

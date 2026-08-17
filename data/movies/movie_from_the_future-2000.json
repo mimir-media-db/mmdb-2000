@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_movie_from_the_future_2000",
+  "title": "The Movie from the Future",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7752562",
+    "imdb": "tt0422773",
+    "tmdb": 1262860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

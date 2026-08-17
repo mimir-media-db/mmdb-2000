@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maximum_speed_2000",
+  "title": "Maximum Speed",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1914228",
+    "imdb": "tt0323211",
+    "tmdb": 356456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

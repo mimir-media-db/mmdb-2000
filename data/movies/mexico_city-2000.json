@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mexico_city_2000",
+  "title": "Mexico City",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6826195",
+    "imdb": "tt0219175",
+    "tmdb": 258562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 84
+}

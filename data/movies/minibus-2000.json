@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minibus_2000",
+  "title": "Mini-bus",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16690245",
+    "imdb": "tt9602302",
+    "tmdb": 481267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

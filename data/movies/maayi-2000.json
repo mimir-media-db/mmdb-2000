@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maayi_2000",
+  "title": "Maayi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6721308",
+    "imdb": "tt0328089",
+    "tmdb": 78621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

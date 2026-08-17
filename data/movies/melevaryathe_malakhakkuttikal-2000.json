@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melevaryathe_malakhakkuttikal_2000",
+  "title": "Melevaryathe Malakhakkuttikal",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6812202",
+    "imdb": "tt14980910",
+    "tmdb": 353023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

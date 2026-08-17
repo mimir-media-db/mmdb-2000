@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mister_butler_2000",
+  "title": "Mister Butler",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1088895",
+    "imdb": "tt0283496",
+    "tmdb": 312253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
