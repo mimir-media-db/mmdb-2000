@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monarch_of_the_glen",
+  "title": "Monarch of the Glen",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1438082",
+    "imdb": "tt0238793",
+    "tmdb": 2215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 64
+}

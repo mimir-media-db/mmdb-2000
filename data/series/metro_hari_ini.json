@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_metro_hari_ini",
+  "title": "Metro Hari Ini",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6824584",
+    "tmdb": 16103
+  },
+  "last_updated": "2026-08-17"
+}

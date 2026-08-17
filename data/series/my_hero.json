@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_hero",
+  "title": "My Hero",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q755233",
+    "imdb": "tt0233084",
+    "tmdb": 354
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 51
+}

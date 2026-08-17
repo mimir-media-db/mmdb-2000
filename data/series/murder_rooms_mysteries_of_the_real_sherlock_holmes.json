@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_rooms_mysteries_of_the_real_sherlock_holmes",
+  "title": "Murder Rooms: Mysteries of the Real Sherlock Holmes",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q2292435",
+    "imdb": "tt1333192",
+    "tmdb": 9676
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

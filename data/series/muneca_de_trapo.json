@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_muneca_de_trapo",
+  "title": "Muñeca de trapo",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q14755162",
+    "imdb": "tt0355112",
+    "tmdb": 293941
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 138
+}

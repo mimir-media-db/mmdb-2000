@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mona_lisas_smile",
+  "title": "Mona Lisa's Smile",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11344407",
+    "tmdb": 35920
+  },
+  "last_updated": "2026-08-17"
+}
