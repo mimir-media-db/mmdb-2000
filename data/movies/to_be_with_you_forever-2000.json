@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_be_with_you_forever_2000",
+  "title": "To Be with You Forever",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125346059",
+    "imdb": "tt1023143",
+    "tmdb": 673693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 120
+}

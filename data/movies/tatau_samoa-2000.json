@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tatau_samoa_2000",
+  "title": "Tatau Samoa",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23808830",
+    "imdb": "tt1567703"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-28"
+}

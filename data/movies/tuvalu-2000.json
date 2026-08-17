@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tuvalu_2000",
+  "title": "Tuvalu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q180489",
+    "imdb": "tt0162023",
+    "tmdb": 8076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-22",
+  "runtime_minutes": 92
+}

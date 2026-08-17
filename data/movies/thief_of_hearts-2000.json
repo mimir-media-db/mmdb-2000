@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thief_of_hearts_2000",
+  "title": "The Thief of Hearts",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135443688",
+    "imdb": "tt0924409",
+    "tmdb": 1170680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

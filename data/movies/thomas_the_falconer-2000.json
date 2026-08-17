@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_the_falconer_2000",
+  "title": "Thomas the Falconer",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472251",
+    "imdb": "tt0234058",
+    "tmdb": 137892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-09",
+  "runtime_minutes": 96
+}

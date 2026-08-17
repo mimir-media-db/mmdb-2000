@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_chinamen_with_a_double_bass_2000",
+  "title": "Three Chinamen with a Double Bass",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1256955",
+    "imdb": "tt0228239",
+    "tmdb": 128757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-16",
+  "runtime_minutes": 85
+}

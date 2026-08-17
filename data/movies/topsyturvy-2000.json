@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_topsyturvy_2000",
+  "title": "Topsy-Turvy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q769347",
+    "imdb": "tt0151568",
+    "tmdb": 46435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-11",
+  "runtime_minutes": 154
+}

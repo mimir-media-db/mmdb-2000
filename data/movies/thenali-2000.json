@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thenali_2000",
+  "title": "Thenali",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429479",
+    "imdb": "tt0262037",
+    "tmdb": 69577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-26"
+}
