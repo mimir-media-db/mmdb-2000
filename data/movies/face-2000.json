@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_face_2000",
+  "title": "Face",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5428310",
+    "imdb": "tt0256127",
+    "tmdb": 73138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 124
+}

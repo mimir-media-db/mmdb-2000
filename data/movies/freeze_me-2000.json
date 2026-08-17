@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freeze_me_2000",
+  "title": "Freeze Me",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3087385",
+    "imdb": "tt0266555",
+    "tmdb": 37998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}
