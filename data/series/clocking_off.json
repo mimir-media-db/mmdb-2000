@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clocking_off",
+  "title": "Clocking Off",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3272370",
+    "imdb": "tt0243183",
+    "tmdb": 12334
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 27
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cleopatra_2525",
+  "title": "Cleopatra 2525",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q867935",
+    "imdb": "tt0206476",
+    "tmdb": 5398
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

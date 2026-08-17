@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crush",
+  "title": "Crush",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5190195",
+    "imdb": "tt0243693",
+    "tmdb": 8097
+  },
+  "last_updated": "2026-08-17"
+}

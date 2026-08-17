@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chto_skazal_pokoynik",
+  "title": "Chto skazal pokoynik",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4517312",
+    "imdb": "tt0154065",
+    "tmdb": 52999
+  },
+  "last_updated": "2026-08-17"
+}

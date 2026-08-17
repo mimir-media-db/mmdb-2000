@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_close_and_true",
+  "title": "Close and True",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28408077",
+    "imdb": "tt0274246",
+    "tmdb": 30182
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_csi_crime_scene_investigation",
+  "title": "CSI: Crime Scene Investigation",
+  "start_year": 2000,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q117396",
+    "imdb": "tt0247082",
+    "tmdb": 1431
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 337
+}

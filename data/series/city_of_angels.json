@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_city_of_angels",
+  "title": "City of Angels",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5123562",
+    "imdb": "tt0204765",
+    "tmdb": 10951
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}
