@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_question_of_taste_2000",
+  "title": "A Question of Taste",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1406074",
+    "imdb": "tt0217119",
+    "tmdb": 74578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}
