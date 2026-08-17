@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aibou_tokyo_detective_duo",
+  "title": "AIBOU: Tokyo Detective Duo",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1054879",
+    "imdb": "tt1441480",
+    "tmdb": 40663
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 190
+}

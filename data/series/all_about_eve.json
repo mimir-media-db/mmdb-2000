@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_eve",
+  "title": "All About Eve",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q489440",
+    "imdb": "tt0313028",
+    "tmdb": 3262
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_latino",
+  "title": "Amor latino",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q1248957",
+    "imdb": "tt0281415",
+    "tmdb": 201080
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 100
+}

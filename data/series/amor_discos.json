@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_discos",
+  "title": "Amor Discos",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q20013084",
+    "imdb": "tt0258338"
+  },
+  "last_updated": "2026-08-17"
+}

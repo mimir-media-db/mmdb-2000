@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amantes_de_luna_llena",
+  "title": "Amantes de luna llena",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5671782",
+    "imdb": "tt0271276",
+    "tmdb": 40429
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 171
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_abscbn_headlines",
+  "title": "ABS-CBN Headlines",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4650376",
+    "tmdb": 6657
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_atze",
+  "title": "Alles Atze",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q49829",
+    "imdb": "tt0229102",
+    "tmdb": 31094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 63
+}
