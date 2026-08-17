@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_origins_of_the_21st_century_2000",
+  "title": "Origins of the 21st Century",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11371361",
+    "imdb": "tt0246866",
+    "tmdb": 215464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 13
+}

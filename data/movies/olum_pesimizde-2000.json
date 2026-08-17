@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olum_pesimizde_2000",
+  "title": "Ölüm Peşimizde",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6011435",
+    "imdb": "tt0899183",
+    "tmdb": 1507960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

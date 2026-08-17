@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_lady_of_the_assassins_2000",
+  "title": "Our Lady of the Assassins",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2758540",
+    "imdb": "tt0250809",
+    "tmdb": 44321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}

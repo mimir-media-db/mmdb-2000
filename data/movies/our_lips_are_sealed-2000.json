@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_lips_are_sealed_2000",
+  "title": "Our Lips Are Sealed",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1663705",
+    "imdb": "tt0270560",
+    "tmdb": 34729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}
