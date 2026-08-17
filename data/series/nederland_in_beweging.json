@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nederland_in_beweging",
+  "title": "Nederland in Beweging!",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13882218"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 23
+}

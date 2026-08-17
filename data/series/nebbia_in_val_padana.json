@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nebbia_in_val_padana",
+  "title": "Nebbia in Val Padana",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3874093",
+    "imdb": "tt0196274",
+    "tmdb": 85693
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

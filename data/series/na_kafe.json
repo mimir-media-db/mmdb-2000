@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_na_kafe",
+  "title": "Na kafe",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12287586"
+  },
+  "last_updated": "2026-08-17"
+}
