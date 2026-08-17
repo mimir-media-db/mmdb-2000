@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_golpe_bajo",
+  "title": "Golpe bajo",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5882494",
+    "imdb": "tt0249292",
+    "tmdb": 201523
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 220
+}

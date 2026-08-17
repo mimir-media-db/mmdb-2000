@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girlfriends",
+  "title": "Girlfriends",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1526781",
+    "imdb": "tt0247102",
+    "tmdb": 2398
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 172
+}

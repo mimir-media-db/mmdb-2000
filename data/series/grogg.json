@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_grogg",
+  "title": "Grogg",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q10508951",
+    "imdb": "tt0311233",
+    "tmdb": 65254
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

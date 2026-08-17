@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_grundys_wonders",
+  "title": "Grundy's Wonders",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5612103"
+  },
+  "last_updated": "2026-08-17"
+}

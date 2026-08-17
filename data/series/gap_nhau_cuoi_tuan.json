@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_gap_nhau_cuoi_tuan",
+  "title": "Gặp nhau cuối tuần",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10764279"
+  },
+  "last_updated": "2026-08-17"
+}

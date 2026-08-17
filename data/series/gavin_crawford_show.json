@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gavin_crawford_show",
+  "title": "The Gavin Crawford Show",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7735973",
+    "imdb": "tt0290354",
+    "tmdb": 664
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}
