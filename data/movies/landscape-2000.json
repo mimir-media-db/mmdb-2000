@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landscape_2000",
+  "title": "Landscape",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6485059",
+    "imdb": "tt0237386",
+    "tmdb": 271667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-21",
+  "runtime_minutes": 106
+}

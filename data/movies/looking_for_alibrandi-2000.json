@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_alibrandi_2000",
+  "title": "Looking for Alibrandi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q834367",
+    "imdb": "tt0217629",
+    "tmdb": 25069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-04",
+  "runtime_minutes": 103
+}

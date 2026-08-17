@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looker_2_femme_fatale_2000",
+  "title": "Looker 2: Femme Fatale",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140047635",
+    "imdb": "tt0336768",
+    "tmdb": 24437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-01",
+  "runtime_minutes": 105
+}

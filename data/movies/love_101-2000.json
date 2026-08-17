@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_101_2000",
+  "title": "Love 101",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690281",
+    "imdb": "tt0119495",
+    "tmdb": 51181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-14"
+}

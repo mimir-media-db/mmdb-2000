@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_oiseaux_en_cage_ne_peuvent_pas_voler_2000",
+  "title": "Les oiseaux en cage ne peuvent pas voler",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64849246",
+    "imdb": "tt0293469",
+    "tmdb": 366572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 3
+}

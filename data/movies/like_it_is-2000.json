@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_it_is_2000",
+  "title": "Like It Is",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5935899",
+    "imdb": "tt0146990",
+    "tmdb": 21001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-17",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_memoire_des_oiseaux_2000",
+  "title": "À la mémoire des oiseaux",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61818744"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 18
+}

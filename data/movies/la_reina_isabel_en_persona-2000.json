@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_reina_isabel_en_persona_2000",
+  "title": "La reina Isabel en persona",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81219040",
+    "imdb": "tt0271752",
+    "tmdb": 182491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-17",
+  "runtime_minutes": 91
+}
