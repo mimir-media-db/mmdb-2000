@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_between_the_lions",
+  "title": "Between the Lions",
+  "start_year": 2000,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4899195",
+    "imdb": "tt0242192",
+    "tmdb": 4302
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 130
+}

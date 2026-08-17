@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_baddiel_and_skinner_unplanned",
+  "title": "Baddiel and Skinner Unplanned",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4840692",
+    "imdb": "tt0249277",
+    "tmdb": 759
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 60
+}

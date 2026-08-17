@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bei_aller_liebe",
+  "title": "Bei aller Liebe",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62998643",
+    "imdb": "tt0221732",
+    "tmdb": 62684
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

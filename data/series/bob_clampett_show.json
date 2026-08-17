@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bob_clampett_show",
+  "title": "The Bob Clampett Show",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7718945",
+    "imdb": "tt0290344",
+    "tmdb": 3185
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

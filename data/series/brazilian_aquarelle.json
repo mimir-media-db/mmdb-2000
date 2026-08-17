@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_brazilian_aquarelle",
+  "title": "Brazilian Aquarelle",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q1973160",
+    "imdb": "tt0257293",
+    "tmdb": 88377
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 54
+}

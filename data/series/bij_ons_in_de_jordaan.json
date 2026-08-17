@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bij_ons_in_de_jordaan",
+  "title": "Bij ons in de Jordaan",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2071020",
+    "imdb": "tt0263126",
+    "tmdb": 319196
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

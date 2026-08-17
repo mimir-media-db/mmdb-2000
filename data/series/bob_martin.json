@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bob_martin",
+  "title": "Bob Martin",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4933271",
+    "imdb": "tt0243691",
+    "tmdb": 8791
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brigad",
+  "title": "BRIGAD",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2876627",
+    "imdb": "tt0217172",
+    "tmdb": 82036
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

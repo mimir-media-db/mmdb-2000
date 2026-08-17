@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_battlebots",
+  "title": "BattleBots",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4176031",
+    "imdb": "tt0259128",
+    "tmdb": 1286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 152
+}

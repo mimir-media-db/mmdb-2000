@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_banditskiy_peterburg_baron",
+  "title": "Banditskiy Peterburg: Baron",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4077261",
+    "imdb": "tt0245602",
+    "tmdb": 64281
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

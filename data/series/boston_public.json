@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boston_public",
+  "title": "Boston Public",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q894582",
+    "imdb": "tt0247081",
+    "tmdb": 127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 81
+}
