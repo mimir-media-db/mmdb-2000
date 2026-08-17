@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_frames_a_second_the_wto_in_seattle_2000_2000",
+  "title": "30 Frames a Second: The WTO in Seattle 2000",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634501",
+    "imdb": "tt0315734",
+    "tmdb": 293435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 73
+}
