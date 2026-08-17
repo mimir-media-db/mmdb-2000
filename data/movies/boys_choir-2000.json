@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_choir_2000",
+  "title": "Boy's Choir",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899947",
+    "imdb": "tt0233595",
+    "tmdb": 254050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-28",
+  "runtime_minutes": 129
+}

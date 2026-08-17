@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dju_2000",
+  "title": "Black Dju",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466126",
+    "imdb": "tt0137389",
+    "tmdb": 534233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-02"
+}

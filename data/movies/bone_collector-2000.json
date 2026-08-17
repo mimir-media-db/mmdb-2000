@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_collector_2000",
+  "title": "The Bone Collector",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q581178",
+    "imdb": "tt0145681",
+    "tmdb": 9481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-20",
+  "runtime_minutes": 118
+}

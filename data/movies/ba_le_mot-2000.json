@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_ba_le_mot_2000",
+  "title": "Ba lẻ một",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134350238"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

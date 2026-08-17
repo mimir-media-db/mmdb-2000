@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_2_2000",
+  "title": "Brother 2",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1528731",
+    "imdb": "tt0238883",
+    "tmdb": 20993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-05-11",
+  "runtime_minutes": 126
+}

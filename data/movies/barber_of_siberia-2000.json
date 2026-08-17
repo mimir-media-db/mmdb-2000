@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barber_of_siberia_2000",
+  "title": "The Barber of Siberia",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471628",
+    "imdb": "tt0120125",
+    "tmdb": 51300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-21",
+  "runtime_minutes": 180
+}

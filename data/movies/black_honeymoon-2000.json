@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_honeymoon_2000",
+  "title": "Black Honeymoon",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349575",
+    "imdb": "tt0380713",
+    "tmdb": 275575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-11"
+}

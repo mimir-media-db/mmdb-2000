@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bicentennial_man_2000",
+  "title": "Bicentennial Man",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q170250",
+    "imdb": "tt0182789",
+    "tmdb": 2277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-09",
+  "runtime_minutes": 131
+}

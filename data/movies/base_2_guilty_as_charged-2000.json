@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_base_2_guilty_as_charged_2000",
+  "title": "The Base 2: Guilty as Charged",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7715730",
+    "imdb": "tt0236013",
+    "tmdb": 104717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-22"
+}
