@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_floor_2000",
+  "title": "The 4th Floor",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q646429",
+    "imdb": "tt0167752",
+    "tmdb": 49745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-10",
+  "runtime_minutes": 90
+}
