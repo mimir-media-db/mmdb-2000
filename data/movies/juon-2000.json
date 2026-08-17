@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juon_2000",
+  "title": "Ju-on",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1537480",
+    "imdb": "tt0330500",
+    "tmdb": 32250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-11",
+  "runtime_minutes": 70
+}

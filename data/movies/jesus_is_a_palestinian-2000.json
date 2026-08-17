@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_is_a_palestinian_2000",
+  "title": "Jesus is a Palestinian",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2771452",
+    "imdb": "tt0143323",
+    "tmdb": 61751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-13",
+  "runtime_minutes": 110
+}

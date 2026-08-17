@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_do_it_2000",
+  "title": "Just Do It",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16191898",
+    "imdb": "tt0297163",
+    "tmdb": 489333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-28"
+}
