@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jackass",
+  "title": "Jackass",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q465616",
+    "imdb": "tt0264263",
+    "tmdb": 1795
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

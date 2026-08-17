@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeff_corwin_experience",
+  "title": "The Jeff Corwin Experience",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3283445",
+    "imdb": "tt0283746",
+    "tmdb": 11131
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}
