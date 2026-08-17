@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tvs_naughtiest_blunders",
+  "title": "TV's Naughtiest Blunders",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7672064",
+    "imdb": "tt0837050",
+    "tmdb": 4814
+  },
+  "last_updated": "2026-08-17"
+}

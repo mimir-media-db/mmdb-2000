@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_circus",
+  "title": "Totally Circus",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3995968",
+    "imdb": "tt0382496",
+    "tmdb": 9976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

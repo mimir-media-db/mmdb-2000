@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tha_se_do_sto_ploio",
+  "title": "Tha se do sto ploio",
+  "start_year": 1999,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q97467357",
+    "imdb": "tt0305126",
+    "tmdb": 50944
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 65
+}

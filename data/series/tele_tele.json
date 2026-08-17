@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tele_tele",
+  "title": "Tele tele",
+  "start_year": 1999,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12058558",
+    "imdb": "tt0281496",
+    "tmdb": 94747
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8
+}
