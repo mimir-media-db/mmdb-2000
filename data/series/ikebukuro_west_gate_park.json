@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ikebukuro_west_gate_park",
+  "title": "Ikebukuro West Gate Park",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q16847187",
+    "imdb": "tt0331389",
+    "tmdb": 4939
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

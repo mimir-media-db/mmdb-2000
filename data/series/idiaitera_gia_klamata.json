@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_idiaitera_gia_klamata",
+  "title": "Idiaitera gia klamata",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q109323054",
+    "imdb": "tt0292803",
+    "tmdb": 125660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

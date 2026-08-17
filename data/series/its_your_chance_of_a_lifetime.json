@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_your_chance_of_a_lifetime",
+  "title": "It's Your Chance of a Lifetime",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q682214",
+    "imdb": "tt0363347",
+    "tmdb": 4009
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

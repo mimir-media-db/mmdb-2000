@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_idol_ko_si_kap",
+  "title": "Idol Ko si Kap",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5989345",
+    "imdb": "tt0372070",
+    "tmdb": 1957
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 505
+}
