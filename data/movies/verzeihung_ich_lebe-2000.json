@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verzeihung_ich_lebe_2000",
+  "title": "„… Verzeihung, ich lebe“",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64596495",
+    "imdb": "tt0274302",
+    "tmdb": 645727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-20"
+}

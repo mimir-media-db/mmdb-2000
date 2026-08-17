@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vsem_privet_2000",
+  "title": "Vsem privet!",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574008",
+    "imdb": "tt27501625",
+    "tmdb": 1056773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

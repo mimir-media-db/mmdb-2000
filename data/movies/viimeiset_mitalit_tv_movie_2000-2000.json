@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viimeiset_mitalit_tv_movie_2000_2000",
+  "title": "Viimeiset mitalit (TV Movie 2000)",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113381868",
+    "imdb": "tt0271865"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-18",
+  "runtime_minutes": 78
+}
