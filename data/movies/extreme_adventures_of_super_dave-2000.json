@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_extreme_adventures_of_super_dave_2000",
+  "title": "The Extreme Adventures of Super Dave",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7732900",
+    "imdb": "tt0144096",
+    "tmdb": 88007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

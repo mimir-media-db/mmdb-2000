@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_night_2000",
+  "title": "Edge of Night",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16836543",
+    "imdb": "tt0268896",
+    "tmdb": 251779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

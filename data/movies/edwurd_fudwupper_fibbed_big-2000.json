@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edwurd_fudwupper_fibbed_big_2000",
+  "title": "Edwurd Fudwupper Fibbed Big",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4092977",
+    "imdb": "tt0255980",
+    "tmdb": 1069669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eat_me_2000",
+  "title": "Eat Me!",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3180198",
+    "imdb": "tt0148095",
+    "tmdb": 1620260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
