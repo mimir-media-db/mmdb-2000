@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_brendan_met_trudy_2000",
+  "title": "When Brendan Met Trudy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2924414",
+    "imdb": "tt0220157",
+    "tmdb": 49929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-12",
+  "runtime_minutes": 95
+}

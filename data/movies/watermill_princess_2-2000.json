@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_watermill_princess_2_2000",
+  "title": "The Watermill Princess 2",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12047019",
+    "imdb": "tt0232465",
+    "tmdb": 82717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-03",
+  "runtime_minutes": 110
+}
