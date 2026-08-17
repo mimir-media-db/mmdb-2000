@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_lies_beneath_2000",
+  "title": "What Lies Beneath",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570481",
+    "imdb": "tt0161081",
+    "tmdb": 2655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 124
+}

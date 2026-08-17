@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilder_2000",
+  "title": "Wilder",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2486132",
+    "imdb": "tt0246332",
+    "tmdb": 60703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_of_the_gun_2000",
+  "title": "The Way of the Gun",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1693691",
+    "imdb": "tt0202677",
+    "tmdb": 1619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 114
+}

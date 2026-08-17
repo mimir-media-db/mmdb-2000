@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winner_takes_all_2000",
+  "title": "Winner Takes All",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8025603",
+    "imdb": "tt0380290",
+    "tmdb": 497542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

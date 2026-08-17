@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_ghost_ii_the_fear_2000",
+  "title": "A Wicked Ghost II: The Fear",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660643",
+    "imdb": "tt0345885",
+    "tmdb": 108811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 77
+}
