@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_dernier_plan_2000",
+  "title": "Le Dernier Plan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222171",
+    "imdb": "tt0228205",
+    "tmdb": 607393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_correction_2000",
+  "title": "Love Correction",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15930749",
+    "imdb": "tt0348476",
+    "tmdb": 637813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

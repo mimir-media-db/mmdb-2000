@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_donna_del_delitto_2000",
+  "title": "La donna del delitto",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822101",
+    "imdb": "tt0329013",
+    "tmdb": 135311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}
