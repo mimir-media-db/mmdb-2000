@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pajama_party",
+  "title": "Pajama Party",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q7125276",
+    "imdb": "tt0243720",
+    "tmdb": 35314
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_palace_of_desire",
+  "title": "Palace of Desire",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7126226",
+    "imdb": "tt2197774",
+    "tmdb": 52457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

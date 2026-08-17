@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_preston_pig",
+  "title": "Preston Pig",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7241969",
+    "imdb": "tt0260647",
+    "tmdb": 13478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

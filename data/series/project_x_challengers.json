@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_project_x_challengers",
+  "title": "Project X: Challengers",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q11336027",
+    "tmdb": 124925
+  },
+  "last_updated": "2026-08-17"
+}

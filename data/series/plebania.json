@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_plebania",
+  "title": "Plebania",
+  "start_year": 2000,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q608711",
+    "imdb": "tt0389670",
+    "tmdb": 3703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 1829
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pay_and_display",
+  "title": "Pay and Display",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7156600",
+    "imdb": "tt0392984",
+    "tmdb": 2013
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
