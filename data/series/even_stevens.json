@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_even_stevens",
+  "title": "Even Stevens",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2078546",
+    "imdb": "tt0206511",
+    "tmdb": 3200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

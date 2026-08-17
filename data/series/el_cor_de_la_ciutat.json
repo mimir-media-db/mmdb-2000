@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_cor_de_la_ciutat",
+  "title": "El Cor de la Ciutat",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3285185",
+    "imdb": "tt0338590",
+    "tmdb": 14743
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 1906
+}

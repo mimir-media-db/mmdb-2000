@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_esplendor",
+  "title": "Esplendor",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10275115",
+    "imdb": "tt0233050",
+    "tmdb": 126270
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ed",
+  "title": "Ed",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q930797",
+    "imdb": "tt0247091",
+    "tmdb": 1926
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 83
+}

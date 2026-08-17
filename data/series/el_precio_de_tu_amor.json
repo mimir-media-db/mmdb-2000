@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_precio_de_tu_amor",
+  "title": "El precio de tu amor",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5826210",
+    "imdb": "tt0244358",
+    "tmdb": 227365
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}
