@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_war_next_door",
+  "title": "The War Next Door",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3523281",
+    "imdb": "tt0247108",
+    "tmdb": 15521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

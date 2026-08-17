@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_weakest_link",
+  "title": "Weakest Link",
+  "start_year": 2000,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q327762",
+    "imdb": "tt0306299",
+    "tmdb": 110820
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

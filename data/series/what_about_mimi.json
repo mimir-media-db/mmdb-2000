@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_what_about_mimi",
+  "title": "What About Mimi?",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1936092",
+    "imdb": "tt0289035",
+    "tmdb": 13237
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

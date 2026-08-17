@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_watashi_no_aozora",
+  "title": "Watashi no Aozora",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11594636",
+    "imdb": "tt1697474",
+    "tmdb": 42978
+  },
+  "last_updated": "2026-08-17"
+}
