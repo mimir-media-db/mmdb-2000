@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nisheedhini_2000",
+  "title": "Nisheedhini",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573347",
+    "imdb": "tt0481146"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_call_of_the_wild",
+  "title": "Call of the Wild",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3650821",
+    "imdb": "tt0221734",
+    "tmdb": 21624
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

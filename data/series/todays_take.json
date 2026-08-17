@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_todays_take",
+  "title": "Today's Take",
+  "start_year": 2000,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q124372191"
+  },
+  "last_updated": "2026-08-17"
+}

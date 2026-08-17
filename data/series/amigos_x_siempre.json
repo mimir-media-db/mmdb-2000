@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amigos_x_siempre",
+  "title": "Amigos x siempre",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3292788",
+    "imdb": "tt0224827",
+    "tmdb": 12703
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 115
+}

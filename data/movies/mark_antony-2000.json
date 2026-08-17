@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_antony_2000",
+  "title": "Mark Antony",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6766574",
+    "imdb": "tt0282723",
+    "tmdb": 387333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

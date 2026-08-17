@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_tackle_2000",
+  "title": "The Wedding Tackle",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774075",
+    "imdb": "tt0249238",
+    "tmdb": 30571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

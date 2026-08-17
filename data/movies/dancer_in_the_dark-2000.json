@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancer_in_the_dark_2000",
+  "title": "Dancer in the Dark",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110365",
+    "imdb": "tt0168629",
+    "tmdb": 16
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 140
+}

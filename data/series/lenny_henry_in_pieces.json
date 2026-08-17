@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lenny_henry_in_pieces",
+  "title": "Lenny Henry in Pieces",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16996151",
+    "imdb": "tt0272697",
+    "tmdb": 12491
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

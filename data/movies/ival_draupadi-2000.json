@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ival_draupadi_2000",
+  "title": "Ival Draupadi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572252",
+    "imdb": "tt42898298"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

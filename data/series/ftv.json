@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ftv",
+  "title": "Ftv",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q12686685"
+  },
+  "last_updated": "2026-08-17"
+}

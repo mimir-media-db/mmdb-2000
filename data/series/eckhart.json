@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eckhart",
+  "title": "Eckhart",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3047042",
+    "imdb": "tt0268075",
+    "tmdb": 26116
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

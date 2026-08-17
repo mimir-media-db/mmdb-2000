@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_ailes_du_dragon",
+  "title": "Les Ailes du dragon",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q3230432",
+    "imdb": "tt0381728",
+    "tmdb": 158938
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

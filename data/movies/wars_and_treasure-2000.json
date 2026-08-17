@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wars_and_treasure_2000",
+  "title": "Wars and Treasure",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18211228",
+    "imdb": "tt7201596",
+    "tmdb": 369606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

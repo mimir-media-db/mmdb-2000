@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_novel_mokminsimseo",
+  "title": "Novel Mokminsimseo",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11251968"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

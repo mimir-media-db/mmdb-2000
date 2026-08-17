@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_son_2000",
+  "title": "The Perfect Son",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756707",
+    "imdb": "tt0230631",
+    "tmdb": 294878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 89
+}

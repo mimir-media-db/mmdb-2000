@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_1000_song_challenge",
+  "title": "1000 Song Challenge",
+  "start_year": 2000,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16180866",
+    "tmdb": 300167
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 299
+}

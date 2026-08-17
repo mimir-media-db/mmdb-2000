@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_list_2000",
+  "title": "The List",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17266118",
+    "imdb": "tt0217621",
+    "tmdb": 197357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 92
+}

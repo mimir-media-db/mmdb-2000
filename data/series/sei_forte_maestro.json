@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sei_forte_maestro",
+  "title": "Sei forte, maestro",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3954600",
+    "imdb": "tt0257320",
+    "tmdb": 41659
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chicken_rice_war_2000",
+  "title": "Chicken Rice War",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5096268",
+    "imdb": "tt0266407",
+    "tmdb": 101599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

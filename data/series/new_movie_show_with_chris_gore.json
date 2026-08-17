@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_movie_show_with_chris_gore",
+  "title": "The New Movie Show with Chris Gore",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7753683",
+    "imdb": "tt0307793",
+    "tmdb": 31802
+  },
+  "last_updated": "2026-08-17"
+}

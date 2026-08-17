@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_foolish_love",
+  "title": "Foolish Love",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12596426",
+    "tmdb": 128868
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bandit_petersburg",
+  "title": "Bandit Petersburg",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4077271",
+    "imdb": "tt0394150",
+    "tmdb": 64281
+  },
+  "last_updated": "2026-08-17"
+}

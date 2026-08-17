@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maa_annayya_2000",
+  "title": "Maa Annayya",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13005969",
+    "imdb": "tt15838228",
+    "tmdb": 1573495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

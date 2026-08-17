@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_quem_quer_ser_milionario",
+  "title": "Quem Quer Ser Milionário?",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108886877",
+    "imdb": "tt0793351"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

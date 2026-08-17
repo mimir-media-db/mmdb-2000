@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_our_dreams_2000",
+  "title": "Beyond Our Dreams",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17354886",
+    "imdb": "tt0234426",
+    "tmdb": 572636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

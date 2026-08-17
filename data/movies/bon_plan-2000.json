@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bon_plan_2000",
+  "title": "Bon plan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18578256",
+    "imdb": "tt0260760",
+    "tmdb": 250837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

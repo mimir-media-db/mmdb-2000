@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goppinti_alludu_2000",
+  "title": "Goppinti Alludu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5584325",
+    "imdb": "tt2990346",
+    "tmdb": 280334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

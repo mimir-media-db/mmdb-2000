@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_hatchett",
+  "title": "Judge Hatchett",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6302540",
+    "imdb": "tt0346306",
+    "tmdb": 10995
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 1630
+}

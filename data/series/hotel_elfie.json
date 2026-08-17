@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_elfie",
+  "title": "Hotel Elfie",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1439942",
+    "imdb": "tt0236309"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

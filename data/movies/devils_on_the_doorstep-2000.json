@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_on_the_doorstep_2000",
+  "title": "Devils on the Doorstep",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q711516",
+    "imdb": "tt0245929",
+    "tmdb": 25838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 139
+}

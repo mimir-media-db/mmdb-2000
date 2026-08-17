@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sausalito_2000",
+  "title": "Sausalito",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7427602",
+    "imdb": "tt0240880",
+    "tmdb": 256078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 98
+}

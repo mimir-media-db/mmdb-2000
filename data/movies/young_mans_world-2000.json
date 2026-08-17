@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_young_mans_world_2000",
+  "title": "A Young Man's World",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4187234",
+    "imdb": "tt1155767"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

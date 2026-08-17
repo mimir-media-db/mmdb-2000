@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kahit_demonyo_itutumba_ko_2000",
+  "title": "Kahit Demonyo Itutumba Ko",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905078",
+    "imdb": "tt0438124",
+    "tmdb": 498011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

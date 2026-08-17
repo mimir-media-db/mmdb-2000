@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_something_in_the_air",
+  "title": "Something in the Air",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7560223",
+    "imdb": "tt0217960",
+    "tmdb": 15008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 320
+}

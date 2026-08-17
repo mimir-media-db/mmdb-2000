@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kahaani_ghar_ghar_kii",
+  "title": "Kahaani Ghar Ghar Kii",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6346745",
+    "imdb": "tt1341970",
+    "tmdb": 4903
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1661
+}

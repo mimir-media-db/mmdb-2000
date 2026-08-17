@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_vis_unda_20000",
+  "title": "Vis Unda 20000?",
+  "start_year": 2000,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7935329"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bizim_evin_halleri",
+  "title": "Bizim Evin Halleri",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4919418",
+    "imdb": "tt0448277",
+    "tmdb": 49606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 1705
+}

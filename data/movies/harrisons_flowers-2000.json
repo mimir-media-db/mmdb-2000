@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harrisons_flowers_2000",
+  "title": "Harrison's Flowers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2298446",
+    "imdb": "tt0216799",
+    "tmdb": 25014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 130
+}

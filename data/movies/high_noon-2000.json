@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_noon_2000",
+  "title": "High Noon",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20092609",
+    "imdb": "tt0244536",
+    "tmdb": 82384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

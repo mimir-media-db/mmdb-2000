@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_without_motive",
+  "title": "Without Motive",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24038244",
+    "imdb": "tt0247055",
+    "tmdb": 64392
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

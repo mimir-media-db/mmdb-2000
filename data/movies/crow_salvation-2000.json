@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crow_salvation_2000",
+  "title": "The Crow: Salvation",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q686049",
+    "imdb": "tt0132910",
+    "tmdb": 9456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 102
+}

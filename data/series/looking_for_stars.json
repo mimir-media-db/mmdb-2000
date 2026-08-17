@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_looking_for_stars",
+  "title": "Looking for Stars",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6675390",
+    "imdb": "tt0315095",
+    "tmdb": 42514
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

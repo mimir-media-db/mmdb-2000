@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_viva_la_pepa",
+  "title": "Viva la Pepa",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6164143",
+    "imdb": "tt0329943",
+    "tmdb": 203080
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 197
+}

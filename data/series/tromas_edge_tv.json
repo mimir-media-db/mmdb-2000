@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tromas_edge_tv",
+  "title": "Troma's Edge TV",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3999632",
+    "imdb": "tt0283646",
+    "tmdb": 60703
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

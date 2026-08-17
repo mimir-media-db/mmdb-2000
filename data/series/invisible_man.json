@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_invisible_man",
+  "title": "The Invisible Man",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1429200",
+    "imdb": "tt0220238",
+    "tmdb": 4735
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 46
+}

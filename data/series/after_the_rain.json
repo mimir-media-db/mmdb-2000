@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_after_the_rain",
+  "title": "After the Rain",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6394928",
+    "imdb": "tt3663000",
+    "tmdb": 66355
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

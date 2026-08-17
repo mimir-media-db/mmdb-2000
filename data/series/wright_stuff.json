@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wright_stuff",
+  "title": "The Wright Stuff",
+  "start_year": 2000,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7776313",
+    "imdb": "tt0315727",
+    "tmdb": 4980
+  },
+  "last_updated": "2026-08-17"
+}

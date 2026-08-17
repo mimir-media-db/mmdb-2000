@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gideons_crossing",
+  "title": "Gideon's Crossing",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5559531",
+    "imdb": "tt0247101",
+    "tmdb": 10374
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

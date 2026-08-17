@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_autumn_in_my_heart",
+  "title": "Autumn in My Heart",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q32353",
+    "imdb": "tt0294592",
+    "tmdb": 14807
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

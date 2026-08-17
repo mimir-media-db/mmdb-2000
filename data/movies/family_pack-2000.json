@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_pack_2000",
+  "title": "Family Pack",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3413919",
+    "imdb": "tt0230921",
+    "tmdb": 78790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

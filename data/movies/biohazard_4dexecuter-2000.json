@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biohazard_4dexecuter_2000",
+  "title": "Biohazard 4D-Executer",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q555851",
+    "imdb": "tt0460411",
+    "tmdb": 1102104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 20
+}

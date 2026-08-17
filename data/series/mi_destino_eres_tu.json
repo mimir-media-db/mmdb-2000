@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_destino_eres_tu",
+  "title": "Mi Destino Eres Tú",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q1248414",
+    "imdb": "tt0249325",
+    "tmdb": 16690
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

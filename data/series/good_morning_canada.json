@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_good_morning_canada",
+  "title": "Good Morning Canada",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16957711"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_smokey_joes_cafe_direct_from_broadway_2000",
+  "title": "Smokey Joe's Cafe: Direct from Broadway",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7545972",
+    "imdb": "tt0369945",
+    "tmdb": 51921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

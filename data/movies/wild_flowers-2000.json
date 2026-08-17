@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_flowers_2000",
+  "title": "Wild Flowers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5289110",
+    "imdb": "tt0239102",
+    "tmdb": 45952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 81
+}

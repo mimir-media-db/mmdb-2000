@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dada_sahib_2000",
+  "title": "Dada Sahib",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207889",
+    "imdb": "tt0273516",
+    "tmdb": 240245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

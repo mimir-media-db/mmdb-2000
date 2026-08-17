@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cheaters",
+  "title": "Cheaters",
+  "start_year": 2000,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q1068710",
+    "imdb": "tt0270118",
+    "tmdb": 10615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 264
+}

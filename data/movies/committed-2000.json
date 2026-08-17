@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_committed_2000",
+  "title": "Committed",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3839228",
+    "imdb": "tt0144142",
+    "tmdb": 40562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 98
+}

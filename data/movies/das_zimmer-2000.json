@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_zimmer_2000",
+  "title": "Das Zimmer",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1170923",
+    "imdb": "tt0265663",
+    "tmdb": 297155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 91
+}

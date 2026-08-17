@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chump_change_2000",
+  "title": "Chump Change",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5116182",
+    "imdb": "tt0208050",
+    "tmdb": 88910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tween_academy_class_of_2012_2000",
+  "title": "Tween Academy: Class of 2012",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7857510",
+    "imdb": "tt2018159",
+    "tmdb": 85490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

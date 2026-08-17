@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_fall_in_love_with_both_2000",
+  "title": "When I Fall in Love... with Both",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992543",
+    "imdb": "tt0245582",
+    "tmdb": 631497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

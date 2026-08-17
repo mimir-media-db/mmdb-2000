@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncovering_of_mary_willumsen_2000",
+  "title": "The Uncovering of Mary Willumsen",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20757284",
+    "imdb": "tt0497459"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 30
+}

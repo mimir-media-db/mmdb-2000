@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pachinko_everyones_happy_2000",
+  "title": "Pachinko & Everyone's Happy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19752346",
+    "imdb": "tt0347724",
+    "tmdb": 731377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 87
+}

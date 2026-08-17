@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pertsa_ja_kilu",
+  "title": "Pertsa ja Kilu",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q11887495",
+    "imdb": "tt0271925",
+    "tmdb": 295200
+  },
+  "last_updated": "2026-08-17"
+}

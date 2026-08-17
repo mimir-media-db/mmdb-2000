@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_the_one_that_i_want_2000",
+  "title": "I'm the One That I Want",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967147",
+    "imdb": "tt0251739",
+    "tmdb": 38548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_giovanna_commissaire",
+  "title": "Giovanna, commissaire",
+  "start_year": 2000,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3106962",
+    "imdb": "tt0263274",
+    "tmdb": 41551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 282
+}

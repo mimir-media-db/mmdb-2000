@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dulhan_hum_le_jayenge_2000",
+  "title": "Dulhan Hum Le Jayenge",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492134",
+    "imdb": "tt0247992",
+    "tmdb": 161223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_postimpressionists_toulouselautrec_2000",
+  "title": "Post-Impressionists: Toulouse-Lautrec",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3430584",
+    "imdb": "tt1020564",
+    "tmdb": 560062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hermes_renato",
+  "title": "Hermes & Renato",
+  "start_year": 1999,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q10295153",
+    "imdb": "tt5202436",
+    "tmdb": 12093
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}

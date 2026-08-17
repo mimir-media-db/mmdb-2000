@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mujhe_chand_chahiye_2000",
+  "title": "Mujhe Chand Chahiye",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6933339",
+    "imdb": "tt0247545",
+    "tmdb": 472366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

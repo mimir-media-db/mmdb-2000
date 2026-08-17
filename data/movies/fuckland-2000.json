@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuckland_2000",
+  "title": "Fuckland",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1131823",
+    "imdb": "tt0270957",
+    "tmdb": 251504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 84
+}

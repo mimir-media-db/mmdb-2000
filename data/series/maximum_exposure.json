@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maximum_exposure",
+  "title": "Maximum Exposure",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3302808",
+    "imdb": "tt0305813",
+    "tmdb": 2202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

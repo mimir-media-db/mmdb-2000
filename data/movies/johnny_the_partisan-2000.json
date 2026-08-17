@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johnny_the_partisan_2000",
+  "title": "Johnny the Partisan",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795049",
+    "imdb": "tt0206200",
+    "tmdb": 88660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 135
+}

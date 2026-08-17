@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joshua_oh_joshua_2000",
+  "title": "Joshua oh Joshua",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12488094",
+    "imdb": "tt0330496",
+    "tmdb": 517788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

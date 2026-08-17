@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_santo_ladron",
+  "title": "Santo ladrón",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q6121374",
+    "imdb": "tt0379664"
+  },
+  "last_updated": "2026-08-17"
+}

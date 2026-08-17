@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_groen_kriminalfalle",
+  "title": "Die großen Kriminalfälle",
+  "start_year": 2000,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1218546",
+    "imdb": "tt0791374",
+    "tmdb": 40800
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 41
+}

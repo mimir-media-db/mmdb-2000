@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murder_seen_2000",
+  "title": "Murder Seen",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6937680",
+    "imdb": "tt0246794",
+    "tmdb": 823114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

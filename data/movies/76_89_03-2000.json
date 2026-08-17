@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_76_89_03_2000",
+  "title": "76 89 03",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5652941",
+    "imdb": "tt0247905",
+    "tmdb": 242547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 85
+}

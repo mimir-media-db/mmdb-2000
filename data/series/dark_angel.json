@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_angel",
+  "title": "Dark Angel",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q578623",
+    "imdb": "tt0204993",
+    "tmdb": 2407
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

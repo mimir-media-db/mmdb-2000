@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangster_no_1_2000",
+  "title": "Gangster No. 1",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1493544",
+    "imdb": "tt0210065",
+    "tmdb": 10394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 103
+}

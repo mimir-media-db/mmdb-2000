@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_child_of_our_time",
+  "title": "Child of Our Time",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1070315",
+    "imdb": "tt0290348",
+    "tmdb": 6270
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 29
+}

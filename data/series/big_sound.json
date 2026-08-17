@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_sound",
+  "title": "Big Sound",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4906388",
+    "imdb": "tt0256547",
+    "tmdb": 3117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

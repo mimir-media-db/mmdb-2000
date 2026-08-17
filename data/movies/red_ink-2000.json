@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_ink_2000",
+  "title": "Red Ink",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6147188",
+    "imdb": "tt0262833",
+    "tmdb": 20276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

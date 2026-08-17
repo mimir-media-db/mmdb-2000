@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_situation_room",
+  "title": "The Situation Room",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1536300",
+    "imdb": "tt0278256",
+    "tmdb": 1905
+  },
+  "last_updated": "2026-08-17"
+}

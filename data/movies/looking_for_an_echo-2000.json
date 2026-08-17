@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_an_echo_2000",
+  "title": "Looking for an Echo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6675422",
+    "imdb": "tt0148421",
+    "tmdb": 174412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 97
+}

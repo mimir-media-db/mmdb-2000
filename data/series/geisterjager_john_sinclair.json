@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_geisterjager_john_sinclair",
+  "title": "Geisterjäger John Sinclair",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1498988",
+    "imdb": "tt0229900",
+    "tmdb": 63204
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

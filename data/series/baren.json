@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_baren",
+  "title": "Baren",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q4860422",
+    "imdb": "tt0277468"
+  },
+  "last_updated": "2026-08-17"
+}

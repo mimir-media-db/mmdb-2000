@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rhona",
+  "title": "Rhona",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7321347",
+    "imdb": "tt0254043",
+    "tmdb": 30664
+  },
+  "last_updated": "2026-08-17"
+}

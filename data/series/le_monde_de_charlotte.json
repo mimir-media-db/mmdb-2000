@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_le_monde_de_charlotte",
+  "title": "Le Monde de Charlotte",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3224661",
+    "imdb": "tt0296382"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 112
+}

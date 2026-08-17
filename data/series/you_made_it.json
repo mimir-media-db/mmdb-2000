@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_you_made_it",
+  "title": "You Made It",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8057359",
+    "imdb": "tt0250930"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nagalingam_2000",
+  "title": "Nagalingam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252087",
+    "imdb": "tt14789920"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

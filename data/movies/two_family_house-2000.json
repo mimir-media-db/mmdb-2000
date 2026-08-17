@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_family_house_2000",
+  "title": "Two Family House",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7858943",
+    "imdb": "tt0202641",
+    "tmdb": 63956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 108
+}

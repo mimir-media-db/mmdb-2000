@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_man_loves_a_woman_2000",
+  "title": "When a Man Loves a Woman",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16593483",
+    "imdb": "tt0253521",
+    "tmdb": 592759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 106
+}

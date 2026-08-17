@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bargain_hunt",
+  "title": "Bargain Hunt",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2336916",
+    "imdb": "tt0283172",
+    "tmdb": 1265
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 55,
+  "total_episodes": 1683
+}

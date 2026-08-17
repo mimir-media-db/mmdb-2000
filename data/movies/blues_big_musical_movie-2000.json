@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blues_big_musical_movie_2000",
+  "title": "Blue's Big Musical Movie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4928688",
+    "imdb": "tt0193019",
+    "tmdb": 25242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 78
+}

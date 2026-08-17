@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_battles_without_honor_and_humanity_2000",
+  "title": "New Battles Without Honor and Humanity",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7005443",
+    "imdb": "tt0269859",
+    "tmdb": 312401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 109
+}

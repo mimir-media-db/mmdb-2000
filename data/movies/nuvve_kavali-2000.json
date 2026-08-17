@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuvve_kavali_2000",
+  "title": "Nuvve Kavali",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7070649",
+    "imdb": "tt0348691",
+    "tmdb": 82200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

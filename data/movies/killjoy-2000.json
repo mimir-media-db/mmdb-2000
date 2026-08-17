@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killjoy_2000",
+  "title": "Killjoy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4224121",
+    "imdb": "tt0250469",
+    "tmdb": 27711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coupling",
+  "title": "Coupling",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1137587",
+    "imdb": "tt0237123",
+    "tmdb": 2719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 28
+}

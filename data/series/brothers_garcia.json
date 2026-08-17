@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brothers_garcia",
+  "title": "The Brothers García",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q326209",
+    "imdb": "tt0235913",
+    "tmdb": 1360
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 50
+}

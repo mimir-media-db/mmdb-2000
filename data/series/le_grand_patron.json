@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_le_grand_patron",
+  "title": "Le Grand Patron",
+  "start_year": 2000,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q3223291",
+    "imdb": "tt0270133",
+    "tmdb": 96993
+  },
+  "last_updated": "2026-08-17"
+}

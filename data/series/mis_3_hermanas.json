@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mis_3_hermanas",
+  "title": "Mis 3 Hermanas",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q2493311",
+    "imdb": "tt0355107",
+    "tmdb": 205980
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

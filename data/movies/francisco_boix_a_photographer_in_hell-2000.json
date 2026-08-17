@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_francisco_boix_a_photographer_in_hell_2000",
+  "title": "Francisco Boix, a photographer in hell",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5865280",
+    "imdb": "tt0295965",
+    "tmdb": 459297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 56
+}

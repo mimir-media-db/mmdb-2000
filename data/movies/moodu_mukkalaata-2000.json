@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moodu_mukkalaata_2000",
+  "title": "Moodu Mukkalaata",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19894120",
+    "imdb": "tt1575636",
+    "tmdb": 1009712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

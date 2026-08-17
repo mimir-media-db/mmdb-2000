@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nasi_i_vasi",
+  "title": "Naši i vaši",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6456662",
+    "imdb": "tt0313108",
+    "tmdb": 113573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

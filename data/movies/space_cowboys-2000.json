@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_cowboys_2000",
+  "title": "Space Cowboys",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q502189",
+    "imdb": "tt0186566",
+    "tmdb": 5551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 126
+}

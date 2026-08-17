@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_champion_2000",
+  "title": "Champion",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11274271",
+    "imdb": "tt0270880",
+    "tmdb": 491916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

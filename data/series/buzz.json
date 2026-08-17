@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_buzz",
+  "title": "Buzz",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5003499",
+    "imdb": "tt0307729",
+    "tmdb": 8081
+  },
+  "last_updated": "2026-08-17"
+}

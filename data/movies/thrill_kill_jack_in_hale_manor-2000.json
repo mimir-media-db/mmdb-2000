@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thrill_kill_jack_in_hale_manor_2000",
+  "title": "Thrill Kill Jack in Hale Manor",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7798176",
+    "imdb": "tt0451229",
+    "tmdb": 363382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 80
+}

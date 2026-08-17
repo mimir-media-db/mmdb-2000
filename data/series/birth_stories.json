@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_birth_stories",
+  "title": "Birth Stories",
+  "start_year": 1999,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4917001",
+    "imdb": "tt7989824"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rias_baixas",
+  "title": "Rías Baixas",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12399333",
+    "imdb": "tt0262175"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 191
+}

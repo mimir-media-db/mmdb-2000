@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dui_duari_2000",
+  "title": "Dui Duari",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5312631",
+    "imdb": "tt0314004",
+    "tmdb": 434455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

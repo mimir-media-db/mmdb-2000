@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_way_to_die_2000",
+  "title": "A Better Way to Die",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q946032",
+    "imdb": "tt0168504",
+    "tmdb": 23705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}

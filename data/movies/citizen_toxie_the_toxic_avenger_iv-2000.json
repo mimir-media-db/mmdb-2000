@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_toxie_the_toxic_avenger_iv_2000",
+  "title": "Citizen Toxie: The Toxic Avenger IV",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q943674",
+    "imdb": "tt0212879",
+    "tmdb": 27601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 108
+}

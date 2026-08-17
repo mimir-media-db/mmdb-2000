@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_than_sex_2000",
+  "title": "Better Than Sex",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4898542",
+    "imdb": "tt0236019",
+    "tmdb": 27444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

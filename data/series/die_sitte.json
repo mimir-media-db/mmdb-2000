@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_sitte",
+  "title": "Die Sitte",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q874673",
+    "imdb": "tt0396958",
+    "tmdb": 41025
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

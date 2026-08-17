@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jis_desh_mein_ganga_rehta_hain_2000",
+  "title": "Jis Desh Mein Ganga Rehta Hain",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12428942",
+    "imdb": "tt0263491",
+    "tmdb": 348762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

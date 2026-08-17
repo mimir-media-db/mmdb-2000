@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_food_fight",
+  "title": "Food Fight",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5359636",
+    "tmdb": 135
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

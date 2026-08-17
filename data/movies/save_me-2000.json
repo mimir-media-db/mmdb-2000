@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_save_me_2000",
+  "title": "Save Me",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3474352",
+    "imdb": "tt0217025",
+    "tmdb": 327720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

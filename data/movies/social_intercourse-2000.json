@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_social_intercourse_2000",
+  "title": "Social Intercourse",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3963231",
+    "imdb": "tt0166349",
+    "tmdb": 383786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

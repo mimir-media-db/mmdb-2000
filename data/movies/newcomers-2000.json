@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_newcomers_2000",
+  "title": "The Newcomers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7753875",
+    "imdb": "tt0221431",
+    "tmdb": 134803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

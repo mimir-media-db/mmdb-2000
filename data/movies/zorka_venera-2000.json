@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zorka_venera_2000",
+  "title": "Zorka venera",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4193991",
+    "imdb": "tt2933666",
+    "tmdb": 1422488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

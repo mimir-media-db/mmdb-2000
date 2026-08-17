@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bbc_news_at_ten",
+  "title": "BBC News at Ten",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4834866",
+    "imdb": "tt0283706",
+    "tmdb": 3919
+  },
+  "last_updated": "2026-08-17"
+}

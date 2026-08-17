@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tera_jadoo_chal_gayaa_2000",
+  "title": "Tera Jadoo Chal Gayaa",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3518276",
+    "imdb": "tt0250774",
+    "tmdb": 277700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

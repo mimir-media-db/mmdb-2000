@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ancient_evil_scream_of_the_mummy_2000",
+  "title": "Ancient Evil: Scream of the Mummy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3281234",
+    "imdb": "tt0231138",
+    "tmdb": 30440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 86
+}

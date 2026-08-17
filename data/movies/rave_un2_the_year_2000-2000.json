@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rave_un2_the_year_2000_2000",
+  "title": "Rave Un2 the Year 2000",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3277268",
+    "imdb": "tt0259522",
+    "tmdb": 39235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 113
+}

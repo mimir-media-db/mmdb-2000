@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_6_2000",
+  "title": "Ricky 6",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7332025",
+    "imdb": "tt0156020",
+    "tmdb": 102463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 111
+}

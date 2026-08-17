@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knockout_2000",
+  "title": "Knockout",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291281",
+    "imdb": "tt0195860",
+    "tmdb": 798292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

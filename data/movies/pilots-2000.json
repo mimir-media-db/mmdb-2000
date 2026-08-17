@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pilots_2000",
+  "title": "Pilots",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7194499",
+    "imdb": "tt0282843",
+    "tmdb": 526651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

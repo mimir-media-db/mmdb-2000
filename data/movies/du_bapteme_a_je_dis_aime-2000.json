@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_du_bapteme_a_je_dis_aime_2000",
+  "title": "Du Baptême à Je dis aime",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3040295",
+    "tmdb": 1409671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

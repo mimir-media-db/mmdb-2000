@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_remember_me_2000",
+  "title": "I Remember Me",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5978798",
+    "imdb": "tt0293270",
+    "tmdb": 283303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_straight_news",
+  "title": "STRAIGHT NEWS",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11312477",
+    "imdb": "tt0264302",
+    "tmdb": 37022
+  },
+  "last_updated": "2026-08-17"
+}

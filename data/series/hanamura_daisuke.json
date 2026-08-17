@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hanamura_daisuke",
+  "title": "Hanamura Daisuke",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11615455",
+    "imdb": "tt0313082",
+    "tmdb": 90116
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

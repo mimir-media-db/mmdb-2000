@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kurukshetra_2000",
+  "title": "Kurukshetra",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6447354",
+    "imdb": "tt0255309",
+    "tmdb": 81782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

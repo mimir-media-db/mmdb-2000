@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rokubanme_no_sayoko",
+  "title": "Rokubanme no Sayoko",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2159929",
+    "imdb": "tt0807741",
+    "tmdb": 17495
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sabhash_2000",
+  "title": "Sabhash",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7396066",
+    "imdb": "tt6757950",
+    "tmdb": 502276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

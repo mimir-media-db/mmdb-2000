@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tag",
+  "title": "Tag",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3513809",
+    "imdb": "tt0262179",
+    "tmdb": 222188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

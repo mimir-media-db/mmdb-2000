@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luck_of_the_draw_2000",
+  "title": "Luck of the Draw",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511191",
+    "imdb": "tt0207036",
+    "tmdb": 91840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_war_of_the_genders",
+  "title": "War of the Genders",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q14479770",
+    "imdb": "tt10384720",
+    "tmdb": 6262
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

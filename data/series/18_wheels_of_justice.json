@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_18_wheels_of_justice",
+  "title": "18 Wheels of Justice",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3210107",
+    "imdb": "tt0221728",
+    "tmdb": 25405
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}

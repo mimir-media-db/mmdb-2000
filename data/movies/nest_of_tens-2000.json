@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nest_of_tens_2000",
+  "title": "Nest of Tens",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47138803",
+    "imdb": "tt0282790",
+    "tmdb": 270456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

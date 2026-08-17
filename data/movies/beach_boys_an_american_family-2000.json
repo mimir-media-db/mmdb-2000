@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beach_boys_an_american_family_2000",
+  "title": "The Beach Boys: An American Family",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3287737",
+    "imdb": "tt0238064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 240
+}

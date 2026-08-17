@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saikyo_joshikose_densetsu_kyoko_vs_yuki_2000",
+  "title": "Saikyô joshikôsê densetsu: Kyôko vs Yuki",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3817696",
+    "imdb": "tt0371926",
+    "tmdb": 317957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 54
+}

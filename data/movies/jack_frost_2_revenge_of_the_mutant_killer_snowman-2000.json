@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_frost_2_revenge_of_the_mutant_killer_snowman_2000",
+  "title": "Jack Frost 2: Revenge of the Mutant Killer Snowman",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6112612",
+    "imdb": "tt0239496",
+    "tmdb": 27320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 93
+}

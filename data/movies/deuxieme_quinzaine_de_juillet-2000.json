@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deuxieme_quinzaine_de_juillet_2000",
+  "title": "Deuxième Quinzaine de juillet",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2815971",
+    "imdb": "tt0217128",
+    "tmdb": 572401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

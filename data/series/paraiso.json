@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_paraiso",
+  "title": "Paraíso",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6061578",
+    "imdb": "tt0360299"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 42
+}

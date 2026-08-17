@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muggers_2000",
+  "title": "Muggers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6932119",
+    "imdb": "tt0138631",
+    "tmdb": 302869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

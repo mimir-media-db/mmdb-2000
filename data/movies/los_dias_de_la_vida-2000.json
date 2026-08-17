@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_dias_de_la_vida_2000",
+  "title": "Los días de la vida",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47501235",
+    "imdb": "tt0269153",
+    "tmdb": 774415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

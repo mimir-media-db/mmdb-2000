@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laffaire_marcorelle_2000",
+  "title": "L'affaire Marcorelle",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15918226",
+    "imdb": "tt0247153",
+    "tmdb": 387667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_loop_2000",
+  "title": "City Loop",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5123285",
+    "imdb": "tt0252327",
+    "tmdb": 93690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

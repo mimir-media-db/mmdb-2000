@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conspiracy_2000",
+  "title": "Conspiracy",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16078728",
+    "imdb": "tt2004196",
+    "tmdb": 77487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

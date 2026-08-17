@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_then_came_love_2000",
+  "title": "And Then Came Love",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4195087",
+    "imdb": "tt0825346",
+    "tmdb": 29731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

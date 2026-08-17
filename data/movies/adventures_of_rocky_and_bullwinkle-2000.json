@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_rocky_and_bullwinkle_2000",
+  "title": "The Adventures of Rocky and Bullwinkle",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q705198",
+    "imdb": "tt0131704",
+    "tmdb": 17711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 88
+}

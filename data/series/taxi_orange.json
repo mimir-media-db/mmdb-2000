@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi_orange",
+  "title": "Taxi Orange",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q360672",
+    "imdb": "tt0259814"
+  },
+  "last_updated": "2026-08-17"
+}

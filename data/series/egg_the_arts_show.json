@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_egg_the_arts_show",
+  "title": "EGG, the Arts Show",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5323040",
+    "imdb": "tt0295772",
+    "tmdb": 12061
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

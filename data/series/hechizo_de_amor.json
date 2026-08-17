@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hechizo_de_amor",
+  "title": "Hechizo de Amor",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q9002354",
+    "imdb": "tt0357373",
+    "tmdb": 16968
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

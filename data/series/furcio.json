@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_furcio",
+  "title": "Furcio",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5871762",
+    "imdb": "tt0379626"
+  },
+  "last_updated": "2026-08-17"
+}

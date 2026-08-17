@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightfall_2000",
+  "title": "Nightfall",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073378",
+    "imdb": "tt0249840",
+    "tmdb": 65397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

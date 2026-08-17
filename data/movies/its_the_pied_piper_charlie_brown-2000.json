@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_the_pied_piper_charlie_brown_2000",
+  "title": "It's the Pied Piper, Charlie Brown",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125190",
+    "imdb": "tt0203593",
+    "tmdb": 35020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 25
+}

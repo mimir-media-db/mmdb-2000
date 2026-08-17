@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_clarksons_car_years",
+  "title": "Clarkson's Car Years",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5127618",
+    "imdb": "tt0249284",
+    "tmdb": 7013
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

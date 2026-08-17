@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_hook_2000",
+  "title": "Sky Hook",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4846666",
+    "imdb": "tt0209180",
+    "tmdb": 110366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

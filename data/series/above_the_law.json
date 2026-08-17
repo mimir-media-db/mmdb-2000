@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_above_the_law",
+  "title": "Above the Law",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4668660",
+    "imdb": "tt0235117",
+    "tmdb": 3983
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 35
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_every_woman",
+  "title": "Every Woman",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5417636",
+    "imdb": "tt0826899"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grass_roots",
+  "title": "Grass Roots",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5597460",
+    "imdb": "tt0250859",
+    "tmdb": 12842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

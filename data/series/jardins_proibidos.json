@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jardins_proibidos",
+  "title": "Jardins Proibidos",
+  "start_year": 2000,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q10306380",
+    "imdb": "tt0242208",
+    "tmdb": 275394
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 157
+}

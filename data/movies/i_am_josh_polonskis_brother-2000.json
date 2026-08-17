@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_josh_polonskis_brother_2000",
+  "title": "I Am Josh Polonski's Brother",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147038",
+    "imdb": "tt0278493",
+    "tmdb": 332056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 87
+}

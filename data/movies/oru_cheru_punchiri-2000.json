@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_cheru_punchiri_2000",
+  "title": "Oru Cheru Punchiri",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7105118",
+    "imdb": "tt0355859",
+    "tmdb": 375640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

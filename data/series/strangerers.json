@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strangerers",
+  "title": "The Strangerers",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7766953",
+    "imdb": "tt0235944",
+    "tmdb": 12077
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

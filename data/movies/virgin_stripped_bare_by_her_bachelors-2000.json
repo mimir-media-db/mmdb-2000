@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_stripped_bare_by_her_bachelors_2000",
+  "title": "Virgin Stripped Bare by Her Bachelors",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q626834",
+    "imdb": "tt0253378",
+    "tmdb": 54690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 126
+}

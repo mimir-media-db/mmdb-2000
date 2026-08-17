@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_preethsu_thappenilla_2000",
+  "title": "Preethsu Thappenilla",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19580927",
+    "imdb": "tt14786944",
+    "tmdb": 1168021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

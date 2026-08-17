@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_trautmann",
+  "title": "Trautmann",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2450509",
+    "imdb": "tt0896679",
+    "tmdb": 41668
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

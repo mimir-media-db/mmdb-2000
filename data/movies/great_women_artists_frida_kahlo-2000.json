@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_women_artists_frida_kahlo_2000",
+  "title": "Great Women Artists: Frida Kahlo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3776154",
+    "imdb": "tt0930578",
+    "tmdb": 1423522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

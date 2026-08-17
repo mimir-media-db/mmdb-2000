@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_what_democracy_looks_like_2000",
+  "title": "This Is What Democracy Looks Like",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10382147",
+    "imdb": "tt0265871",
+    "tmdb": 102254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

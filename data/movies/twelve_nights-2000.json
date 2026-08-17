@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twelve_nights_2000",
+  "title": "Twelve Nights",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10904411",
+    "imdb": "tt0282159",
+    "tmdb": 45488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

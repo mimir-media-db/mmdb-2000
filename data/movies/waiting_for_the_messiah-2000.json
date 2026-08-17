@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_the_messiah_2000",
+  "title": "Waiting for the Messiah",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7960605",
+    "imdb": "tt0248001",
+    "tmdb": 127452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 98
+}

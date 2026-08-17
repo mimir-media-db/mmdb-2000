@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_beautiful_2000",
+  "title": "Life Is Beautiful",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544846",
+    "imdb": "tt0277799",
+    "tmdb": 280208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

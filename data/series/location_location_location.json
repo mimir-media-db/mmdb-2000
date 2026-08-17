@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_location_location_location",
+  "title": "Location, Location, Location",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6664762",
+    "imdb": "tt0341864",
+    "tmdb": 4151
+  },
+  "last_updated": "2026-08-17"
+}

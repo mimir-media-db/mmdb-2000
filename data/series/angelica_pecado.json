@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_angelica_pecado",
+  "title": "Angelica Pecado",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q856133",
+    "imdb": "tt0300723",
+    "tmdb": 207457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

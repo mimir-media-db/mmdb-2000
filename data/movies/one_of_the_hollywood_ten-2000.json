@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_of_the_hollywood_ten_2000",
+  "title": "One of the Hollywood Ten",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2226180",
+    "imdb": "tt0234393",
+    "tmdb": 83206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 109
+}

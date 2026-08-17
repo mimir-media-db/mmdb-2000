@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_lies_and_video_violence_2000",
+  "title": "Sex, Lies and Video Violence",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10666835",
+    "imdb": "tt0286078",
+    "tmdb": 163413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_treks_in_a_wild_world",
+  "title": "Treks in a Wild World",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q111103661",
+    "imdb": "tt0273027",
+    "tmdb": 88091
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 60
+}

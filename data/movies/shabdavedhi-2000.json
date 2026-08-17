@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shabdavedhi_2000",
+  "title": "Shabdavedhi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254066",
+    "imdb": "tt0495627",
+    "tmdb": 235423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

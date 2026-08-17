@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mtv_cribs",
+  "title": "MTV Cribs",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q687295",
+    "imdb": "tt0276656",
+    "tmdb": 10199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 106
+}

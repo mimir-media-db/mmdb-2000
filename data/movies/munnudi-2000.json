@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munnudi_2000",
+  "title": "Munnudi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6936807",
+    "imdb": "tt2759362",
+    "tmdb": 408593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

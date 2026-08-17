@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pfeifer",
+  "title": "Pfeifer",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q77320848",
+    "imdb": "tt0243081",
+    "tmdb": 63569
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

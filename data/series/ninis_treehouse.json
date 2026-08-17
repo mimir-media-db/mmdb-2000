@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ninis_treehouse",
+  "title": "Nini's Treehouse",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7038797",
+    "imdb": "tt1582353",
+    "tmdb": 42284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 58
+}

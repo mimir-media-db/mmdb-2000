@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_guards_guardie_del_corpo_2000",
+  "title": "Body Guards - Guardie del corpo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3641538",
+    "imdb": "tt0269009",
+    "tmdb": 43555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 94
+}

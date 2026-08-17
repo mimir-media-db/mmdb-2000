@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afflicted_generation_2000",
+  "title": "The Afflicted Generation",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5961292",
+    "imdb": "tt0780100",
+    "tmdb": 513235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

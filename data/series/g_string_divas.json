@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_g_string_divas",
+  "title": "G String Divas",
+  "start_year": 2000,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q5515150",
+    "imdb": "tt0256552",
+    "tmdb": 14911
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

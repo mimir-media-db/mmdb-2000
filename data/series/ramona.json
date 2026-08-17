@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ramona",
+  "title": "Ramona",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q753674",
+    "imdb": "tt0211852",
+    "tmdb": 12665
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 69
+}

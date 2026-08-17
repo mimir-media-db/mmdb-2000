@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rebus",
+  "title": "Rebus",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3300572",
+    "imdb": "tt0867015",
+    "tmdb": 1165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 14
+}

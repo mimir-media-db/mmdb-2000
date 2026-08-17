@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_esy_ftais",
+  "title": "Esy ftais",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q109329547",
+    "imdb": "tt0315666",
+    "tmdb": 54881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 33
+}

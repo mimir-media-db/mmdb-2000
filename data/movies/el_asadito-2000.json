@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_asadito_2000",
+  "title": "El Asadito",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2836412",
+    "imdb": "tt0275204",
+    "tmdb": 151949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 72
+}

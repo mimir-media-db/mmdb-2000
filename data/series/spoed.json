@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spoed",
+  "title": "Spoed",
+  "start_year": 2000,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2681486",
+    "imdb": "tt0235139",
+    "tmdb": 12788
+  },
+  "last_updated": "2026-08-17"
+}

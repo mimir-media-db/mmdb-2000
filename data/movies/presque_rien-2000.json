@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_presque_rien_2000",
+  "title": "Presque rien",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q304711",
+    "imdb": "tt0242795",
+    "tmdb": 27099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 97
+}

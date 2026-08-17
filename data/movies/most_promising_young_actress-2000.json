@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_promising_young_actress_2000",
+  "title": "Most Promising Young Actress",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3304654",
+    "imdb": "tt0216911",
+    "tmdb": 64357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 100
+}

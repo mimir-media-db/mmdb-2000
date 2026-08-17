@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinch_runner_2000",
+  "title": "Pinch Runner",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3388635",
+    "imdb": "tt1632588",
+    "tmdb": 159190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

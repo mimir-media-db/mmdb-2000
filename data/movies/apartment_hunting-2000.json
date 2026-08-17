@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apartment_hunting_2000",
+  "title": "Apartment Hunting",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4779176",
+    "imdb": "tt0191787",
+    "tmdb": 271517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

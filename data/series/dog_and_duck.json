@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_and_duck",
+  "title": "Dog and Duck",
+  "start_year": 1999,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5288250",
+    "imdb": "tt0294061",
+    "tmdb": 35416
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 195
+}

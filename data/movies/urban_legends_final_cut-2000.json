@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urban_legends_final_cut_2000",
+  "title": "Urban Legends: Final Cut",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1272441",
+    "imdb": "tt0192731",
+    "tmdb": 12212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_arangkada_balita",
+  "title": "Arangkada Balita",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4784102",
+    "tmdb": 32452
+  },
+  "last_updated": "2026-08-17"
+}

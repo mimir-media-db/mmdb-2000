@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_swastika_to_jim_crow_2000",
+  "title": "From Swastika to Jim Crow",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5505521",
+    "imdb": "tt0231617",
+    "tmdb": 772364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

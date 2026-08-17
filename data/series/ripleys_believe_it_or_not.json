@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ripleys_believe_it_or_not",
+  "title": "Ripley's Believe It or Not!",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6595688",
+    "imdb": "tt0218787",
+    "tmdb": 37864
+  },
+  "last_updated": "2026-08-17"
+}

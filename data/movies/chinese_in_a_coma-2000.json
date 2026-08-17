@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chinese_in_a_coma_2000",
+  "title": "A Chinese in a Coma",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3648119",
+    "imdb": "tt0208026",
+    "tmdb": 44933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 105
+}

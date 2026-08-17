@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_business_2000",
+  "title": "Funny Business",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20688104",
+    "imdb": "tt0440206",
+    "tmdb": 456786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

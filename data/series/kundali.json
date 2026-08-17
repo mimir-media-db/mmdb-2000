@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kundali",
+  "title": "Kundali",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6444274",
+    "imdb": "tt7942094"
+  },
+  "last_updated": "2026-08-17"
+}

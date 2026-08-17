@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conception_of_my_younger_brother_2000",
+  "title": "The Conception of My Younger Brother",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16830050",
+    "imdb": "tt0203056",
+    "tmdb": 511276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 94
+}

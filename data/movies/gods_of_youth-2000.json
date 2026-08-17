@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_of_youth_2000",
+  "title": "Gods of Youth",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5576883",
+    "imdb": "tt1210358",
+    "tmdb": 651917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

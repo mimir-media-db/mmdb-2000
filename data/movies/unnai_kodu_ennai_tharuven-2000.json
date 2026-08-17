@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unnai_kodu_ennai_tharuven_2000",
+  "title": "Unnai Kodu Ennai Tharuven",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7897134",
+    "imdb": "tt0984240",
+    "tmdb": 69424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

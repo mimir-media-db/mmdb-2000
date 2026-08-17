@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sincerely_yours_in_cold_blood",
+  "title": "Sincerely Yours in Cold Blood",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7521962",
+    "imdb": "tt0237971",
+    "tmdb": 40895
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

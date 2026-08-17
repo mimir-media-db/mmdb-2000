@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robotech_3000_2000",
+  "title": "Robotech 3000",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10749240",
+    "imdb": "tt1091201",
+    "tmdb": 1429128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 3
+}

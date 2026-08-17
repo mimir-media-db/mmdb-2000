@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_max_portrait_dun_serialniqueur_2000",
+  "title": "Max, portrait d'un serial-niqueur",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16663861",
+    "imdb": "tt0354732",
+    "tmdb": 826857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

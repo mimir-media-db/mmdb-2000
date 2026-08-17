@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holdup_2000",
+  "title": "Hold-Up",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199869",
+    "imdb": "tt0250837",
+    "tmdb": 36661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 84
+}

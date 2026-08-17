@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_splendide_2000",
+  "title": "Hotel Splendide",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4258809",
+    "imdb": "tt0177845",
+    "tmdb": 67252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 98
+}

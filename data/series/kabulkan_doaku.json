@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kabulkan_doaku",
+  "title": "Kabulkan Doaku",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116845441",
+    "imdb": "tt26798419",
+    "tmdb": 50272
+  },
+  "last_updated": "2026-08-17"
+}

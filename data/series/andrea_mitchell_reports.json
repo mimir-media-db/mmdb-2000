@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_andrea_mitchell_reports",
+  "title": "Andrea Mitchell Reports",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4755192",
+    "imdb": "tt1834962",
+    "tmdb": 17585
+  },
+  "last_updated": "2026-08-17"
+}

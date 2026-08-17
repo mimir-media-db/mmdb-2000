@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruce_lee_a_warriors_journey_2000",
+  "title": "Bruce Lee: A Warrior's Journey",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414468",
+    "imdb": "tt0297814",
+    "tmdb": 37588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 110
+}

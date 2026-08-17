@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_return_of_the_cuckoo",
+  "title": "Return of the Cuckoo",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7317211",
+    "imdb": "tt5256416",
+    "tmdb": 138984
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

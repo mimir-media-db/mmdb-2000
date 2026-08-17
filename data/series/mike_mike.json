@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mike_mike",
+  "title": "Mike & Mike",
+  "start_year": 2000,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3857488",
+    "imdb": "tt0783392",
+    "tmdb": 1138
+  },
+  "last_updated": "2026-08-17"
+}

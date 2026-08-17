@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_jordan_to_the_max_2000",
+  "title": "Michael Jordan to the Max",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6831722",
+    "imdb": "tt0245280",
+    "tmdb": 24977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

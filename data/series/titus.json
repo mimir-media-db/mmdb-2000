@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_titus",
+  "title": "Titus",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2164808",
+    "imdb": "tt0205700",
+    "tmdb": 89
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 54
+}

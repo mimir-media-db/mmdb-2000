@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_2_minute_drill",
+  "title": "2 Minute Drill",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4633350",
+    "imdb": "tt0273327"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 52
+}

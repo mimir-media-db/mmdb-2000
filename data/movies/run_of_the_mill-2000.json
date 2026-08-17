@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_run_of_the_mill_2000",
+  "title": "Run of the mill",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20757095",
+    "imdb": "tt0236700",
+    "tmdb": 218780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 8
+}

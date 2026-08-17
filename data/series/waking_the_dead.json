@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_waking_the_dead",
+  "title": "Waking the Dead",
+  "start_year": 2000,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2062152",
+    "imdb": "tt0259733",
+    "tmdb": 4860
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 92
+}

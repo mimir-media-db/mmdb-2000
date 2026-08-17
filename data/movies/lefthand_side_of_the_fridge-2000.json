@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lefthand_side_of_the_fridge_2000",
+  "title": "The Left-Hand Side of the Fridge",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210749",
+    "imdb": "tt0260193",
+    "tmdb": 17199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

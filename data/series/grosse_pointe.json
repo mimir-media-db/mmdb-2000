@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grosse_pointe",
+  "title": "Grosse Pointe",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q1637497",
+    "imdb": "tt0247104",
+    "tmdb": 4989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

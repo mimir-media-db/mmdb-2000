@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_einsatz_in_hamburg",
+  "title": "Einsatz in Hamburg",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1308689",
+    "imdb": "tt0889408",
+    "tmdb": 55192
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

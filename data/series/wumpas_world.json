@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wumpas_world",
+  "title": "Wumpa's World",
+  "start_year": 1999,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q8039232",
+    "imdb": "tt0471068"
+  },
+  "last_updated": "2026-08-17"
+}

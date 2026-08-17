@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_exposure",
+  "title": "Exposure",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q18712948",
+    "imdb": "tt0244342",
+    "tmdb": 10229
+  },
+  "last_updated": "2026-08-17"
+}

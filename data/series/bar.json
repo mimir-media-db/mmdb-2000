@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bar",
+  "title": "The Bar",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3219953",
+    "imdb": "tt0281418",
+    "tmdb": 28236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

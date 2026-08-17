@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gilmore_girls",
+  "title": "Gilmore Girls",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q193462",
+    "imdb": "tt0238784",
+    "tmdb": 4586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 153
+}

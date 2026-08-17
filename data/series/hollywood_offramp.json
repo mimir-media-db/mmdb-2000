@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_offramp",
+  "title": "Hollywood Off-Ramp",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3139422",
+    "imdb": "tt0222568",
+    "tmdb": 25285
+  },
+  "last_updated": "2026-08-17"
+}

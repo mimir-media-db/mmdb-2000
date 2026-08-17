@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fragil_como_o_mundo_2000",
+  "title": "Frágil como o Mundo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10286121",
+    "imdb": "tt0291183",
+    "tmdb": 382594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

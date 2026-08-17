@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_acteurs_2000",
+  "title": "Les Acteurs",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230378",
+    "imdb": "tt0211900",
+    "tmdb": 48328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 103
+}

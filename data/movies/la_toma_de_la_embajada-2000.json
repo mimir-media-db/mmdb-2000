@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_toma_de_la_embajada_2000",
+  "title": "La toma de la embajada",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5968258",
+    "imdb": "tt0226539",
+    "tmdb": 641425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

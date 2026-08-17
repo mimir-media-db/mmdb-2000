@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_passion_cove",
+  "title": "Passion Cove",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q7142716",
+    "imdb": "tt0210438",
+    "tmdb": 3736
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
