@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unknown_friend_2000",
+  "title": "Unknown Friend",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3087432",
+    "imdb": "tt0239414",
+    "tmdb": 355637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-01"
+}

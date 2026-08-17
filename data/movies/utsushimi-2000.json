@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_utsushimi_2000",
+  "title": "Utsushimi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123333486",
+    "imdb": "tt0270021",
+    "tmdb": 127610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-16",
+  "runtime_minutes": 110
+}
