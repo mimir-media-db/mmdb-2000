@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raja_kaliamman_2000",
+  "title": "Raja Kaliamman",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7285463",
+    "imdb": "tt1604179",
+    "tmdb": 550364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

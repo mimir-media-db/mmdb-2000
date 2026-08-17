@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roman_summer_2000",
+  "title": "Roman Summer",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3733373",
+    "imdb": "tt0263321",
+    "tmdb": 255870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

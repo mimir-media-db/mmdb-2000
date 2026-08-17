@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rent_a_friend_2000",
+  "title": "Rent a Friend",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1924205",
+    "imdb": "tt0201888",
+    "tmdb": 21262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

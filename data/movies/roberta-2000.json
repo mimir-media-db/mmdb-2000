@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_roberta_2000",
+  "title": "Roberta",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44873055",
+    "imdb": "tt0283789"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

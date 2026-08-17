@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ratz_2000",
+  "title": "Ratz",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11791945",
+    "imdb": "tt0238550",
+    "tmdb": 97930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
