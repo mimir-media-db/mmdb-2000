@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_randall_hopkirk_deceased",
+  "title": "Randall & Hopkirk (Deceased)",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3930017",
+    "imdb": "tt0167701",
+    "tmdb": 3924
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}
