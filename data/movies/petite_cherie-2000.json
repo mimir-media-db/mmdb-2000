@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petite_cherie_2000",
+  "title": "Petite chérie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3377341",
+    "imdb": "tt0243483",
+    "tmdb": 357466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 106
+}

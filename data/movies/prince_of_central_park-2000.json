@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_of_central_park_2000",
+  "title": "Prince of Central Park",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4356154",
+    "imdb": "tt0170452",
+    "tmdb": 201724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

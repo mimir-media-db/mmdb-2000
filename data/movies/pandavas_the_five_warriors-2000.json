@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandavas_the_five_warriors_2000",
+  "title": "Pandavas: The Five Warriors",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3361988",
+    "imdb": "tt0285868",
+    "tmdb": 416207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
