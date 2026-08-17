@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cthulhu_2000",
+  "title": "Cthulhu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5191761",
+    "imdb": "tt0826776",
+    "tmdb": 431771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_and_punishment_in_suburbia_2000",
+  "title": "Crime and Punishment in Suburbia",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3002606",
+    "imdb": "tt0197384",
+    "tmdb": 46119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

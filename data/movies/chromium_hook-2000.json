@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chromium_hook_2000",
+  "title": "The Chromium Hook",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520274",
+    "imdb": "tt0484178",
+    "tmdb": 414031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

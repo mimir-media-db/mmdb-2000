@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_con_la_voce_del_cuore_2000",
+  "title": "Con la voce del cuore",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3685916",
+    "imdb": "tt0310908"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

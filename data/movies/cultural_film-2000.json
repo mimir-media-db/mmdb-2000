@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cultural_film_2000",
+  "title": "Cultural Film",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12231744",
+    "imdb": "tt1400508",
+    "tmdb": 193457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 120
+}

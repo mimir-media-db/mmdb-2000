@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cities_of_the_plain_2000",
+  "title": "Cities of the Plain",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28000918",
+    "imdb": "tt0261614",
+    "tmdb": 392098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

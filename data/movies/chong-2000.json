@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chong_2000",
+  "title": "Chong",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11660969",
+    "imdb": "tt0279020",
+    "tmdb": 314416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
