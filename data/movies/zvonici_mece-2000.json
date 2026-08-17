@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zvonici_mece_2000",
+  "title": "Zvonící mece",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10861636",
+    "imdb": "tt3018836",
+    "tmdb": 374656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 62
+}
