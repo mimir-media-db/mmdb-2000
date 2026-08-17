@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godzilla_vs_megaguirus_2000",
+  "title": "Godzilla vs. Megaguirus",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q664983",
+    "imdb": "tt0255198",
+    "tmdb": 39468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}

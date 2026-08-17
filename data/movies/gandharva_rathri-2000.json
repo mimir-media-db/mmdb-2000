@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gandharva_rathri_2000",
+  "title": "Gandharva Rathri",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571878",
+    "imdb": "tt13677586",
+    "tmdb": 1011939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

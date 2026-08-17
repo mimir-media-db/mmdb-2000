@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gefahrliche_traume_das_geheimnis_einer_frau_2000",
+  "title": "Gefährliche Träume - Das Geheimnis einer Frau",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20184109",
+    "imdb": "tt0245914",
+    "tmdb": 382942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 85
+}

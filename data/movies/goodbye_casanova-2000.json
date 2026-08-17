@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_casanova_2000",
+  "title": "Goodbye Casanova",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583248",
+    "imdb": "tt0259333",
+    "tmdb": 1184877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
