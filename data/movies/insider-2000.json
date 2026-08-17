@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insider_2000",
+  "title": "The Insider",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q463832",
+    "imdb": "tt0140352",
+    "tmdb": 9008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-27",
+  "runtime_minutes": 157
+}

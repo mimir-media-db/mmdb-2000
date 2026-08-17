@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_2000",
+  "title": "If",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349704",
+    "imdb": "tt0375827",
+    "tmdb": 814570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-24"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadow_of_hollywood_2000",
+  "title": "In The Shadow Of Hollywood",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123304105"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

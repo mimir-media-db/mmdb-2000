@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indriyam_2000",
+  "title": "Indriyam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736238",
+    "imdb": "tt0283405",
+    "tmdb": 262996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-08"
+}
