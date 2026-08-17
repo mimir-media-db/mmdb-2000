@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unreported_world",
+  "title": "Unreported World",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7897382",
+    "imdb": "tt0477545",
+    "tmdb": 16108
+  },
+  "last_updated": "2026-08-17"
+}
