@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yeyamba_wandze_mdrou_ndo_2000",
+  "title": "Yéyamba Wandzé Mdrou Ndo?",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100710368",
+    "imdb": "tt3147898",
+    "tmdb": 470953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 55
+}
