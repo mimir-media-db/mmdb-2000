@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nachttanke_2000",
+  "title": "Nachttanke",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23653351",
+    "imdb": "tt0245309",
+    "tmdb": 531218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-08",
+  "runtime_minutes": 88
+}

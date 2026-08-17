@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nutty_professor_ii_the_klumps_2000",
+  "title": "Nutty Professor II: The Klumps",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q599432",
+    "imdb": "tt0144528",
+    "tmdb": 12107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-28",
+  "runtime_minutes": 103
+}
