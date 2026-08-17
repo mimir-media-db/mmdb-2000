@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hellblock_13_2000",
+  "title": "Hellblock 13",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4088281",
+    "imdb": "tt0119277",
+    "tmdb": 132802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

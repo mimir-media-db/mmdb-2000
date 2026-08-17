@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_howling_for_god_2000",
+  "title": "Howling for God",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44866397",
+    "imdb": "tt0240338",
+    "tmdb": 1423947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

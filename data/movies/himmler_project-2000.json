@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_himmler_project_2000",
+  "title": "The Himmler Project",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1168969",
+    "imdb": "tt0266624",
+    "tmdb": 153399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 182
+}

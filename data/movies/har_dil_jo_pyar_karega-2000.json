@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_har_dil_jo_pyar_karega_2000",
+  "title": "Har Dil Jo Pyar Karega",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1500930",
+    "imdb": "tt0250415",
+    "tmdb": 157800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 173
+}

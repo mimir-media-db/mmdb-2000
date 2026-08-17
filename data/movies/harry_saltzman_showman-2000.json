@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harry_saltzman_showman_2000",
+  "title": "Harry Saltzman: Showman",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5672177",
+    "imdb": "tt0322503",
+    "tmdb": 685321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

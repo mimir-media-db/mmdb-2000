@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hadh_kar_di_aapne_2000",
+  "title": "Hadh Kar Di Aapne",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q851445",
+    "imdb": "tt0244528",
+    "tmdb": 46385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
