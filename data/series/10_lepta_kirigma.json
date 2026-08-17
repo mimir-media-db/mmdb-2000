@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_10_lepta_kirigma",
+  "title": "10 lepta kirigma",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16326865",
+    "imdb": "tt0294055",
+    "tmdb": 102103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 111
+}

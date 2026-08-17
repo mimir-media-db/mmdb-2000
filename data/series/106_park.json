@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_106_park",
+  "title": "106 & Park",
+  "start_year": 2000,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3284141",
+    "imdb": "tt0350384",
+    "tmdb": 2439
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3710
+}
