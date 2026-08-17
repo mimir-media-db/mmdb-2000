@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_from_the_heart_2000",
+  "title": "Goodbye From the Heart",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5657775",
+    "imdb": "tt0256583",
+    "tmdb": 257495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-07",
+  "runtime_minutes": 91
+}

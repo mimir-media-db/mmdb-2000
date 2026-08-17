@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_galaxy_quest_2000",
+  "title": "Galaxy Quest",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q502067",
+    "imdb": "tt0177789",
+    "tmdb": 926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-13",
+  "runtime_minutes": 102
+}

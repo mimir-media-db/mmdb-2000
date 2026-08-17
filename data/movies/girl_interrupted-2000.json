@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_interrupted_2000",
+  "title": "Girl, Interrupted",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q463101",
+    "imdb": "tt0172493",
+    "tmdb": 3558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-15",
+  "runtime_minutes": 122
+}

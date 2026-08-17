@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ghar_kab_aao_gay_2000",
+  "title": "Ghar Kab Aao Gay",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5555661",
+    "imdb": "tt32380497"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-09"
+}

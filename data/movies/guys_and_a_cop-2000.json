@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guys_and_a_cop_2000",
+  "title": "Guys and a Cop",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330651",
+    "imdb": "tt2300977",
+    "tmdb": 411222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-21"
+}

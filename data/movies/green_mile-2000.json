@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_mile_2000",
+  "title": "The Green Mile",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q208263",
+    "imdb": "tt0120689",
+    "tmdb": 497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-10",
+  "runtime_minutes": 189
+}
