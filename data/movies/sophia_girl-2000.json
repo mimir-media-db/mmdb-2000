@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_sophia_girl_2000",
+  "title": "Sophia Girl",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139818820"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

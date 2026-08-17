@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_still_waters_2000",
+  "title": "Still Waters",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4458475",
+    "imdb": "tt0261354",
+    "tmdb": 64181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-16",
+  "runtime_minutes": 132
+}

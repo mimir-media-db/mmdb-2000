@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_fighter_alpha_the_animation_2000",
+  "title": "Street Fighter Alpha: The Animation",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3082893",
+    "imdb": "tt0185708",
+    "tmdb": 17433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-31",
+  "runtime_minutes": 93
+}

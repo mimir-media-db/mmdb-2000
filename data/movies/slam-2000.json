@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slam_2000",
+  "title": "Slam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3486518",
+    "imdb": "tt0139615",
+    "tmdb": 37532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-28",
+  "runtime_minutes": 100
+}

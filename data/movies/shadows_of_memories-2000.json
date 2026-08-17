@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadows_of_memories_2000",
+  "title": "Shadows of Memories",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8750025",
+    "imdb": "tt0192346",
+    "tmdb": 478416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-01"
+}

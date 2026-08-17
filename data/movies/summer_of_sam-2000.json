@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_of_sam_2000",
+  "title": "Summer of Sam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1150713",
+    "imdb": "tt0162677",
+    "tmdb": 10279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-14",
+  "runtime_minutes": 136
+}

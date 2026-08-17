@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_asleep_2000",
+  "title": "She's Asleep",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80359520",
+    "imdb": "tt0247299",
+    "tmdb": 476982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 75
+}

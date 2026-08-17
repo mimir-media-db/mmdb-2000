@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sono_positivo_2000",
+  "title": "Sono positivo",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61468158",
+    "imdb": "tt0221561",
+    "tmdb": 146945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-02",
+  "runtime_minutes": 96
+}

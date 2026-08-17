@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_such_is_life_2000",
+  "title": "Such Is Life",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7174685",
+    "imdb": "tt0218822",
+    "tmdb": 106199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-14",
+  "runtime_minutes": 98
+}

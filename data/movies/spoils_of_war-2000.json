@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spoils_of_war_2000",
+  "title": "Spoils of War",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7578836",
+    "imdb": "tt0225210",
+    "tmdb": 624721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-01",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_and_lowdown_2000",
+  "title": "Sweet and Lowdown",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q786585",
+    "imdb": "tt0158371",
+    "tmdb": 9684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-30",
+  "runtime_minutes": 95
+}

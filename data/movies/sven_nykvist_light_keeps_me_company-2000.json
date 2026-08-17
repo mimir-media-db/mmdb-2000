@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sven_nykvist_light_keeps_me_company_2000",
+  "title": "Sven Nykvist: Light Keeps Me Company",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10568431",
+    "imdb": "tt0151372",
+    "tmdb": 150578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-05",
+  "runtime_minutes": 76
+}

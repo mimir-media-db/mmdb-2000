@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_short_and_shirt_and_cap_2000",
+  "title": "Short and Shirt and Cap",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12219246",
+    "imdb": "tt0417129",
+    "tmdb": 472112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-01",
+  "runtime_minutes": 105
+}

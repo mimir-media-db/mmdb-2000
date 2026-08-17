@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_business_of_going_2000",
+  "title": "The Slow Business of Going",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63450237",
+    "imdb": "tt0269876",
+    "tmdb": 249934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

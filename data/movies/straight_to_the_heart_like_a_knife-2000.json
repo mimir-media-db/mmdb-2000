@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_to_the_heart_like_a_knife_2000",
+  "title": "Straight to the Heart Like a Knife",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96652521",
+    "imdb": "tt0169027",
+    "tmdb": 653776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-09",
+  "runtime_minutes": 93
+}
