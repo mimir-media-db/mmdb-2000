@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fat_friends",
+  "title": "Fat Friends",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5437191",
+    "imdb": "tt0264246",
+    "tmdb": 1052
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

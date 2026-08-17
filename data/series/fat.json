@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fat",
+  "title": "The Fat",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7733504",
+    "imdb": "tt0343260",
+    "tmdb": 14969
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 95
+}

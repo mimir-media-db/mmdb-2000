@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fabrixx",
+  "title": "Fabrixx",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1390832",
+    "imdb": "tt0275160"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 220
+}

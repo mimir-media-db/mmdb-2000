@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_fly",
+  "title": "FLY 航空学園グラフィティ",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11199274",
+    "tmdb": 202589
+  },
+  "last_updated": "2026-08-17"
+}
