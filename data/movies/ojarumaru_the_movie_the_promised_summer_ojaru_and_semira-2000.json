@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ojarumaru_the_movie_the_promised_summer_ojaru_and_semira_2000",
+  "title": "Ojarumaru the Movie: The Promised Summer - Ojaru and Semira",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11513254",
+    "imdb": "tt7411200",
+    "tmdb": 929017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-15"
+}

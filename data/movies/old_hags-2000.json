@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_hags_2000",
+  "title": "Old Hags",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q718486",
+    "imdb": "tt0240033",
+    "tmdb": 57781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-03",
+  "runtime_minutes": 127
+}

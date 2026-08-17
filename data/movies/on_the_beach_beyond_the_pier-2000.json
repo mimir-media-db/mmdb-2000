@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_beach_beyond_the_pier_2000",
+  "title": "On the Beach Beyond the Pier",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65458883",
+    "imdb": "tt0207130",
+    "tmdb": 1432570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

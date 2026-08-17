@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ostatnia_misja_2000",
+  "title": "Ostatnia misja",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11043885",
+    "imdb": "tt0281019",
+    "tmdb": 232260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-03-24"
+}

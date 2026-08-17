@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onegin_2000",
+  "title": "Onegin",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50969",
+    "imdb": "tt0119079",
+    "tmdb": 30237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-21",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_overnight_sensation_2000",
+  "title": "Overnight Sensation",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46125376",
+    "imdb": "tt0203047",
+    "tmdb": 430640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-14",
+  "runtime_minutes": 90
+}
