@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_street_legal",
+  "title": "Street Legal",
+  "start_year": 1999,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7622872",
+    "imdb": "tt0270807",
+    "tmdb": 5688
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_swieta_wojna",
+  "title": "Święta wojna",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q9396657",
+    "imdb": "tt0270164",
+    "tmdb": 194927
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 322
+}

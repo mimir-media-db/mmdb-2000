@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_solo_boxeo",
+  "title": "Solo boxeo",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q7558489",
+    "imdb": "tt1244656"
+  },
+  "last_updated": "2026-08-17"
+}

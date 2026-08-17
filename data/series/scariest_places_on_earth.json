@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scariest_places_on_earth",
+  "title": "Scariest Places on Earth",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7430400",
+    "imdb": "tt0280312",
+    "tmdb": 2028
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 41
+}

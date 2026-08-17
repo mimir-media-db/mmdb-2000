@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sun_never_sets",
+  "title": "The Sun Never Sets",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q11278212",
+    "tmdb": 231057
+  },
+  "last_updated": "2026-08-17"
+}

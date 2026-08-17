@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_starhunter",
+  "title": "Starhunter",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q522984",
+    "imdb": "tt0250750",
+    "tmdb": 3380
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}

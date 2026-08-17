@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_screech_owls",
+  "title": "Screech Owls",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7762701",
+    "imdb": "tt0275151",
+    "tmdb": 23176
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

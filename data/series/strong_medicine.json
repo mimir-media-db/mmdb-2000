@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strong_medicine",
+  "title": "Strong Medicine",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q549409",
+    "imdb": "tt0252019",
+    "tmdb": 4544
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 132
+}

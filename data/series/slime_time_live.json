@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_slime_time_live",
+  "title": "Slime Time Live",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16167600",
+    "imdb": "tt0303533"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 13
+}

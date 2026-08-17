@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_little_monsters",
+  "title": "Seven Little Monsters",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4409783",
+    "imdb": "tt0274284",
+    "tmdb": 20113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 54
+}
