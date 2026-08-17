@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_t_the_women_2000",
+  "title": "Dr. T & the Women",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1254108",
+    "imdb": "tt0205271",
+    "tmdb": 10763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 122
+}

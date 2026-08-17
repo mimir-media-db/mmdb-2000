@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_vriendschap_2000",
+  "title": "De Vriendschap",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1841826",
+    "imdb": "tt0266017",
+    "tmdb": 96586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_deceit_and_destiny_aboard_the_orient_express_2000",
+  "title": "Death, Deceit and Destiny Aboard the Orient Express",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247042",
+    "imdb": "tt0295925",
+    "tmdb": 85583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 92
+}

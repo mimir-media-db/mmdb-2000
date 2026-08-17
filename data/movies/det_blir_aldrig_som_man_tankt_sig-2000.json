@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_det_blir_aldrig_som_man_tankt_sig_2000",
+  "title": "Det blir aldrig som man tänkt sig",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10469908",
+    "imdb": "tt0158581",
+    "tmdb": 68689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 114
+}

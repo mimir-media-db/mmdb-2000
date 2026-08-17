@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dollar_dreams_2000",
+  "title": "Dollar Dreams",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5289212",
+    "imdb": "tt2076837",
+    "tmdb": 117066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

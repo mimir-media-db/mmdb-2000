@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_babies_2000",
+  "title": "Dead Babies",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245096",
+    "imdb": "tt0218138",
+    "tmdb": 42391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 101
+}
