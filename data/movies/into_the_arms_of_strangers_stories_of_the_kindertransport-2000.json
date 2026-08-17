@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_arms_of_strangers_stories_of_the_kindertransport_2000",
+  "title": "Into the Arms of Strangers: Stories of the Kindertransport",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1225068",
+    "imdb": "tt0248912",
+    "tmdb": 58062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 122
+}

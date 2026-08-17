@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ingane_oru_nilapakshi_2000",
+  "title": "Ingane Oru Nilapakshi",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q375251",
+    "imdb": "tt0282615",
+    "tmdb": 353025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

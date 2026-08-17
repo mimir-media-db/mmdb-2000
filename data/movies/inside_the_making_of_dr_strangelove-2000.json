@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_the_making_of_dr_strangelove_2000",
+  "title": "Inside the Making of Dr. Strangelove",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3799129",
+    "imdb": "tt0293282",
+    "tmdb": 196738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 45
+}
