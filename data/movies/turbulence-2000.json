@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turbulence_2000",
+  "title": "Turbulence",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7854768",
+    "imdb": "tt0189509",
+    "tmdb": 185775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

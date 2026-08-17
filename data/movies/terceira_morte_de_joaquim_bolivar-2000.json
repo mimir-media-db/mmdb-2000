@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terceira_morte_de_joaquim_bolivar_2000",
+  "title": "A Terceira Morte de Joaquim Bolívar",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9559077",
+    "imdb": "tt0252055",
+    "tmdb": 455182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

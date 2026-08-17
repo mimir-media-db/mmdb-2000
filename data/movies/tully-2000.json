@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tully_2000",
+  "title": "Tully",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7852237",
+    "imdb": "tt0212604",
+    "tmdb": 20861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

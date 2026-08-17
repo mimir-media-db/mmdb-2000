@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_others_2000",
+  "title": "The Taste of Others",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q348013",
+    "imdb": "tt0216787",
+    "tmdb": 10697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 112
+}

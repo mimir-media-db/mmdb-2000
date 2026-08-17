@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traitor_or_patriot_2000",
+  "title": "Traitor or Patriot",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3276729",
+    "imdb": "tt0249197",
+    "tmdb": 685320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

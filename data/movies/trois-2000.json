@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trois_2000",
+  "title": "Trois",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7845048",
+    "imdb": "tt0217107",
+    "tmdb": 77908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

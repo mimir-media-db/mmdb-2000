@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_town_is_quiet_2000",
+  "title": "The Town Is Quiet",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214258",
+    "imdb": "tt0234988",
+    "tmdb": 67385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_too_much_sex_2000",
+  "title": "Too Much Sex",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7823925",
+    "imdb": "tt0216292",
+    "tmdb": 449885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
