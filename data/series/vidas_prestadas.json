@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vidas_prestadas",
+  "title": "Vidas prestadas",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15714808",
+    "imdb": "tt0289032",
+    "tmdb": 107624
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

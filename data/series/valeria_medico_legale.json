@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_valeria_medico_legale",
+  "title": "Valeria medico legale",
+  "start_year": 1999,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q4007820",
+    "imdb": "tt0179575"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
