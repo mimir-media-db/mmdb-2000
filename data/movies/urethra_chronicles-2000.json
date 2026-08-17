@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urethra_chronicles_2000",
+  "title": "The Urethra Chronicles",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283397",
+    "imdb": "tt0221832",
+    "tmdb": 62090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_syndrome_2000",
+  "title": "Up Syndrome",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7898001",
+    "imdb": "tt0261375",
+    "tmdb": 92704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

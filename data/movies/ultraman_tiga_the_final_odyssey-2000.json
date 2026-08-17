@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultraman_tiga_the_final_odyssey_2000",
+  "title": "Ultraman Tiga: The Final Odyssey",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7880589",
+    "imdb": "tt0228982",
+    "tmdb": 113094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
