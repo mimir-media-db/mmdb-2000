@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_den_rozhdeniya_burzhuya",
+  "title": "Den rozhdeniya Burzhuya",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q4158405",
+    "imdb": "tt0249286",
+    "tmdb": 101783
+  },
+  "last_updated": "2026-08-17"
+}

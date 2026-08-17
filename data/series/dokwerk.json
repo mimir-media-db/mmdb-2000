@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dokwerk",
+  "title": "Dokwerk",
+  "start_year": 1999,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q22041676"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 158
+}

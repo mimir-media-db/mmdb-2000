@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daddio",
+  "title": "Daddio",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q2066981",
+    "imdb": "tt0198099",
+    "tmdb": 10022
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

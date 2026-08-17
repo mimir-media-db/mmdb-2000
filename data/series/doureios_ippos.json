@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doureios_ippos",
+  "title": "Doureios Ippos",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q113650571",
+    "imdb": "tt0341743",
+    "tmdb": 64828
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

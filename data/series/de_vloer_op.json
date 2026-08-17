@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_vloer_op",
+  "title": "De vloer op",
+  "start_year": 2000,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q2392462",
+    "imdb": "tt0476122"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 19,
+  "total_episodes": 22
+}

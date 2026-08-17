@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_da_ali_g_show",
+  "title": "Da Ali G Show",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q611100",
+    "imdb": "tt0241088",
+    "tmdb": 4417
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

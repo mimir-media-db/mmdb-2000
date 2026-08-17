@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_donde_va_soledad",
+  "title": "A donde va Soledad",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5654261",
+    "imdb": "tt0247077",
+    "tmdb": 285734
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 117
+}

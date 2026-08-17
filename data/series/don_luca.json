@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_don_luca",
+  "title": "Don Luca",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q933360",
+    "imdb": "tt0211161",
+    "tmdb": 41542
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

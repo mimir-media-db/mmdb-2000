@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_david_jeremiah",
+  "title": "Dr. David Jeremiah",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140369926",
+    "imdb": "tt1343861"
+  },
+  "last_updated": "2026-08-17"
+}

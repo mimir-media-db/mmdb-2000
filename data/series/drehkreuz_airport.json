@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drehkreuz_airport",
+  "title": "Drehkreuz Airport",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q1256513",
+    "imdb": "tt0274473"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
