@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hacio",
+  "title": "Hacio",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5637153"
+  },
+  "last_updated": "2026-08-17"
+}

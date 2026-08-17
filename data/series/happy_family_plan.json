@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_family_plan",
+  "title": "Happy Family Plan",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3127177",
+    "imdb": "tt0259343"
+  },
+  "last_updated": "2026-08-17"
+}

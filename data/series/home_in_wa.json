@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_home_in_wa",
+  "title": "Home in WA",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5889076"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16
+}

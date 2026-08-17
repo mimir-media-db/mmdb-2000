@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harry_enfields_brand_spanking_new_show",
+  "title": "Harry Enfield's Brand Spanking New Show",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5668668",
+    "imdb": "tt0260601",
+    "tmdb": 39583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
