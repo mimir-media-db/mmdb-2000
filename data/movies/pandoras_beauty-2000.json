@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandoras_beauty_2000",
+  "title": "Pandora's Beauty",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63871346",
+    "imdb": "tt0233309",
+    "tmdb": 172946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-18"
+}

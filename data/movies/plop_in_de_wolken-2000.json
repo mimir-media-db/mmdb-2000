@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plop_in_de_wolken_2000",
+  "title": "Plop in de wolken",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2459759",
+    "imdb": "tt0271723",
+    "tmdb": 53605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-06",
+  "runtime_minutes": 75
+}

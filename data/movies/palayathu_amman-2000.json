@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palayathu_amman_2000",
+  "title": "Palayathu Amman",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7126964",
+    "imdb": "tt14787878",
+    "tmdb": 476903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-28"
+}

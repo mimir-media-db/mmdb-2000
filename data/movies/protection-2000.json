@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_protection_2000",
+  "title": "Protection",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64577478",
+    "imdb": "tt0263905",
+    "tmdb": 775684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-26",
+  "runtime_minutes": 77
+}

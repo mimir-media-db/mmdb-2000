@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_breport_2000",
+  "title": "Plan B/Report",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16420790",
+    "imdb": "tt0268776",
+    "tmdb": 324466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pisces_2000",
+  "title": "Pisces",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21576755",
+    "imdb": "tt0380565",
+    "tmdb": 114130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-21"
+}

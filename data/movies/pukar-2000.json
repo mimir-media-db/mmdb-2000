@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pukar_2000",
+  "title": "Pukar",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q920943",
+    "imdb": "tt0218533",
+    "tmdb": 41381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-11",
+  "runtime_minutes": 176
+}
