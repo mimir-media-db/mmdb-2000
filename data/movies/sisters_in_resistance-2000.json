@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_resistance_2000",
+  "title": "Sisters in Resistance",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7531304",
+    "imdb": "tt0365759",
+    "tmdb": 204560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

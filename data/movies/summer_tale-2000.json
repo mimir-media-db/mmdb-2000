@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_tale_2000",
+  "title": "A Summer Tale",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756182",
+    "imdb": "tt0497358"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

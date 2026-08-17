@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_brothers_2000",
+  "title": "The Sister Brothers",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232827",
+    "imdb": "tt0181548",
+    "tmdb": 457070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

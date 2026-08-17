@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swan_song_2000",
+  "title": "Swan Song",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5884791",
+    "imdb": "tt1907617",
+    "tmdb": 753481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 87
+}

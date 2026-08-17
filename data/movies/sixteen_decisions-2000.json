@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sixteen_decisions_2000",
+  "title": "Sixteen Decisions",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7533042",
+    "imdb": "tt1578268",
+    "tmdb": 1487938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 60
+}

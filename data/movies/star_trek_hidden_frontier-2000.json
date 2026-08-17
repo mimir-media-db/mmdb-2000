@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_hidden_frontier_2000",
+  "title": "Star Trek: Hidden Frontier",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2332518",
+    "imdb": "tt0467491"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

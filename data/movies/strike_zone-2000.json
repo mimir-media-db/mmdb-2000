@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strike_zone_2000",
+  "title": "Strike Zone",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16700365",
+    "imdb": "tt0202602",
+    "tmdb": 467455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 111
+}

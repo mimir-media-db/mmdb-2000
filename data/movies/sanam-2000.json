@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sanam_2000",
+  "title": "Sanam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755969",
+    "imdb": "tt0254749",
+    "tmdb": 262156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

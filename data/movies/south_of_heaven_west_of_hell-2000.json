@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_of_heaven_west_of_hell_2000",
+  "title": "South of Heaven, West of Hell",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18510515",
+    "imdb": "tt0179473",
+    "tmdb": 24470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 132
+}

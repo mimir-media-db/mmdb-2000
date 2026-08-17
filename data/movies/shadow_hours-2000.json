@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_hours_2000",
+  "title": "Shadow Hours",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3604372",
+    "imdb": "tt0226430",
+    "tmdb": 68206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

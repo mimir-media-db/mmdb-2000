@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_fa_presto_a_dire_amore_2000",
+  "title": "Si fa presto a dire amore...",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3959922",
+    "imdb": "tt0206128",
+    "tmdb": 113598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 95
+}

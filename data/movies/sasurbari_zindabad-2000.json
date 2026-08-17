@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sasurbari_zindabad_2000",
+  "title": "Sasurbari Zindabad",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16961312",
+    "imdb": "tt4245510",
+    "tmdb": 616565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
