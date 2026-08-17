@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romancing_bullet_2000",
+  "title": "Romancing Bullet",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354317",
+    "imdb": "tt5774042",
+    "tmdb": 637553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-12"
+}

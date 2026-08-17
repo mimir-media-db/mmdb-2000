@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruination_of_men_2000",
+  "title": "The Ruination of Men",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16570652",
+    "imdb": "tt0255473",
+    "tmdb": 111649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-08",
+  "runtime_minutes": 106
+}

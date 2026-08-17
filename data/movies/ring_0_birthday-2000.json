@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ring_0_birthday_2000",
+  "title": "Ring 0: Birthday",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1337009",
+    "imdb": "tt0235712",
+    "tmdb": 9674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-22",
+  "runtime_minutes": 95
+}

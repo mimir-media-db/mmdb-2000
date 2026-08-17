@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_of_a_gangster_2000",
+  "title": "Rules of a Gangster",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21706974",
+    "tmdb": 892338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-07"
+}

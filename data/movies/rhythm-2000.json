@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rhythm_2000",
+  "title": "Rhythm",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7321896",
+    "imdb": "tt0285993",
+    "tmdb": 69446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-09-15",
+  "runtime_minutes": 143
+}

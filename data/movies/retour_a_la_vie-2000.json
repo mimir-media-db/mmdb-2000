@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_retour_a_la_vie_2000",
+  "title": "Retour à la vie",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65157664",
+    "imdb": "tt0258923",
+    "tmdb": 573338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

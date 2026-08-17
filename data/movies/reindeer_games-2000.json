@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reindeer_games_2000",
+  "title": "Reindeer Games",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q676939",
+    "imdb": "tt0184858",
+    "tmdb": 2155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-24",
+  "runtime_minutes": 104
+}
