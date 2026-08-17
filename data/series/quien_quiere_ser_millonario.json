@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_quien_quiere_ser_millonario",
+  "title": "¿Quién quiere ser millonario?",
+  "start_year": 2000,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q8076452",
+    "tmdb": 36573
+  },
+  "last_updated": "2026-08-17"
+}

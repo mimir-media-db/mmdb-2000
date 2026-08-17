@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queer_as_folk",
+  "title": "Queer as Folk",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q23619",
+    "imdb": "tt0262985",
+    "tmdb": 2902
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 83
+}

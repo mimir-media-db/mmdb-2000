@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_quiz",
+  "title": "Quiz",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11240257",
+    "imdb": "tt1321297",
+    "tmdb": 114116
+  },
+  "last_updated": "2026-08-17"
+}
