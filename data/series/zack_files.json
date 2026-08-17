@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zack_files",
+  "title": "The Zack Files",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2544609",
+    "imdb": "tt0267237",
+    "tmdb": 2340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}
