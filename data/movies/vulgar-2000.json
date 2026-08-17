@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulgar_2000",
+  "title": "Vulgar",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7943531",
+    "imdb": "tt0120467",
+    "tmdb": 19085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_villalobos_a_life_of_passion_2000",
+  "title": "Villa-Lobos: A Life of Passion",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8513746",
+    "imdb": "tt0245547",
+    "tmdb": 250224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 130
+}

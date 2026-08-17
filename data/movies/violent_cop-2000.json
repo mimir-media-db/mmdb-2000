@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_violent_cop_2000",
+  "title": "Violent Cop",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7933158",
+    "imdb": "tt4143626",
+    "tmdb": 1163500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
