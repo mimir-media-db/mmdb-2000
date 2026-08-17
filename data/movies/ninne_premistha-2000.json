@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninne_premistha_2000",
+  "title": "Ninne Premistha",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7038994",
+    "imdb": "tt1579821",
+    "tmdb": 307920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
