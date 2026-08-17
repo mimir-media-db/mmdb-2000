@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_me_adapto_2000",
+  "title": "Yo me adapto",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17566643",
+    "imdb": "tt0383722",
+    "tmdb": 1605987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 13
+}

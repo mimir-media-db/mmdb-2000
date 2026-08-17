@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yejamana_2000",
+  "title": "Yejamana",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13160774",
+    "imdb": "tt3180664",
+    "tmdb": 715567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

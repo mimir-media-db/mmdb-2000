@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_card_2000",
+  "title": "Yellow Card",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9397943",
+    "imdb": "tt0275802",
+    "tmdb": 299514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

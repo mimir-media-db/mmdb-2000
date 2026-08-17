@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_the_one_2000",
+  "title": "You're the One",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4022923",
+    "imdb": "tt0266079",
+    "tmdb": 156635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 111
+}
