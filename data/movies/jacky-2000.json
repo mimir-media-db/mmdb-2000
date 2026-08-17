@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jacky_2000",
+  "title": "Jacky",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4280086",
+    "imdb": "tt0246710",
+    "tmdb": 389565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_ride_2000",
+  "title": "Joy Ride",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q690555",
+    "imdb": "tt0275812",
+    "tmdb": 377538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 90
+}

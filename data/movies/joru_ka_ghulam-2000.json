@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joru_ka_ghulam_2000",
+  "title": "Joru Ka Ghulam",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6279031",
+    "imdb": "tt0250452",
+    "tmdb": 232696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
