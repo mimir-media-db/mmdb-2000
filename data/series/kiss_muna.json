@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kiss_muna",
+  "title": "Kiss Muna",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6416995",
+    "imdb": "tt0452915",
+    "tmdb": 20853
+  },
+  "last_updated": "2026-08-17"
+}
