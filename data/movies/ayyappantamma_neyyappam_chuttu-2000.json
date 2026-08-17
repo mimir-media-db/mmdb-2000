@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ayyappantamma_neyyappam_chuttu_2000",
+  "title": "Ayyappantamma Neyyappam Chuttu",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4831901",
+    "imdb": "tt0281624",
+    "tmdb": 692636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

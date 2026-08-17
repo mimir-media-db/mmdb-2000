@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angye_2000",
+  "title": "Ang-Ye",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13023910",
+    "imdb": "tt0779970",
+    "tmdb": 424456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

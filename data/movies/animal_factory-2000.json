@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_factory_2000",
+  "title": "Animal Factory",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2712834",
+    "imdb": "tt0204137",
+    "tmdb": 9791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anak_2000",
+  "title": "Anak",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q597721",
+    "imdb": "tt0246425",
+    "tmdb": 85265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_wrong_places_2000",
+  "title": "All the Wrong Places",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16824840",
+    "imdb": "tt0177513",
+    "tmdb": 281537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

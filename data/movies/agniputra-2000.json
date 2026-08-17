@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agniputra_2000",
+  "title": "Agniputra",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4693262",
+    "imdb": "tt2008444",
+    "tmdb": 819020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

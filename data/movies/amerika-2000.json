@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amerika_2000",
+  "title": "Amerika",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15782929",
+    "imdb": "tt0231131",
+    "tmdb": 429968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 60
+}

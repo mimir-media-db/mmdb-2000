@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_the_birds_2000",
+  "title": "All About \"The Birds\"",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2837443",
+    "imdb": "tt0252222",
+    "tmdb": 132738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 80
+}

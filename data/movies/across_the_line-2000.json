@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_line_2000",
+  "title": "Across the Line",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4676488",
+    "imdb": "tt0164318",
+    "tmdb": 68605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 99
+}
