@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_on_haunted_hill_2000",
+  "title": "House on Haunted Hill",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1057264",
+    "imdb": "tt0185371",
+    "tmdb": 11377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-27",
+  "runtime_minutes": 89
+}

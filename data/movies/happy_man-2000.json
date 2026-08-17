@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_man_2000",
+  "title": "Happy Man",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9351237",
+    "imdb": "tt0269932",
+    "tmdb": 47193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-11-06",
+  "runtime_minutes": 98
+}

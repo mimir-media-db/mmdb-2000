@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunters_in_the_snow_2000",
+  "title": "Hunters in the Snow",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58877745",
+    "imdb": "tt0233854",
+    "tmdb": 293260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-02-12"
+}

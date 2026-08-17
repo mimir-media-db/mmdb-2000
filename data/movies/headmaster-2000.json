@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_headmaster_2000",
+  "title": "The Headmaster",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12194238",
+    "imdb": "tt0424986",
+    "tmdb": 415488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-07-26",
+  "runtime_minutes": 120
+}

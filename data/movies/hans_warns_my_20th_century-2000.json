@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hans_warns_my_20th_century_2000",
+  "title": "Hans Warns: My 20th Century",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013867",
+    "imdb": "tt0215828",
+    "tmdb": 476954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-20"
+}

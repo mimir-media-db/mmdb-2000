@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horrible_dr_bones_2000",
+  "title": "The Horrible Dr. Bones",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111468726",
+    "imdb": "tt0240585",
+    "tmdb": 191447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}
