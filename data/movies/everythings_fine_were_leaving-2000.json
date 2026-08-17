@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everythings_fine_were_leaving_2000",
+  "title": "Everything's Fine, We're Leaving",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2648673",
+    "imdb": "tt0213595",
+    "tmdb": 89560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-06-24",
+  "runtime_minutes": 93
+}

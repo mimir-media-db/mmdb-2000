@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_essentially_dee_2000",
+  "title": "Essentially Dee",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139492039",
+    "imdb": "tt0233666"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-14",
+  "runtime_minutes": 120
+}

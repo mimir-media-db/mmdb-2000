@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_sakhiye_2000",
+  "title": "En Sakhiye",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12916450",
+    "imdb": "tt14787802",
+    "tmdb": 1699001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-12-01"
+}
