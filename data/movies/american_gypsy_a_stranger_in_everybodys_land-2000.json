@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_gypsy_a_stranger_in_everybodys_land_2000",
+  "title": "American Gypsy: A Stranger in Everybody's Land",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106815558",
+    "imdb": "tt0249347",
+    "tmdb": 290073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01"
+}

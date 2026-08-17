@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agaclar_ayakta_olur_2000",
+  "title": "Ağaçlar Ayakta Ölür",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473341",
+    "imdb": "tt0465138",
+    "tmdb": 340046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-10-04"
+}

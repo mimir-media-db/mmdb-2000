@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthurs_perfect_christmas_2000",
+  "title": "Arthur's Perfect Christmas",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104467773",
+    "imdb": "tt0268948",
+    "tmdb": 366978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 60
+}

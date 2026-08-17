@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_in_the_infield_2000",
+  "title": "Angels in the Infield",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4763089",
+    "imdb": "tt0238038",
+    "tmdb": 72956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-04-09",
+  "runtime_minutes": 89
+}

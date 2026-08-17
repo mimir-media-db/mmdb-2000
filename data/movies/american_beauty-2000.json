@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_beauty_2000",
+  "title": "American Beauty",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25139",
+    "imdb": "tt0169547",
+    "tmdb": 14
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-20",
+  "runtime_minutes": 121
+}

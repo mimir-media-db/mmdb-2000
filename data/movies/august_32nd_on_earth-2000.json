@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_32nd_on_earth_2000",
+  "title": "August 32nd on Earth",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q665371",
+    "imdb": "tt0156248",
+    "tmdb": 59482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-08-03",
+  "runtime_minutes": 88
+}

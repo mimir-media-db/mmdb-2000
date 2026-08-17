@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_article_15_bis_2000",
+  "title": "Article 15 bis",
+  "year": 2000,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134445526",
+    "imdb": "tt0256617",
+    "tmdb": 774831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2000-01-01",
+  "runtime_minutes": 15
+}
