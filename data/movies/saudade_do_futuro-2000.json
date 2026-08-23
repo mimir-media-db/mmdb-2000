@@ -16,5 +16,11 @@
     "Documentary",
     "Music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "BR",
+    "FR",
+    "PT"
+  ]
 }

@@ -15,5 +15,11 @@
   "genres": [
     "Action"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BG",
+    "CA",
+    "GB",
+    "US"
+  ]
 }

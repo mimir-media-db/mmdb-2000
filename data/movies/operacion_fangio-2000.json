@@ -16,5 +16,10 @@
     "Action",
     "Comedy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "CU",
+    "ES"
+  ]
 }

@@ -13,5 +13,8 @@
     "children's film",
     "children's music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
 }
