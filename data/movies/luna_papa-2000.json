@@ -16,5 +16,14 @@
     "Comedy",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "CH",
+    "DE",
+    "FR",
+    "JP",
+    "RU",
+    "TJ"
+  ]
 }

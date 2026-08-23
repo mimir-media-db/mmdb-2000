@@ -16,5 +16,13 @@
     "Family",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "DE",
+    "FR",
+    "HU",
+    "PL",
+    "SK"
+  ]
 }

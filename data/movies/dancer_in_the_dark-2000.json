@@ -17,5 +17,19 @@
     "Drama",
     "Musical"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "IS",
+    "IT",
+    "NO",
+    "SE",
+    "US"
+  ]
 }
