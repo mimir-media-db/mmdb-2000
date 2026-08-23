@@ -9,7 +9,13 @@
     "imdb": "tt0144201",
     "tmdb": 10401
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-05-04",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

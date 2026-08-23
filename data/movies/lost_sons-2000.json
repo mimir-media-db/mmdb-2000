@@ -8,6 +8,10 @@
     "wikidata": "Q10468631",
     "imdb": "tt0280881"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-03-29"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-03-29",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

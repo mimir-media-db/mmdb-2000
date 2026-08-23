@@ -9,7 +9,13 @@
     "imdb": "tt0254920",
     "tmdb": 24028
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 2
+  "total_episodes": 2,
+  "genres": [
+    "Animation",
+    "Biography",
+    "Comedy"
+  ],
+  "is_adult": false
 }

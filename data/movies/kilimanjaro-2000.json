@@ -9,6 +9,11 @@
     "imdb": "tt0297231",
     "tmdb": 265779
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-05-20"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-05-20",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "is_adult": false
 }

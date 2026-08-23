@@ -9,7 +9,13 @@
     "imdb": "tt0170705",
     "tmdb": 8056
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-03-23",
-  "runtime_minutes": 103
+  "runtime_minutes": 103,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

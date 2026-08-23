@@ -9,7 +9,13 @@
     "imdb": "tt0134119",
     "tmdb": 1213
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-02-17",
-  "runtime_minutes": 139
+  "runtime_minutes": 139,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

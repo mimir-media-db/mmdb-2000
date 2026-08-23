@@ -9,6 +9,11 @@
     "imdb": "tt0236702",
     "tmdb": 74885
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-08-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-08-04",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

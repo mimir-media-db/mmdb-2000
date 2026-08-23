@@ -9,6 +9,10 @@
     "imdb": "tt0286012",
     "tmdb": 620490
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-09-26"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-09-26",
+  "genres": [
+    "Short"
+  ],
+  "is_adult": false
 }

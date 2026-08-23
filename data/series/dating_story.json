@@ -9,5 +9,10 @@
     "imdb": "tt0396980",
     "tmdb": 20822
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV",
+    "Romance"
+  ],
+  "is_adult": false
 }

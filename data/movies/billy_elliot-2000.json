@@ -9,7 +9,12 @@
     "imdb": "tt0249462",
     "tmdb": 71
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-09-29",
-  "runtime_minutes": 111
+  "runtime_minutes": 111,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

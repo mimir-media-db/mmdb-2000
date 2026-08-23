@@ -8,5 +8,11 @@
     "wikidata": "Q4860290",
     "imdb": "tt0252126"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

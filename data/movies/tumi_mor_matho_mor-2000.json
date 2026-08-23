@@ -9,6 +9,12 @@
     "imdb": "tt8561732",
     "tmdb": 740825
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-01-01",
+  "genres": [
+    "Action",
+    "Musical",
+    "Romance"
+  ],
+  "is_adult": false
 }

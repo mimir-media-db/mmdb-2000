@@ -9,6 +9,11 @@
     "imdb": "tt4000160",
     "tmdb": 119865
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-03-16"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-03-16",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false
 }

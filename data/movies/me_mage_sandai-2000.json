@@ -9,6 +9,12 @@
     "imdb": "tt0280927",
     "tmdb": 485143
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-12-09"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-12-09",
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "is_adult": false
 }

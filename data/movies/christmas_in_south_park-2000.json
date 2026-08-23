@@ -8,6 +8,12 @@
     "wikidata": "Q30415620",
     "imdb": "tt0263206"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-11-07"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-11-07",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Musical"
+  ],
+  "is_adult": false
 }

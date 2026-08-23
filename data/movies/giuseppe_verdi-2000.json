@@ -8,6 +8,12 @@
     "wikidata": "Q3771611",
     "imdb": "tt0360601"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-01-01",
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

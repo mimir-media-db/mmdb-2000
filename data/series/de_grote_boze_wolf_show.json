@@ -9,6 +9,11 @@
     "imdb": "tt0287852",
     "tmdb": 139311
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 39
+  "last_updated": "2026-08-23",
+  "total_episodes": 39,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

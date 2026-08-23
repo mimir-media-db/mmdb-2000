@@ -9,5 +9,11 @@
     "imdb": "tt0244342",
     "tmdb": 10229
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }
