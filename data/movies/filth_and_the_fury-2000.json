@@ -9,7 +9,13 @@
     "imdb": "tt0236216",
     "tmdb": 27745
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-01-20",
-  "runtime_minutes": 108
+  "runtime_minutes": 108,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

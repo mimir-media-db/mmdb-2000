@@ -9,7 +9,13 @@
     "imdb": "tt0291349",
     "tmdb": 797104
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-10-31",
-  "runtime_minutes": 87
+  "runtime_minutes": 87,
+  "genres": [
+    "Adult",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": true
 }

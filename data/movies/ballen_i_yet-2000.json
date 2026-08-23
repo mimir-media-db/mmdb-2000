@@ -9,7 +9,12 @@
     "imdb": "tt0172160",
     "tmdb": 419110
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-01-31",
-  "runtime_minutes": 81
+  "runtime_minutes": 81,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

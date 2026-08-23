@@ -9,6 +9,12 @@
     "imdb": "tt0380202",
     "tmdb": 145501
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-09-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-09-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false
 }

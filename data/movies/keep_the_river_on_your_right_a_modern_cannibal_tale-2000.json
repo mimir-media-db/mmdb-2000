@@ -9,7 +9,13 @@
     "imdb": "tt0206187",
     "tmdb": 65075
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-01-01",
-  "runtime_minutes": 93
+  "runtime_minutes": 93,
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "Romance"
+  ],
+  "is_adult": false
 }

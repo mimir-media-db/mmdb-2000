@@ -9,7 +9,11 @@
     "imdb": "tt0340957",
     "tmdb": 424313
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-01-01",
-  "runtime_minutes": 41
+  "runtime_minutes": 41,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false
 }

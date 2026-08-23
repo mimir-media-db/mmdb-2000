@@ -9,7 +9,11 @@
     "imdb": "tt0151372",
     "tmdb": 150578
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-02-05",
-  "runtime_minutes": 76
+  "runtime_minutes": 76,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

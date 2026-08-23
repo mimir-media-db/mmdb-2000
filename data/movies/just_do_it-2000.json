@@ -9,6 +9,10 @@
     "imdb": "tt0297163",
     "tmdb": 489333
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-10-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-10-28",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

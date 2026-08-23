@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q16155426"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-05-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-05-08",
+  "genres": [
+    "children's film",
+    "children's music"
+  ],
+  "is_adult": false
 }

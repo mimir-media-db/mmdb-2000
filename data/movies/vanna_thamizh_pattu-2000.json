@@ -9,6 +9,10 @@
     "imdb": "tt14353332",
     "tmdb": 821331
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-11-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-11-17",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

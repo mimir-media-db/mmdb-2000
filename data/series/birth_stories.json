@@ -8,7 +8,11 @@
     "wikidata": "Q4917001",
     "imdb": "tt7989824"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 101
+  "total_episodes": 101,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0174856",
     "tmdb": 10400
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-03-02",
-  "runtime_minutes": 146
+  "runtime_minutes": 146,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

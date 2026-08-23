@@ -9,7 +9,13 @@
     "imdb": "tt0231055",
     "tmdb": 16562
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 7
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false
 }

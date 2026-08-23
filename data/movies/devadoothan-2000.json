@@ -9,6 +9,12 @@
     "imdb": "tt0280599",
     "tmdb": 240157
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-12-25"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-12-25",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Musical"
+  ],
+  "is_adult": false
 }

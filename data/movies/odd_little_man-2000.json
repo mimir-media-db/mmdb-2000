@@ -9,7 +9,12 @@
     "imdb": "tt0197392",
     "tmdb": 24656
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-09-01",
-  "runtime_minutes": 88
+  "runtime_minutes": 88,
+  "genres": [
+    "Biography",
+    "Comedy"
+  ],
+  "is_adult": false
 }

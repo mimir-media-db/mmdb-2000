@@ -9,6 +9,11 @@
     "imdb": "tt0185007",
     "tmdb": 51107
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-03-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-03-10",
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false
 }

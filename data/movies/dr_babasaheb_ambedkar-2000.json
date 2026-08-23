@@ -9,6 +9,11 @@
     "imdb": "tt0270321",
     "tmdb": 186110
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2000-12-15"
+  "last_updated": "2026-08-23",
+  "release_date": "2000-12-15",
+  "genres": [
+    "Biography",
+    "History"
+  ],
+  "is_adult": false
 }

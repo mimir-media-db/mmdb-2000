@@ -9,7 +9,13 @@
     "imdb": "tt0119185",
     "tmdb": 15993
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2000-11-06",
-  "runtime_minutes": 86
+  "runtime_minutes": 86,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false
 }
