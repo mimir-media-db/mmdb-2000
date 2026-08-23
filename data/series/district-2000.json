@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_district_2000",
+  "title": "The District",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q468257",
+    "imdb": "tt0247087",
+    "tmdb": 396
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 89,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

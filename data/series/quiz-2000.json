@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_quiz_2000",
+  "title": "Quiz",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11240257",
+    "imdb": "tt1321297",
+    "tmdb": 114116
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

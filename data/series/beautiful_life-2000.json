@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_life_2000",
+  "title": "Beautiful Life",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q717890",
+    "imdb": "tt0233307",
+    "tmdb": 21297
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

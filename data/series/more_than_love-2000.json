@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_more_than_love_2000",
+  "title": "More Than Love",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q16162272"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

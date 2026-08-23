@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_street_smarts_2000",
+  "title": "Street Smarts",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7622930",
+    "imdb": "tt0284787"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 19,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

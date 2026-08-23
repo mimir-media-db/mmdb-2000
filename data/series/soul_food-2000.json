@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_soul_food_2000",
+  "title": "Soul Food",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3491613",
+    "imdb": "tt0248655",
+    "tmdb": 2805
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 74,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_i_dare_you_the_ultimate_challenge_2000",
+  "title": "I Dare You: The Ultimate Challenge",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5976759",
+    "imdb": "tt0240269",
+    "tmdb": 12906
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

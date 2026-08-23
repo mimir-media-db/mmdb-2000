@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_block_13_2000",
+  "title": "Block 13",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q12233295",
+    "imdb": "tt9908414",
+    "tmdb": 224747
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 45,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KW",
+    "MY"
+  ]
+}

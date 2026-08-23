@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_drop_the_beat_1999",
+  "title": "Drop the Beat",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5308429",
+    "imdb": "tt0220223",
+    "tmdb": 12941
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

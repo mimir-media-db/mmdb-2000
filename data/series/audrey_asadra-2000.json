@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_audrey_asadra_2000",
+  "title": "Audrey (Asadra)",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q11293366",
+    "imdb": "tt1627015",
+    "tmdb": 207050
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 149,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

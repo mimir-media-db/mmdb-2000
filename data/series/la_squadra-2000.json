@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_squadra_2000",
+  "title": "La squadra",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2817204",
+    "imdb": "tt0211169",
+    "tmdb": 41081
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 221,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

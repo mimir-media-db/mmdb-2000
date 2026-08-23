@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rebus_2000",
+  "title": "Rebus",
+  "start_year": 2000,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3300572",
+    "imdb": "tt0867015",
+    "tmdb": 1165
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 14,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

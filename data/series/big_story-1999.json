@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_big_story_1999",
+  "title": "The Big Story",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q4489106",
+    "imdb": "tt0472241",
+    "tmdb": 3952
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

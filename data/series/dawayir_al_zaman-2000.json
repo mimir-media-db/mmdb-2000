@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dawayir_al_zaman_2000",
+  "title": "Dawayir Al Zaman",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16123098"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

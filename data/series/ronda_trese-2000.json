@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ronda_trese_2000",
+  "title": "Ronda Trese",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7365525"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_english_bag_1999",
+  "title": "The English Bag",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7732223",
+    "imdb": "tt5329628",
+    "tmdb": 58243
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

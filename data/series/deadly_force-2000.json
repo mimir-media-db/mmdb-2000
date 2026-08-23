@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_deadly_force_2000",
+  "title": "Deadly Force",
+  "start_year": 2000,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4468691",
+    "imdb": "tt0271242",
+    "tmdb": 73878
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 57,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

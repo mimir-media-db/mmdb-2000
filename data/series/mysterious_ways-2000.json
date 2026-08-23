@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_mysterious_ways_2000",
+  "title": "Mysterious Ways",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q722086",
+    "imdb": "tt0247119",
+    "tmdb": 2027
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 44,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

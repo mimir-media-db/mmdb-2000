@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_ainsley_harriott_show_2000",
+  "title": "The Ainsley Harriott Show",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q56247964",
+    "imdb": "tt0227870"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

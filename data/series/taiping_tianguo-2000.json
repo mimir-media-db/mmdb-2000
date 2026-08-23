@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_taiping_tianguo_2000",
+  "title": "Taiping Tianguo",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7986204"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 48,
+  "genres": [
+    "historical drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

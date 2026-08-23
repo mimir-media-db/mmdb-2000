@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fear_2000",
+  "title": "Fear",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5439310",
+    "imdb": "tt0221741",
+    "tmdb": 10412
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Game-Show",
+    "Horror",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

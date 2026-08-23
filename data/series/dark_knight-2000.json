@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_knight_2000",
+  "title": "Dark Knight",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q194023",
+    "imdb": "tt0251504",
+    "tmdb": 27708
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

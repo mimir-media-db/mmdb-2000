@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_oobi_1999",
+  "title": "Oobi",
+  "start_year": 1999,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7095230",
+    "imdb": "tt0352085",
+    "tmdb": 12502
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

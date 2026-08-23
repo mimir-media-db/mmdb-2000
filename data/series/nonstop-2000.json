@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_nonstop_2000",
+  "title": "Nonstop",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q492160",
+    "imdb": "tt0477526",
+    "tmdb": 18495
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 51,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

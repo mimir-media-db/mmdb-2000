@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_history_iq_2000",
+  "title": "History IQ",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5774704",
+    "imdb": "tt0264258",
+    "tmdb": 2135
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 110,
+  "genres": [
+    "Family",
+    "Game-Show",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

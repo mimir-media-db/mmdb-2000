@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_travels_traditions_1999",
+  "title": "Travels & Traditions",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7836093",
+    "imdb": "tt0849382",
+    "tmdb": 41340
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 123,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

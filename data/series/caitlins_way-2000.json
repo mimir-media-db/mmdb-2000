@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_caitlins_way_2000",
+  "title": "Caitlin's Way",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2933364",
+    "imdb": "tt0209665",
+    "tmdb": 6655
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 52,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

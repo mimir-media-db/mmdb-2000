@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dinamita_1999",
+  "title": "Dinamita",
+  "start_year": 1999,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11917199",
+    "imdb": "tt0421324"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

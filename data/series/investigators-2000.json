@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_investigators_2000",
+  "title": "The Investigators",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7742421",
+    "imdb": "tt0498402",
+    "tmdb": 38951
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_curtis_court_2000",
+  "title": "Curtis Court",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q5195713",
+    "imdb": "tt0268792"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_milagros_2000",
+  "title": "Milagros",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q913530",
+    "imdb": "tt0287251",
+    "tmdb": 44541
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 220,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

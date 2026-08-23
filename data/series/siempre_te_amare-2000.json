@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_siempre_te_amare_2000",
+  "title": "Siempre te amaré",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q731147",
+    "imdb": "tt0231045"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

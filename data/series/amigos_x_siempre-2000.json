@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_amigos_x_siempre_2000",
+  "title": "Amigos x siempre",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3292788",
+    "imdb": "tt0224827",
+    "tmdb": 12703
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 115,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

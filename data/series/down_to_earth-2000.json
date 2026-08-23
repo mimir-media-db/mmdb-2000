@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_down_to_earth_2000",
+  "title": "Down to Earth",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5303025",
+    "imdb": "tt0260611",
+    "tmdb": 13492
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

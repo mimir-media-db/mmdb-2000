@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_j_after_hours_2000",
+  "title": "A. J. After Hours",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4647878",
+    "imdb": "tt0827791"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_soria_moria_2000",
+  "title": "Soria Moria",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17415623",
+    "imdb": "tt0208638",
+    "tmdb": 25041
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

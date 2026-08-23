@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_miguelito_2000",
+  "title": "Miguelito",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q97585609"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

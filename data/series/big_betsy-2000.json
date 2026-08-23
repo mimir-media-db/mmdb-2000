@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_big_betsy_2000",
+  "title": "Big & Betsy",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4904875",
+    "imdb": "tt0277470"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 78,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

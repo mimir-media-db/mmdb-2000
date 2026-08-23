@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_yamato_nadeshiko_2000",
+  "title": "Yamato Nadeshiko",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q703467",
+    "imdb": "tt0264316",
+    "tmdb": 36327
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

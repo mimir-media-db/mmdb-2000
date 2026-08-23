@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cindy_margolis_show_2000",
+  "title": "The Cindy Margolis Show",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7723049",
+    "imdb": "tt0258341",
+    "tmdb": 13417
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

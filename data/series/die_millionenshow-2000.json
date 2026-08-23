@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_die_millionenshow_2000",
+  "title": "Die Millionenshow",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15518777",
+    "imdb": "tt0262171",
+    "tmdb": 7492
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT"
+  ]
+}

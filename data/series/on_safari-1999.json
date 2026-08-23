@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_on_safari_1999",
+  "title": "On Safari",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q7091121"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

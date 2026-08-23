@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dandelion_2000",
+  "title": "Dandelion",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12596197"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 162,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

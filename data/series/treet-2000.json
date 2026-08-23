@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_treet_2000",
+  "title": "The $treet",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q2072871",
+    "imdb": "tt0247135",
+    "tmdb": 1616
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

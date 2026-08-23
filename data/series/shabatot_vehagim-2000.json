@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_shabatot_vehagim_2000",
+  "title": "Shabatot VeHagim",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12411531",
+    "imdb": "tt0313126",
+    "tmdb": 200927
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 57,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

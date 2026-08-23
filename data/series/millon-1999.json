@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_millon_1999",
+  "title": "A Millón",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q4658276",
+    "imdb": "tt0331161"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

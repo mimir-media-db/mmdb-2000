@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crimewatch_roadshow_2000",
+  "title": "Crimewatch Roadshow",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104841359"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "GB"
+  ]
+}

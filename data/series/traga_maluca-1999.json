@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_traga_maluca_1999",
+  "title": "Traga maluca",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6151490",
+    "imdb": "tt0266198"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 112,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}
