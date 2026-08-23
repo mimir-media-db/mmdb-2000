@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_longitude_2000",
+  "title": "Longitude",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q4164755",
+    "imdb": "tt0192263",
+    "tmdb": 8162
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

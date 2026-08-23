@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pr_1999",
+  "title": "P.R.",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7117066",
+    "imdb": "tt0244356",
+    "tmdb": 14934
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

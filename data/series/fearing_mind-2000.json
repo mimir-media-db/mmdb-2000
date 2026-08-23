@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fearing_mind_2000",
+  "title": "The Fearing Mind",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7733588",
+    "imdb": "tt0251507",
+    "tmdb": 26642
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

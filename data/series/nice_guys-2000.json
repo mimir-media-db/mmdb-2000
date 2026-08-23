@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_nice_guys_2000",
+  "title": "Nice Guys",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20651737"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 255,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

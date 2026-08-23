@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_offroadtv_1999",
+  "title": "Offroad.TV",
+  "start_year": 1999,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q2015972",
+    "imdb": "tt0274692"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

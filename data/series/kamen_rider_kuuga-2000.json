@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_kuuga_2000",
+  "title": "Kamen Rider Kuuga",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q1152075",
+    "imdb": "tt0188340",
+    "tmdb": 239741
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 49,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

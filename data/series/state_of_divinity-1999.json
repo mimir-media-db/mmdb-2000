@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_divinity_1999",
+  "title": "State of Divinity",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7603734",
+    "tmdb": 32047
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "wuxia"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_the_planet_2000",
+  "title": "State of the Planet",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q1160304",
+    "imdb": "tt0303078",
+    "tmdb": 9496
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

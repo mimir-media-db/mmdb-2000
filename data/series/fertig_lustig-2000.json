@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fertig_lustig_2000",
+  "title": "Fertig Lustig",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1408218",
+    "imdb": "tt0316982",
+    "tmdb": 70077
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 51,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CH"
+  ]
+}

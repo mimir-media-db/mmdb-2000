@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bbc_breakfast_2000",
+  "title": "BBC Breakfast",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2876720",
+    "imdb": "tt0262152",
+    "tmdb": 2535
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

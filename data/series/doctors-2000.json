@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_doctors_2000",
+  "title": "Doctors",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1233919",
+    "imdb": "tt0241383",
+    "tmdb": 5080
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 24,
+  "total_episodes": 4389,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

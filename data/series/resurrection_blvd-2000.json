@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_resurrection_blvd_2000",
+  "title": "Resurrection Blvd.",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3933556",
+    "imdb": "tt0249313",
+    "tmdb": 10639
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 53,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_2000",
+  "title": "Big Brother",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q549337",
+    "imdb": "tt0257295",
+    "tmdb": 11366
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 16,
+  "genres": [
+    "Documentary",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

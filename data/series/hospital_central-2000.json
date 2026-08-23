@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital_central_2000",
+  "title": "Hospital Central",
+  "start_year": 2000,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3300622",
+    "imdb": "tt0297174",
+    "tmdb": 12288
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 20,
+  "total_episodes": 300,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

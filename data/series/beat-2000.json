@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_beat_2000",
+  "title": "The Beat",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7716089",
+    "imdb": "tt0231013",
+    "tmdb": 2319
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

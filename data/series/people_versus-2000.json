@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_people_versus_2000",
+  "title": "The People Versus",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1253546",
+    "imdb": "tt0256567"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 120,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

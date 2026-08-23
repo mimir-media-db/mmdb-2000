@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_clarksons_car_years_2000",
+  "title": "Clarkson's Car Years",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q5127618",
+    "imdb": "tt0249284",
+    "tmdb": 7013
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "History",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

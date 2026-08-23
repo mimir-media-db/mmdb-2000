@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_galloping_through_europe_1999",
+  "title": "Galloping through Europe",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138645777"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "UA"
+  ]
+}

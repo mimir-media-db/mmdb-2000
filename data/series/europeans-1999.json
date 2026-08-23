@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_europeans_1999",
+  "title": "The Europeans",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133191909"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CZ"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kim_500_milyar_ister_2000",
+  "title": "Kim 500 Milyar İster?",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16958801",
+    "imdb": "tt7663950",
+    "tmdb": 39726
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

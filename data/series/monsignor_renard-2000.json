@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_monsignor_renard_2000",
+  "title": "Monsignor Renard",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q6902590",
+    "imdb": "tt0234265",
+    "tmdb": 33446
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

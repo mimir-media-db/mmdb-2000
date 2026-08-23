@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vishnu_puran_2000",
+  "title": "Vishnu Puran",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7935976",
+    "imdb": "tt0397214",
+    "tmdb": 112350
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 125,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

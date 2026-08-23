@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tim_mccarver_show_1999",
+  "title": "The Tim McCarver Show",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7769285",
+    "imdb": "tt1103025",
+    "tmdb": 22069
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

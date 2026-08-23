@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_ichigen_no_koto_2000",
+  "title": "Ichigen no Koto",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q105598778"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

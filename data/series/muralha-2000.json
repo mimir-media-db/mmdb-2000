@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_muralha_2000",
+  "title": "A Muralha",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q3284390",
+    "imdb": "tt0231034",
+    "tmdb": 41057
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_empire_under_attack_2000",
+  "title": "Empire under Attack",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q4200385",
+    "imdb": "tt0465819",
+    "tmdb": 76222
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Crime",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

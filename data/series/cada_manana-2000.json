@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_cada_manana_2000",
+  "title": "Cada mañana",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98609814"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "magazine format program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

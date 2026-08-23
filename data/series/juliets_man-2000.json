@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_juliets_man_2000",
+  "title": "Juliet's Man",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16189604",
+    "tmdb": 129656
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "drama",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

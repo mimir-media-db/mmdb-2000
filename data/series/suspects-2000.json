@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_suspects_2000",
+  "title": "Suspects",
+  "start_year": 2000,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1971447",
+    "imdb": "tt0300857"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

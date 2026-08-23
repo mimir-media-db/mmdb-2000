@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_legendary_swordsman_2000",
+  "title": "The Legendary Swordsman",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q7746872",
+    "imdb": "tt0317034",
+    "tmdb": 32033
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SG"
+  ]
+}

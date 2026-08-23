@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_blinkers_off_1999",
+  "title": "Blinkers Off",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q4926767",
+    "imdb": "tt0949787"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pertsa_ja_kilu_1999",
+  "title": "Pertsa ja Kilu",
+  "start_year": 1999,
+  "end_year": 1999,
+  "external_ids": {
+    "wikidata": "Q11887495",
+    "imdb": "tt0271925",
+    "tmdb": 295200
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

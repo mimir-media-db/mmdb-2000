@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_george_shrinks_2000",
+  "title": "George Shrinks",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2525030",
+    "imdb": "tt0364811",
+    "tmdb": 11127
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 119,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hero_to_zero_2000",
+  "title": "Hero to Zero",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5742845",
+    "imdb": "tt0320866",
+    "tmdb": 7491
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

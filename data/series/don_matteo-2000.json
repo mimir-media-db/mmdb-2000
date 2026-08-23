@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_don_matteo_2000",
+  "title": "Don Matteo",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1239303",
+    "imdb": "tt0178132",
+    "tmdb": 21220
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 15,
+  "total_episodes": 285,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_big_impression_2000",
+  "title": "The Big Impression",
+  "start_year": 2000,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7717682",
+    "imdb": "tt0211948",
+    "tmdb": 2662
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 25,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ellas_inocentes_o_culpables_2000",
+  "title": "Ellas, inocentes o culpables",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q16941729",
+    "imdb": "tt0224868",
+    "tmdb": 314937
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 170,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

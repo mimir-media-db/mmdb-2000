@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_trigger_happy_tv_2000",
+  "title": "Trigger Happy TV",
+  "start_year": 2000,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1300465",
+    "imdb": "tt0246395",
+    "tmdb": 11415
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 17,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_these_arms_of_mine_1999",
+  "title": "These Arms of Mine",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7783354",
+    "imdb": "tt0207929",
+    "tmdb": 12904
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_opgelicht_1999",
+  "title": "Opgelicht?!",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2085397"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_and_sour_2000",
+  "title": "Sweet and Sour",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7655607"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 17,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

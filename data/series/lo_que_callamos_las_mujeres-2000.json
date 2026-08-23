@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lo_que_callamos_las_mujeres_2000",
+  "title": "Lo que callamos las mujeres",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6663229",
+    "imdb": "tt0283755",
+    "tmdb": 47037
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

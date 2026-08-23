@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_usa_2000",
+  "title": "MasterChef USA",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q6784970"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

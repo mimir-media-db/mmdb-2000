@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ghar_ek_mandir_2000",
+  "title": "Ghar Ek Mandir",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q16840001",
+    "imdb": "tt3890300",
+    "tmdb": 92587
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 360,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

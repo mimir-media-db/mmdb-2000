@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jailbreak_2000",
+  "title": "Jailbreak",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q16850870",
+    "imdb": "tt0259780",
+    "tmdb": 5231
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

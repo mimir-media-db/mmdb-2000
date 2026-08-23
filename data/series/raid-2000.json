@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_raid_2000",
+  "title": "Raid",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q11889740",
+    "imdb": "tt0229924",
+    "tmdb": 69818
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

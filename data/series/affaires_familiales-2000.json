@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_affaires_familiales_2000",
+  "title": "Affaires familiales",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q30753722",
+    "imdb": "tt0255719"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

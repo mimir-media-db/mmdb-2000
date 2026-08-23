@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_goo_choco_lantan_2000",
+  "title": "Goo Choco Lantan",
+  "start_year": 2000,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q11265778"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

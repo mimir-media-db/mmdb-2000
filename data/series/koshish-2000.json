@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_koshish_2000",
+  "title": "Koshish",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6433143"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 117,
+  "countries": [
+    "IN"
+  ]
+}

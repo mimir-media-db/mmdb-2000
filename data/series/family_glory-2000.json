@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_family_glory_2000",
+  "title": "Family Glory",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12582347"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

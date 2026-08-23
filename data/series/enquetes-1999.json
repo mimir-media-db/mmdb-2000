@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_enquetes_1999",
+  "title": "Enquêtes",
+  "start_year": 1999,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135068731"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "BE"
+  ]
+}

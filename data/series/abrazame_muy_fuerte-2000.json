@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_abrazame_muy_fuerte_2000",
+  "title": "Abrázame Muy Fuerte",
+  "start_year": 2000,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q64003",
+    "imdb": "tt0233092",
+    "tmdb": 15277
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 135,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_gharwali_uparwali_1999",
+  "title": "Gharwali Uparwali",
+  "start_year": 1999,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q55612614",
+    "imdb": "tt8586836"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

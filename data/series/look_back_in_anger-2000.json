@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_look_back_in_anger_2000",
+  "title": "Look Back in Anger",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q6674998",
+    "tmdb": 59665
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "countries": [
+    "KR"
+  ]
+}

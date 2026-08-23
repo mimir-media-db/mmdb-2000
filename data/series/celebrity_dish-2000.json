@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_dish_2000",
+  "title": "Celebrity Dish",
+  "start_year": 2000,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5057721",
+    "imdb": "tt0314990",
+    "tmdb": 10806
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

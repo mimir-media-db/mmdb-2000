@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gladpack_2000",
+  "title": "GladPack",
+  "start_year": 2000,
+  "end_year": 2000,
+  "external_ids": {
+    "wikidata": "Q10505212",
+    "imdb": "tt0255194",
+    "tmdb": 38783
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

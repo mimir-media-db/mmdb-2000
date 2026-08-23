@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kokkinos_kyklos_2000",
+  "title": "Kokkinos Kyklos",
+  "start_year": 2000,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q25535942",
+    "imdb": "tt0322985",
+    "tmdb": 51275
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 50,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}
